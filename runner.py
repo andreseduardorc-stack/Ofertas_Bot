@@ -375,10 +375,15 @@ def ejecutar_comparacion(con, fuente, notificador, config, desde: str) -> int:
 
 def construir_notificador(config):
     if config["alertas"].get("canal", "archivo") == "telegram":
-        return NotificadorTelegram(
-            token=os.environ.get("TELEGRAM_BOT_TOKEN", ""),
-            chat_id=os.environ.get("TELEGRAM_CHAT_ID", ""),
-        )
+        token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+        chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+        if not token or not chat_id:
+            registro.warning(
+                "Faltan TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID en las variables de entorno/secrets. "
+                "Se usará NotificadorArchivo para no interrumpir el rastreo ni la web."
+            )
+            return NotificadorArchivo(RAIZ / config["alertas"].get("ruta_archivo", "logs/alertas.jsonl"))
+        return NotificadorTelegram(token=token, chat_id=chat_id)
     return NotificadorArchivo(RAIZ / config["alertas"]["ruta_archivo"])
 
 
