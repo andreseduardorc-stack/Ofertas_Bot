@@ -5,6 +5,9 @@ on:
     # Se ejecuta cada 15 minutos en GitHub Actions
     - cron: '*/15 * * * *'
   workflow_dispatch: # Permite ejecutar manualmente con un clic en la pestaña Actions
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
