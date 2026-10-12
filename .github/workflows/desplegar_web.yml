@@ -1,0 +1,38 @@
+name: Desplegar Web Inmediata a GitHub Pages
+
+on:
+  workflow_dispatch: # Botón manual para desplegar en 15 segundos
+  push:
+    branches:
+      - main
+    paths:
+      - 'web/**'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages-deploy'
+  cancel-in-progress: true
+
+jobs:
+  despliegue_inmediato:
+    name: Publicar Sitio Web
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Subir carpeta web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'web/'
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
