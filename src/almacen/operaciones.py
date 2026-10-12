@@ -12,33 +12,57 @@ def alta_o_actualiza_producto(con: sqlite3.Connection, captura: Captura) -> int:
     La identidad del producto es el par (tienda, sku_externo). El título y la
     imagen se refrescan en cada pasada porque las tiendas los cambian.
     """
-    con.execute(
-        """
-        INSERT INTO productos (tienda, sku_externo, titulo, url, imagen_url, ean,
-                               producto_solotodo, ultima_revision)
-             VALUES (:tienda, :sku, :titulo, :url, :imagen, :ean,
-                     :producto_solotodo, datetime('now'))
-        ON CONFLICT (tienda, sku_externo) DO UPDATE SET
-                titulo            = excluded.titulo,
-                imagen_url        = COALESCE(excluded.imagen_url, productos.imagen_url),
-                ean               = COALESCE(excluded.ean, productos.ean),
-                producto_solotodo = COALESCE(excluded.producto_solotodo,
-                                             productos.producto_solotodo),
-                ultima_revision   = datetime('now')
-        """,
-        {
-            "tienda": captura.tienda,
-            "sku": captura.sku_externo,
-            "titulo": captura.titulo,
-            "url": captura.url,
-            "imagen": captura.imagen_url,
-            "ean": captura.ean,
-            "producto_solotodo": captura.producto_solotodo,
-        },
-    )
+    try:
+        con.execute(
+            """
+            INSERT INTO productos (tienda, sku_externo, titulo, url, imagen_url, ean,
+                                   producto_solotodo, ultima_revision)
+                 VALUES (:tienda, :sku, :titulo, :url, :imagen, :ean,
+                         :producto_solotodo, datetime('now'))
+            ON CONFLICT (tienda, sku_externo) DO UPDATE SET
+                    titulo            = excluded.titulo,
+                    imagen_url        = COALESCE(excluded.imagen_url, productos.imagen_url),
+                    ean               = COALESCE(excluded.ean, productos.ean),
+                    producto_solotodo = COALESCE(excluded.producto_solotodo,
+                                                 productos.producto_solotodo),
+                    ultima_revision   = datetime('now')
+            """,
+            {
+                "tienda": captura.tienda,
+                "sku": captura.sku_externo,
+                "titulo": captura.titulo,
+                "url": captura.url,
+                "imagen": captura.imagen_url,
+                "ean": captura.ean,
+                "producto_solotodo": captura.producto_solotodo,
+            },
+        )
+    except sqlite3.IntegrityError:
+        con.execute(
+            """
+            UPDATE productos
+               SET tienda            = :tienda,
+                   sku_externo       = :sku,
+                   titulo            = :titulo,
+                   imagen_url        = COALESCE(:imagen, imagen_url),
+                   ean               = COALESCE(:ean, ean),
+                   producto_solotodo = COALESCE(:producto_solotodo, producto_solotodo),
+                   ultima_revision   = datetime('now')
+             WHERE url = :url
+            """,
+            {
+                "tienda": captura.tienda,
+                "sku": captura.sku_externo,
+                "titulo": captura.titulo,
+                "url": captura.url,
+                "imagen": captura.imagen_url,
+                "ean": captura.ean,
+                "producto_solotodo": captura.producto_solotodo,
+            },
+        )
     fila = con.execute(
-        "SELECT id FROM productos WHERE tienda = ? AND sku_externo = ?",
-        (captura.tienda, captura.sku_externo),
+        "SELECT id FROM productos WHERE (tienda = ? AND sku_externo = ?) OR url = ?",
+        (captura.tienda, captura.sku_externo, captura.url),
     ).fetchone()
     return fila["id"]
 

@@ -1,153 +1,312 @@
+# Lista de deseos y búsquedas automáticas
+# ==============================================================================
+# Regla estándar: cualquier oferta de cualquier tipo siempre que el precio baje
+# según los estándares del proyecto (caída de al menos 20% respecto a su histórico
+# o ahorro significativo).
+# ==============================================================================
+
 vigilados:
   - nombre: Home Panel Mónaco TV 55
     tienda: paris
     url: https://www.paris.cl/home-panel-monaco-tv-55-1-6-castano-off-white-MK2GCAHDUR.html
     reglas:
-      precio_maximo: 200000
-      descuento_minimo_pct: 15
-      permitir_precio_tarjeta: false
+      descuento_minimo_pct: 20
 
 busquedas:
-  - termino: notebook 16gb
-    tienda: paris
-    reglas:
-      precio_maximo: 400000
-
-  # «notebook 16gb» devolvía casi solo reacondicionados de marketplace, cuyas
-  # fichas no se pueden confirmar: su `sellerSkuId` es el código interno del
-  # vendedor (`t14`), no un número de Falabella, así que el anclaje nunca casa.
-  # «notebook» saca producto de la propia tienda, que sí confirma.
+  # ============================================================================
+  # Búsquedas directas en Falabella (Retail Directo)
+  # ============================================================================
   - termino: notebook
     tienda: falabella
     reglas:
-      precio_maximo: 700000
-      permitir_precio_tarjeta: false
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
 
-  # --- Rastreo amplio por categorías de SoloTodo ---
-  #
-  # Una petición por categoría trae hasta 100 productos CON su precio, así que
-  # vigilar 18 categorías cuesta 18 peticiones: menos que una sola búsqueda en
-  # Paris, donde cada ficha se paga aparte.
-  #
-  # La regla es `descuento_minimo_pct` y no `precio_maximo` a propósito. Un
-  # techo de precio no significa nada cuando mezclas refrigeradores con
-  # perfumes: lo que vale para uno es absurdo para el otro. El descuento sí es
-  # comparable entre categorías.
-  #
-  # CONSECUENCIA QUE HAY QUE SABER: el descuento se mide contra el mínimo
-  # histórico REAL, no contra el precio tachado de la tienda. Un producto
-  # descubierto hoy no tiene histórico, así que no puede alertar hasta pasados
-  # `dias_minimos_para_descuento` días (hoy 7). Es el precio de no creerse los
-  # «antes» inventados. Las primeras pasadas son silenciosas y eso es correcto.
-  #
-  # La palabra clave NO se usa aquí: `search=notebook` devuelve 8.167 entidades
-  # y las primeras son discos, ratones e impresoras. La categoría sí filtra, y
-  # una categoría inexistente devuelve 400, así que una errata falla ruidosa.
+  - termino: celular
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2000000
 
-  - tienda: solotodo          # Notebooks
-    fuente: solotodo
-    categoria: 1
+  - termino: smart tv
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
+
+  - termino: consola
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 1500000
+
+  - termino: refrigerador
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
+
+  - termino: lavadora
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 1500000
+
+  - termino: audifonos
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 500000
+
+  # ============================================================================
+  # Búsquedas directas en Paris (Retail Directo)
+  # ============================================================================
+  - termino: notebook
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
+
+  - termino: celular
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2000000
+
+  - termino: smart tv
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
+
+  - termino: consola
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 1500000
+
+  - termino: refrigerador
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 2500000
+
+  - termino: audifonos
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 500000
+
+  # ============================================================================
+  # Catálogo Multitienda Ampliado vía SoloTodo (Cubre cientos de tiendas chilenas)
+  # Cada categoría consulta hasta 100 productos con precios etiquetados.
+  # Regla estándar: descuento mínimo del 20% sobre mínimo histórico real.
+  # ============================================================================
+
+  # --- Computación e Informática ---
+  - tienda: solotodo
+    categoria: 1      # Notebooks
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Celulares
-    fuente: solotodo
-    categoria: 6
+  - tienda: solotodo
+    categoria: 4      # Monitores
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Televisores
-    fuente: solotodo
-    categoria: 11
+  - tienda: solotodo
+    categoria: 14     # Tablets
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Monitores
-    fuente: solotodo
-    categoria: 4
+  - tienda: solotodo
+    categoria: 37     # All-in-One
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Tablets
-    fuente: solotodo
-    categoria: 14
+  - tienda: solotodo
+    categoria: 16     # Impresoras
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Wearables
-    fuente: solotodo
-    categoria: 48
+  # --- Componentes PC y Gaming ---
+  - tienda: solotodo
+    categoria: 2      # Tarjetas de video
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Audifonos y Headsets
-    fuente: solotodo
-    categoria: 50
+  - tienda: solotodo
+    categoria: 3      # Procesadores
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Consolas
-    fuente: solotodo
-    categoria: 33
+  - tienda: solotodo
+    categoria: 39     # Unidades de Estado Sólido (SSD)
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Impresoras
-    fuente: solotodo
-    categoria: 16
+  - tienda: solotodo
+    categoria: 7      # Memorias RAM
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Refrigeradores
-    fuente: solotodo
-    categoria: 15
+  - tienda: solotodo
+    categoria: 9      # Fuentes de poder
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Lavadoras y Secadoras
-    fuente: solotodo
-    categoria: 19
+  - tienda: solotodo
+    categoria: 10     # Gabinetes
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Hornos y Microondas
-    fuente: solotodo
-    categoria: 17
+  - tienda: solotodo
+    categoria: 40     # Mouse
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Aire Acondicionado Split
-    fuente: solotodo
-    categoria: 43
+  - tienda: solotodo
+    categoria: 41     # Teclados
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Aspiradoras
-    fuente: solotodo
-    categoria: 18
+  - tienda: solotodo
+    categoria: 54     # Sillas Gamer
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Air fryers
-    fuente: solotodo
-    categoria: 256
+  # --- Telefonía y Wearables ---
+  - tienda: solotodo
+    categoria: 6      # Celulares y Smartphones
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Cafeteras
-    fuente: solotodo
-    categoria: 219
+  - tienda: solotodo
+    categoria: 48     # Wearables y Smartwatches
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Licuadoras
-    fuente: solotodo
-    categoria: 285
+  # --- TV, Audio y Video ---
+  - tienda: solotodo
+    categoria: 11     # Televisores
     reglas:
       descuento_minimo_pct: 20
 
-  - tienda: solotodo          # Perfumes, Colonias y Fragancias
-    fuente: solotodo
-    categoria: 780
+  - tienda: solotodo
+    categoria: 50     # Audífonos y Headsets
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 25     # Equipos de Audio y Parlantes
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 33     # Consolas de Videojuegos
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 31     # Proyectores
+    reglas:
+      descuento_minimo_pct: 20
+
+  # --- Línea Blanca y Gran Electro ---
+  - tienda: solotodo
+    categoria: 15     # Refrigeradores
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 19     # Lavadoras y Secadoras
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 17     # Hornos y Microondas
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 45     # Cocinas y encimeras
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 49     # Lavavajillas
+    reglas:
+      descuento_minimo_pct: 20
+
+  # --- Pequeño Electrodoméstico y Cocina ---
+  - tienda: solotodo
+    categoria: 18     # Aspiradoras y Robots
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 256    # Air fryers (Freidoras de aire)
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 219    # Cafeteras
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 285    # Licuadoras
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 253    # Ollas eléctricas
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 319    # Parrillas eléctricas
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 352    # Robots de cocina
+    reglas:
+      descuento_minimo_pct: 20
+
+  # --- Climatización ---
+  - tienda: solotodo
+    categoria: 43     # Aire Acondicionado Split
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 417    # Aire Acondicionado Portátil
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 47     # Estufas y Calefacción
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 87     # Ventiladores
+    reglas:
+      descuento_minimo_pct: 20
+
+  # --- Belleza, Cuidado Personal y Seguridad ---
+  - tienda: solotodo
+    categoria: 516    # Cuidado del cabello (Secadores, Alisadores)
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 780    # Perfumes y Fragancias
+    reglas:
+      descuento_minimo_pct: 20
+
+  - tienda: solotodo
+    categoria: 615    # Cámaras de seguridad / IP
     reglas:
       descuento_minimo_pct: 20
