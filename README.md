@@ -77,3 +77,4 @@ ciclo sigue con las demás.
 El diseño está en `docs/specs/` y el plan en `docs/plans/`.
 # ofertas_tracker
 # ofertas_tracker
+# Ofertas_Bot
