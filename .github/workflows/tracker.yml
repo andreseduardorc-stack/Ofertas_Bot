@@ -1,0 +1,79 @@
+name: Rastreador de Ofertas & Despliegue Web (Cada 15 min)
+
+on:
+  schedule:
+    # Se ejecuta cada 15 minutos en GitHub Actions
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Permite ejecutar manualmente con un clic en la pestaña Actions
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'tracker-ejecucion'
+  cancel-in-progress: false
+
+jobs:
+  ciclo_y_despliegue:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Restaurar base de datos histórica (SQLite)
+        uses: actions/cache@v4
+        with:
+          path: data/tracker.db
+          key: tracker-db-${{ github.run_id }}
+          restore-keys: |
+            tracker-db-
+
+      - name: Ejecutar ciclo del rastreador
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          mkdir -p data logs web/data
+          python runner.py
+
+      - name: Asegurar exportación de catálogo para la web
+        run: python herramientas/exportar_web.py
+
+      - name: Guardar catálogo web actualizado en el repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/ofertas.json
+          git commit -m "Auto-actualización de ofertas cada 15 min [skip ci]" || echo "Sin cambios para commitear"
+          git push || echo "Push no requerido o sin cambios"
+
+      # Despliegue a GitHub Pages (Web en vivo gratis)
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+        continue-on-error: true
+
+      - name: Subir artefacto para Pages
+        uses: actions/upload-pages-artifact@v3
+        continue-on-error: true
+        with:
+          path: 'web/'
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true

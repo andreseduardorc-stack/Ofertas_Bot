@@ -425,6 +425,14 @@ def main() -> int:
         con, fuentes["solotodo"], notificador, config, inicio
     )
     registro.info("comparación terminada: %s avisos de mejor precio", comparadas)
+
+    try:
+        from herramientas.exportar_web import exportar_ofertas
+        exportar_ofertas(RAIZ / "data" / "tracker.db", RAIZ / "web" / "data" / "ofertas.json")
+        registro.info("datos web exportados a web/data/ofertas.json")
+    except Exception as error:
+        registro.warning("no se pudo exportar datos para la web: %s", error)
+
     return 0
 
 

@@ -2,8 +2,8 @@
 .env
 
 # Base de datos, logs y reportes generados.
-data/
-logs/
+/data/
+/logs/
 *.db
 *.db-wal
 *.db-shm

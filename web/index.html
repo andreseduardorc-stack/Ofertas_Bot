@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rastreador de Ofertas Retail Chile — En Vivo</title>
+  <meta name="description" content="Vigilante en vivo de ofertas y variaciones de precio en Falabella, Paris, SoloTodo y retail chileno. Actualizado automáticamente cada 15 minutos.">
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%20%22100%22%20%22100%22><text y=%22.9em%22 font-size=%2290%22>🏷️</text></svg>">
+</head>
+<body>
+  <!-- Header Principal -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-group">
+        <div class="radar-logo" aria-hidden="true">
+          <div class="radar-beam"></div>
+          <span class="radar-dot"></span>
+        </div>
+        <div>
+          <h1 class="brand-title">OFERTAS <span>TRACKER</span></h1>
+          <p class="brand-subtitle">Retail Chileno & SoloTodo en Tiempo Real</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Badge de Sincronización en Vivo -->
+        <div class="sync-badge" id="syncStatus">
+          <span class="live-dot"></span>
+          <span class="sync-text">Próximo escaneo en <strong id="countdown">15:00</strong></span>
+        </div>
+
+        <!-- Botón de Refresco Manual -->
+        <button id="btnRefresh" class="btn-refresh" title="Forzar recarga de ofertas ahora" aria-label="Actualizar ofertas">
+          <svg class="refresh-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+          </svg>
+          <span>Actualizar</span>
+        </button>
+
+        <!-- Botón a Telegram -->
+        <a href="https://t.me/" target="_blank" rel="noopener noreferrer" class="btn-telegram" title="Recibir alertas en Telegram" id="btnTelegram">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24-.04.47z"/>
+          </svg>
+          <span class="tg-label">Telegram Activo</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <!-- Panel de Métricas / Estadísticas Rápidas -->
+    <section class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-icon metric-icon-green">🏷️</div>
+        <div class="metric-data">
+          <span class="metric-value" id="statTotalOfertas">—</span>
+          <span class="metric-label">Ofertas Activas</span>
+        </div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-icon metric-icon-amber">🔥</div>
+        <div class="metric-data">
+          <span class="metric-value" id="statMaxDescuento">—%</span>
+          <span class="metric-label">Mayor Descuento</span>
+        </div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-icon metric-icon-blue">🏬</div>
+        <div class="metric-data">
+          <span class="metric-value" id="statTiendas">—</span>
+          <span class="metric-label">Tiendas Monitoreadas</span>
+        </div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-icon metric-icon-purple">🔔</div>
+        <div class="metric-data">
+          <span class="metric-value" id="statAlertasTelegram">—</span>
+          <span class="metric-label">Alertas Enviadas</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Barra de Filtros y Búsqueda -->
+    <section class="toolbar-section">
+      <div class="search-box">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="searchInput" placeholder="Buscar por producto, marca o modelo (ej. Notebook, Ryzen, TV)..." autocomplete="off">
+        <button id="btnClearSearch" class="btn-clear hidden" title="Limpiar búsqueda">&times;</button>
+      </div>
+
+      <div class="filters-row">
+        <!-- Filtro Tienda -->
+        <div class="filter-group">
+          <label for="storeFilter">Tienda:</label>
+          <select id="storeFilter">
+            <option value="all">Todas las tiendas</option>
+          </select>
+        </div>
+
+        <!-- Filtro Regla / Alerta -->
+        <div class="filter-group">
+          <label for="ruleFilter">Tipo de oferta:</label>
+          <select id="ruleFilter">
+            <option value="all">Todos los tipos</option>
+            <option value="con_alerta">🔔 Con alerta confirmada</option>
+            <option value="Bajo Precio Máximo">Bajo Precio Máximo</option>
+            <option value="Mejor Precio Retail">Mejor Precio Retail</option>
+            <option value="Mínimo Histórico">Mínimo Histórico</option>
+            <option value="Descuento Histórico">Descuento Histórico</option>
+          </select>
+        </div>
+
+        <!-- Filtro Descuento Mínimo -->
+        <div class="filter-group">
+          <label for="discountFilter">Descuento mín.:</label>
+          <select id="discountFilter">
+            <option value="0">Cualquiera</option>
+            <option value="15">Al menos 15%</option>
+            <option value="25">Al menos 25%</option>
+            <option value="35">Al menos 35%</option>
+            <option value="50">Al menos 50%</option>
+          </select>
+        </div>
+
+        <!-- Ordenamiento -->
+        <div class="filter-group">
+          <label for="sortOrder">Ordenar:</label>
+          <select id="sortOrder">
+            <option value="discount_desc">Mayor descuento %</option>
+            <option value="savings_desc">Mayor ahorro en $</option>
+            <option value="price_asc">Menor precio</option>
+            <option value="recent">Más recientes</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="toolbar-meta">
+        <span id="resultsCount">Cargando catálogo...</span>
+        <span class="last-sync" id="lastSyncTime">Última actualización: —</span>
+      </div>
+    </section>
+
+    <!-- Cuadrícula Principal de Ofertas: 6 Pantalla Completa | 4 Media Pantalla | 2 Teléfono -->
+    <section class="grid-section">
+      <div id="offersGrid" class="offers-grid" aria-live="polite">
+        <!-- Las tarjetas se generan dinámicamente con JavaScript -->
+      </div>
+
+      <!-- Estado vacío si los filtros no coinciden -->
+      <div id="emptyState" class="empty-state hidden">
+        <div class="empty-icon">🔍</div>
+        <h3>No se encontraron ofertas con estos filtros</h3>
+        <p>Prueba ajustando el término de búsqueda o bajando el filtro de descuento mínimo.</p>
+        <button id="btnResetFilters" class="btn-reset">Restablecer filtros</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>Rastreador de Ofertas Retail Chileno &bull; Sincronización automática periódica cada 15 minutos</p>
+      <p class="footer-links">
+        <span>Fuentes activas: Paris &bull; Falabella &bull; SoloTodo (Catálogo Multitienda)</span>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
