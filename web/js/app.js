@@ -1,9 +1,9 @@
 /**
  * OFERTAS TRACKER — APLICACIÓN WEB
- * Refresco automático cada 15 minutos, filtros reactivos y renderizado en cuadrícula.
+ * Refresco automático cada 1 hora, filtros reactivos y renderizado en cuadrícula.
  */
 
-const REFRESH_INTERVAL_SECONDS = 15 * 60; // 15 minutos (900s)
+const REFRESH_INTERVAL_SECONDS = 60 * 60; // 1 hora (3600s)
 let segundosRestantes = REFRESH_INTERVAL_SECONDS;
 let temporizadorInterval = null;
 
@@ -98,7 +98,7 @@ async function cargarOfertas(esManual = false) {
     if (btnRefresh) {
       setTimeout(() => btnRefresh.classList.remove('spinning'), 500);
     }
-    // Reiniciar cuenta regresiva a 15 minutos
+    // Reiniciar cuenta regresiva a 1 hora
     segundosRestantes = REFRESH_INTERVAL_SECONDS;
   }
 }
@@ -294,7 +294,7 @@ function renderizar() {
 }
 
 /**
- * Temporizador regresivo cada 15 minutos
+ * Temporizador regresivo cada 1 hora
  */
 function iniciarTemporizador() {
   if (temporizadorInterval) clearInterval(temporizadorInterval);
