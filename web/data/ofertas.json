@@ -1,7 +1,83 @@
 {
-  "actualizado_el": "2026-10-16T08:41:30.717916",
+  "actualizado_el": "2026-10-16T09:43:50.270275",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 851,
+      "tienda": "hites",
+      "titulo": "Frigobar Libero LFB-90R Retro / Frío Directo / 90 Litros / A+",
+      "url": "https://www.hites.com/frigobar-libero-lfb-90r-retro-frio-directo-90-litros-a-790925001.html",
+      "imagen_url": "",
+      "precio_internet": 199990,
+      "precio_normal": 199990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-16 09:43:21",
+      "ultima_revision": "2026-10-16 09:39:49"
+    },
+    {
+      "id": 1757,
+      "tienda": "falabella",
+      "titulo": "Refrigerador 248L Frío Directo Bottom Freezer MED250 Silver",
+      "url": "https://www.falabella.com/falabella-cl/product/145637331/Refrigerador-248L-Frio-Directo-Bottom-Freezer-MED250-Silver",
+      "imagen_url": "https://media.falabella.com/falabellaCL/145637332_01/public",
+      "precio_internet": 279990,
+      "precio_normal": 369990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 369990,
+      "descuento_pct": 24,
+      "ahorro_pesos": 90000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-16 09:33:16",
+      "ultima_revision": "2026-10-16 09:33:15"
+    },
+    {
+      "id": 1756,
+      "tienda": "falabella",
+      "titulo": "Refrigerador Top Freezer LG 509 Litros con Motor Smart Inverter Compressor GT51SGD",
+      "url": "https://www.falabella.com/falabella-cl/product/151021781/refrigerador-top-freezer-509l-con-thinq",
+      "imagen_url": "https://media.falabella.com/falabellaCL/151021782_01/public",
+      "precio_internet": 649990,
+      "precio_normal": 1090990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 1090990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 441000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-16 09:33:11",
+      "ultima_revision": "2026-10-16 09:33:11"
+    },
+    {
+      "id": 1755,
+      "tienda": "falabella",
+      "titulo": "Refrigerador Bottom Freezer 306L DoorCooling+ LB33MPP",
+      "url": "https://www.falabella.com/falabella-cl/product/151021775/refrigerador-bottom-freezer-306l-doorcooling",
+      "imagen_url": "https://media.falabella.com/falabellaCL/151021776_01/public",
+      "precio_internet": 419990,
+      "precio_normal": 539990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 539990,
+      "descuento_pct": 22,
+      "ahorro_pesos": 120000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-16 09:31:44",
+      "ultima_revision": "2026-10-16 09:31:43"
+    },
     {
       "id": 1754,
       "tienda": "falabella",
@@ -38,7 +114,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-16 07:29:39",
-      "ultima_revision": "2026-10-16 07:29:39"
+      "ultima_revision": "2026-10-16 09:24:39"
     },
     {
       "id": 1750,
@@ -133,7 +209,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-16 03:25:46",
-      "ultima_revision": "2026-10-16 07:33:51"
+      "ultima_revision": "2026-10-16 09:27:15"
     },
     {
       "id": 1741,
@@ -171,7 +247,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-16 03:21:48",
-      "ultima_revision": "2026-10-16 08:23:55"
+      "ultima_revision": "2026-10-16 09:24:52"
     },
     {
       "id": 1740,
@@ -285,7 +361,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 23:28:04",
-      "ultima_revision": "2026-10-16 08:35:18"
+      "ultima_revision": "2026-10-16 09:36:33"
     },
     {
       "id": 412,
@@ -304,7 +380,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 21:42:52",
-      "ultima_revision": "2026-10-16 08:37:18"
+      "ultima_revision": "2026-10-16 09:38:36"
     },
     {
       "id": 1734,
@@ -361,7 +437,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 19:44:16",
-      "ultima_revision": "2026-10-16 08:26:11"
+      "ultima_revision": "2026-10-16 09:27:01"
     },
     {
       "id": 1729,
@@ -380,7 +456,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 19:33:01",
-      "ultima_revision": "2026-10-16 08:29:30"
+      "ultima_revision": "2026-10-16 09:30:21"
     },
     {
       "id": 1721,
@@ -456,7 +532,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 17:41:46",
-      "ultima_revision": "2026-10-16 08:25:59"
+      "ultima_revision": "2026-10-16 09:26:47"
     },
     {
       "id": 1725,
@@ -475,7 +551,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 17:35:54",
-      "ultima_revision": "2026-10-16 08:32:58"
+      "ultima_revision": "2026-10-16 09:34:03"
     },
     {
       "id": 1724,
@@ -532,7 +608,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 17:34:02",
-      "ultima_revision": "2026-10-16 08:34:24"
+      "ultima_revision": "2026-10-16 09:35:28"
     },
     {
       "id": 1720,
@@ -627,7 +703,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 16:32:35",
-      "ultima_revision": "2026-10-16 08:31:51"
+      "ultima_revision": "2026-10-16 09:32:48"
     },
     {
       "id": 81,
@@ -646,7 +722,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 16:28:29",
-      "ultima_revision": "2026-10-16 08:28:06"
+      "ultima_revision": "2026-10-16 09:28:55"
     },
     {
       "id": 1715,
@@ -703,7 +779,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 14:44:16",
-      "ultima_revision": "2026-10-16 08:35:38"
+      "ultima_revision": "2026-10-16 09:36:54"
     },
     {
       "id": 1708,
@@ -741,7 +817,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 12:43:13",
-      "ultima_revision": "2026-10-16 08:31:05"
+      "ultima_revision": "2026-10-16 09:32:01"
     },
     {
       "id": 1703,
@@ -779,14 +855,14 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 11:41:43",
-      "ultima_revision": "2026-10-16 08:27:26"
+      "ultima_revision": "2026-10-16 09:28:12"
     },
     {
       "id": 54,
       "tienda": "falabella",
       "titulo": "Celular Motorola Edge 70 Fusion 256GB",
       "url": "https://www.falabella.com/falabella-cl/product/17714325/celular-motorola-edge-70-fusion-256gb",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17714325_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17714324_1/public",
       "precio_internet": 399990,
       "precio_normal": 549990,
       "precio_tarjeta": 379990,
@@ -798,7 +874,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 11:40:45",
-      "ultima_revision": "2026-10-16 08:25:31"
+      "ultima_revision": "2026-10-16 09:26:20"
     },
     {
       "id": 51,
@@ -817,7 +893,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 11:40:30",
-      "ultima_revision": "2026-10-16 08:25:36"
+      "ultima_revision": "2026-10-16 09:26:30"
     },
     {
       "id": 1702,
@@ -836,7 +912,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 11:27:35",
-      "ultima_revision": "2026-10-16 08:28:02"
+      "ultima_revision": "2026-10-16 09:28:50"
     },
     {
       "id": 1701,
@@ -874,7 +950,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 10:42:56",
-      "ultima_revision": "2026-10-16 08:24:42"
+      "ultima_revision": "2026-10-16 09:25:34"
     },
     {
       "id": 39,
@@ -893,7 +969,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 10:42:43",
-      "ultima_revision": "2026-10-16 08:25:03"
+      "ultima_revision": "2026-10-16 09:25:54"
     },
     {
       "id": 34,
@@ -912,7 +988,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 10:42:25",
-      "ultima_revision": "2026-10-16 08:24:31"
+      "ultima_revision": "2026-10-16 09:25:18"
     },
     {
       "id": 32,
@@ -931,7 +1007,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 10:42:18",
-      "ultima_revision": "2026-10-16 08:24:27"
+      "ultima_revision": "2026-10-16 09:25:15"
     },
     {
       "id": 31,
@@ -950,7 +1026,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 10:42:13",
-      "ultima_revision": "2026-10-16 08:24:19"
+      "ultima_revision": "2026-10-16 09:25:08"
     },
     {
       "id": 1700,
@@ -1406,7 +1482,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 09:44:48",
-      "ultima_revision": "2026-10-16 08:22:03"
+      "ultima_revision": "2026-10-16 09:23:52"
     },
     {
       "id": 5,
@@ -1425,7 +1501,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 09:44:29",
-      "ultima_revision": "2026-10-16 08:22:23"
+      "ultima_revision": "2026-10-16 09:23:13"
     },
     {
       "id": 1603,
@@ -1463,7 +1539,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 09:43:03",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 1676,
@@ -1520,7 +1596,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 09:37:03",
-      "ultima_revision": "2026-10-16 07:42:16"
+      "ultima_revision": "2026-10-16 09:36:08"
     },
     {
       "id": 1675,
@@ -1539,7 +1615,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 08:38:22",
-      "ultima_revision": "2026-10-16 07:42:21"
+      "ultima_revision": "2026-10-16 09:37:09"
     },
     {
       "id": 1673,
@@ -1786,7 +1862,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 03:28:25",
-      "ultima_revision": "2026-10-16 08:30:31"
+      "ultima_revision": "2026-10-16 09:31:29"
     },
     {
       "id": 1658,
@@ -1843,7 +1919,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 01:44:35",
-      "ultima_revision": "2026-10-16 08:38:44"
+      "ultima_revision": "2026-10-16 09:40:22"
     },
     {
       "id": 1657,
@@ -1900,7 +1976,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-15 00:38:09",
-      "ultima_revision": "2026-10-16 08:30:22"
+      "ultima_revision": "2026-10-16 09:31:39"
     },
     {
       "id": 1033,
@@ -1919,7 +1995,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 23:39:31",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1029,
@@ -1938,7 +2014,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 23:39:17",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1019,
@@ -1957,7 +2033,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 23:38:41",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 993,
@@ -1976,7 +2052,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 23:37:16",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 975,
@@ -1995,7 +2071,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 22:38:04",
-      "ultima_revision": "2026-10-16 08:38:31"
+      "ultima_revision": "2026-10-16 09:40:08"
     },
     {
       "id": 1652,
@@ -2033,7 +2109,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 21:41:00",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 931,
@@ -2052,7 +2128,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 21:39:49",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 918,
@@ -2071,7 +2147,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 21:39:07",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 906,
@@ -2090,7 +2166,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:40:43",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 905,
@@ -2109,7 +2185,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:40:38",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 903,
@@ -2128,7 +2204,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:40:34",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 901,
@@ -2147,7 +2223,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:40:26",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 1651,
@@ -2185,7 +2261,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:32:10",
-      "ultima_revision": "2026-10-16 08:32:28"
+      "ultima_revision": "2026-10-16 09:33:35"
     },
     {
       "id": 1650,
@@ -2223,7 +2299,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 20:28:49",
-      "ultima_revision": "2026-10-16 08:29:40"
+      "ultima_revision": "2026-10-16 09:30:33"
     },
     {
       "id": 1649,
@@ -2261,7 +2337,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 19:46:44",
-      "ultima_revision": "2026-10-16 08:38:21"
+      "ultima_revision": "2026-10-16 09:39:53"
     },
     {
       "id": 1646,
@@ -2280,7 +2356,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 19:44:32",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 1643,
@@ -2318,7 +2394,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 18:30:45",
-      "ultima_revision": "2026-10-16 06:28:03"
+      "ultima_revision": "2026-10-16 09:29:01"
     },
     {
       "id": 1641,
@@ -2356,7 +2432,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 16:33:15",
-      "ultima_revision": "2026-10-16 08:30:36"
+      "ultima_revision": "2026-10-16 09:31:20"
     },
     {
       "id": 1516,
@@ -2413,7 +2489,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 14:42:17",
-      "ultima_revision": "2026-10-16 08:37:52"
+      "ultima_revision": "2026-10-16 09:39:20"
     },
     {
       "id": 678,
@@ -2432,7 +2508,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 14:42:12",
-      "ultima_revision": "2026-10-16 08:37:52"
+      "ultima_revision": "2026-10-16 09:39:20"
     },
     {
       "id": 677,
@@ -2451,7 +2527,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 14:42:08",
-      "ultima_revision": "2026-10-16 08:37:52"
+      "ultima_revision": "2026-10-16 09:39:20"
     },
     {
       "id": 139,
@@ -2470,7 +2546,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 14:31:56",
-      "ultima_revision": "2026-10-16 08:31:39"
+      "ultima_revision": "2026-10-16 09:32:38"
     },
     {
       "id": 1639,
@@ -2565,7 +2641,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 14:26:45",
-      "ultima_revision": "2026-10-16 06:27:35"
+      "ultima_revision": "2026-10-16 09:27:32"
     },
     {
       "id": 1634,
@@ -2622,7 +2698,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 13:49:35",
-      "ultima_revision": "2026-10-16 08:37:52"
+      "ultima_revision": "2026-10-16 09:39:20"
     },
     {
       "id": 1632,
@@ -2641,7 +2717,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 13:43:33",
-      "ultima_revision": "2026-10-16 07:43:34"
+      "ultima_revision": "2026-10-16 09:37:14"
     },
     {
       "id": 1626,
@@ -2660,7 +2736,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 13:39:53",
-      "ultima_revision": "2026-10-16 08:32:00"
+      "ultima_revision": "2026-10-16 09:32:57"
     },
     {
       "id": 1625,
@@ -2698,7 +2774,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 12:28:28",
-      "ultima_revision": "2026-10-16 08:25:49"
+      "ultima_revision": "2026-10-16 09:26:41"
     },
     {
       "id": 1630,
@@ -2717,7 +2793,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 12:28:25",
-      "ultima_revision": "2026-10-16 08:24:38"
+      "ultima_revision": "2026-10-16 09:25:30"
     },
     {
       "id": 1624,
@@ -2755,7 +2831,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 11:30:06",
-      "ultima_revision": "2026-10-16 08:30:04"
+      "ultima_revision": "2026-10-16 09:30:59"
     },
     {
       "id": 1622,
@@ -2850,7 +2926,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 07:45:24",
-      "ultima_revision": "2026-10-16 08:34:49"
+      "ultima_revision": "2026-10-16 09:35:57"
     },
     {
       "id": 1618,
@@ -2945,7 +3021,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 04:30:58",
-      "ultima_revision": "2026-10-16 08:31:08"
+      "ultima_revision": "2026-10-16 09:32:07"
     },
     {
       "id": 1611,
@@ -3002,7 +3078,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 03:35:59",
-      "ultima_revision": "2026-10-16 08:36:21"
+      "ultima_revision": "2026-10-16 09:37:36"
     },
     {
       "id": 1592,
@@ -3059,7 +3135,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 03:30:54",
-      "ultima_revision": "2026-10-16 08:31:15"
+      "ultima_revision": "2026-10-16 09:32:15"
     },
     {
       "id": 1609,
@@ -3097,7 +3173,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 03:26:21",
-      "ultima_revision": "2026-10-16 08:27:04"
+      "ultima_revision": "2026-10-16 09:27:56"
     },
     {
       "id": 240,
@@ -3116,7 +3192,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-14 02:38:03",
-      "ultima_revision": "2026-10-16 08:36:57"
+      "ultima_revision": "2026-10-16 09:38:12"
     },
     {
       "id": 1607,
@@ -3173,7 +3249,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 23:35:11",
-      "ultima_revision": "2026-10-16 08:38:40"
+      "ultima_revision": "2026-10-16 09:40:17"
     },
     {
       "id": 92,
@@ -3192,7 +3268,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 22:25:07",
-      "ultima_revision": "2026-10-16 08:28:35"
+      "ultima_revision": "2026-10-16 09:29:17"
     },
     {
       "id": 1605,
@@ -3211,7 +3287,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 22:21:30",
-      "ultima_revision": "2026-10-16 08:25:22"
+      "ultima_revision": "2026-10-16 09:26:12"
     },
     {
       "id": 47,
@@ -3230,7 +3306,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 21:38:03",
-      "ultima_revision": "2026-10-16 08:25:18"
+      "ultima_revision": "2026-10-16 09:26:09"
     },
     {
       "id": 1604,
@@ -3306,7 +3382,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 19:37:38",
-      "ultima_revision": "2026-10-16 08:35:32"
+      "ultima_revision": "2026-10-16 09:36:45"
     },
     {
       "id": 55,
@@ -3344,7 +3420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 18:18:41",
-      "ultima_revision": "2026-10-16 08:26:35"
+      "ultima_revision": "2026-10-16 09:27:21"
     },
     {
       "id": 1591,
@@ -3401,7 +3477,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 17:12:18",
-      "ultima_revision": "2026-10-16 08:23:36"
+      "ultima_revision": "2026-10-16 09:24:30"
     },
     {
       "id": 1587,
@@ -3439,7 +3515,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 16:15:07",
-      "ultima_revision": "2026-10-16 08:24:51"
+      "ultima_revision": "2026-10-16 09:25:43"
     },
     {
       "id": 1586,
@@ -3515,7 +3591,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 16:13:03",
-      "ultima_revision": "2026-10-16 08:22:54"
+      "ultima_revision": "2026-10-16 09:23:47"
     },
     {
       "id": 1582,
@@ -3534,7 +3610,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 16:12:46",
-      "ultima_revision": "2026-10-16 08:22:35"
+      "ultima_revision": "2026-10-16 09:23:27"
     },
     {
       "id": 1226,
@@ -3629,7 +3705,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 14:35:06",
-      "ultima_revision": "2026-10-16 08:38:55"
+      "ultima_revision": "2026-10-16 09:40:41"
     },
     {
       "id": 1192,
@@ -3648,7 +3724,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 14:34:59",
-      "ultima_revision": "2026-10-16 08:38:55"
+      "ultima_revision": "2026-10-16 09:40:41"
     },
     {
       "id": 1577,
@@ -3686,7 +3762,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 14:25:36",
-      "ultima_revision": "2026-10-16 08:34:28"
+      "ultima_revision": "2026-10-16 09:35:31"
     },
     {
       "id": 1575,
@@ -3705,7 +3781,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 14:25:16",
-      "ultima_revision": "2026-10-16 08:32:55"
+      "ultima_revision": "2026-10-16 09:34:00"
     },
     {
       "id": 1574,
@@ -3781,7 +3857,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 13:39:33",
-      "ultima_revision": "2026-10-16 08:38:50"
+      "ultima_revision": "2026-10-16 09:40:32"
     },
     {
       "id": 1571,
@@ -3819,7 +3895,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 11:30:29",
-      "ultima_revision": "2026-10-16 08:38:40"
+      "ultima_revision": "2026-10-16 09:40:17"
     },
     {
       "id": 1473,
@@ -3857,7 +3933,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 11:21:12",
-      "ultima_revision": "2026-10-16 08:31:49"
+      "ultima_revision": "2026-10-16 09:32:44"
     },
     {
       "id": 1568,
@@ -4294,7 +4370,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 07:37:17",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 836,
@@ -4313,7 +4389,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 07:35:33",
-      "ultima_revision": "2026-10-16 08:38:16"
+      "ultima_revision": "2026-10-16 09:39:49"
     },
     {
       "id": 1541,
@@ -4351,7 +4427,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 06:34:02",
-      "ultima_revision": "2026-10-16 08:38:24"
+      "ultima_revision": "2026-10-16 09:39:59"
     },
     {
       "id": 1536,
@@ -4408,7 +4484,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 03:30:21",
-      "ultima_revision": "2026-10-16 08:37:49"
+      "ultima_revision": "2026-10-16 09:39:14"
     },
     {
       "id": 1373,
@@ -4446,7 +4522,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-13 03:11:18",
-      "ultima_revision": "2026-10-16 08:22:51"
+      "ultima_revision": "2026-10-16 09:23:42"
     },
     {
       "id": 1464,
@@ -4541,7 +4617,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 20:39:23",
-      "ultima_revision": "2026-10-16 08:33:37"
+      "ultima_revision": "2026-10-16 09:34:40"
     },
     {
       "id": 421,
@@ -4598,7 +4674,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 18:59:57",
-      "ultima_revision": "2026-10-16 08:37:02"
+      "ultima_revision": "2026-10-16 09:38:18"
     },
     {
       "id": 1517,
@@ -4636,7 +4712,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 17:54:49",
-      "ultima_revision": "2026-10-16 08:26:09"
+      "ultima_revision": "2026-10-16 09:26:56"
     },
     {
       "id": 1514,
@@ -4731,7 +4807,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 16:30:09",
-      "ultima_revision": "2026-10-16 08:38:46"
+      "ultima_revision": "2026-10-16 09:40:27"
     },
     {
       "id": 1501,
@@ -4750,7 +4826,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 16:30:06",
-      "ultima_revision": "2026-10-16 08:38:46"
+      "ultima_revision": "2026-10-16 09:40:27"
     },
     {
       "id": 1510,
@@ -4864,7 +4940,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 14:13:39",
-      "ultima_revision": "2026-10-16 08:39:03"
+      "ultima_revision": "2026-10-16 09:40:50"
     },
     {
       "id": 1244,
@@ -4883,7 +4959,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 14:13:24",
-      "ultima_revision": "2026-10-16 08:39:03"
+      "ultima_revision": "2026-10-16 09:40:50"
     },
     {
       "id": 1228,
@@ -4902,7 +4978,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 14:12:30",
-      "ultima_revision": "2026-10-16 08:38:59"
+      "ultima_revision": "2026-10-16 09:40:46"
     },
     {
       "id": 1227,
@@ -4921,7 +4997,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 14:12:26",
-      "ultima_revision": "2026-10-16 08:38:59"
+      "ultima_revision": "2026-10-16 09:40:46"
     },
     {
       "id": 1505,
@@ -4959,7 +5035,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 13:44:24",
-      "ultima_revision": "2026-10-16 08:38:59"
+      "ultima_revision": "2026-10-16 09:40:46"
     },
     {
       "id": 1195,
@@ -4978,7 +5054,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 13:43:22",
-      "ultima_revision": "2026-10-16 08:38:55"
+      "ultima_revision": "2026-10-16 09:40:41"
     },
     {
       "id": 1088,
@@ -5016,7 +5092,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 13:42:09",
-      "ultima_revision": "2026-10-16 08:38:40"
+      "ultima_revision": "2026-10-16 09:40:17"
     },
     {
       "id": 1170,
@@ -5035,7 +5111,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 13:05:19",
-      "ultima_revision": "2026-10-16 08:38:52"
+      "ultima_revision": "2026-10-16 09:40:37"
     },
     {
       "id": 1162,
@@ -5054,7 +5130,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 13:04:46",
-      "ultima_revision": "2026-10-16 08:38:52"
+      "ultima_revision": "2026-10-16 09:40:37"
     },
     {
       "id": 1156,
@@ -5130,7 +5206,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 12:27:49",
-      "ultima_revision": "2026-10-16 08:38:50"
+      "ultima_revision": "2026-10-16 09:40:32"
     },
     {
       "id": 1123,
@@ -5149,7 +5225,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 12:26:53",
-      "ultima_revision": "2026-10-16 08:38:46"
+      "ultima_revision": "2026-10-16 09:40:27"
     },
     {
       "id": 1094,
@@ -5168,7 +5244,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 12:07:25",
-      "ultima_revision": "2026-10-16 08:38:44"
+      "ultima_revision": "2026-10-16 09:40:22"
     },
     {
       "id": 1082,
@@ -5187,7 +5263,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 12:06:42",
-      "ultima_revision": "2026-10-16 08:38:44"
+      "ultima_revision": "2026-10-16 09:40:22"
     },
     {
       "id": 1070,
@@ -5263,7 +5339,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:46:49",
-      "ultima_revision": "2026-10-16 08:38:40"
+      "ultima_revision": "2026-10-16 09:40:17"
     },
     {
       "id": 1040,
@@ -5282,7 +5358,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:45:56",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1027,
@@ -5301,7 +5377,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:45:10",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1017,
@@ -5320,7 +5396,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:44:38",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1016,
@@ -5339,7 +5415,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:44:32",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1015,
@@ -5358,7 +5434,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:44:29",
-      "ultima_revision": "2026-10-16 08:38:36"
+      "ultima_revision": "2026-10-16 09:40:14"
     },
     {
       "id": 1004,
@@ -5377,7 +5453,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:25:29",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 996,
@@ -5396,7 +5472,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:24:58",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 985,
@@ -5415,7 +5491,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:24:10",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 983,
@@ -5434,7 +5510,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:24:04",
-      "ultima_revision": "2026-10-16 08:38:33"
+      "ultima_revision": "2026-10-16 09:40:11"
     },
     {
       "id": 978,
@@ -5453,7 +5529,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:23:47",
-      "ultima_revision": "2026-10-16 08:38:31"
+      "ultima_revision": "2026-10-16 09:40:08"
     },
     {
       "id": 1476,
@@ -5491,7 +5567,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:04:26",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 946,
@@ -5510,7 +5586,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:04:18",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 944,
@@ -5529,7 +5605,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:04:09",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 941,
@@ -5548,7 +5624,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:03:57",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 938,
@@ -5567,7 +5643,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:03:47",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 935,
@@ -5586,7 +5662,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 11:03:38",
-      "ultima_revision": "2026-10-16 08:38:27"
+      "ultima_revision": "2026-10-16 09:40:03"
     },
     {
       "id": 1475,
@@ -5625,88 +5701,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-12 10:50:13",
       "ultima_revision": "2026-10-12 16:56:34"
-    },
-    {
-      "id": 1472,
-      "tienda": "falabella",
-      "titulo": "Zenbook 14 OLED UX3405CA-SU1479W Core U7 16GB 512GB SSD 14P Asus",
-      "url": "https://www.falabella.com/falabella-cl/product/80835904/zenbook-14-oled-ux3405ca-su1479w-core-u7-16gb-512gb-ssd-14p-asus",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80835904_01/public",
-      "precio_internet": 1289990,
-      "precio_normal": 2299990,
-      "precio_tarjeta": 1269990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 2299990,
-      "descuento_pct": 44,
-      "ahorro_pesos": 1010000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-12 10:48:10",
-      "ultima_revision": "2026-10-14 16:26:39"
-    },
-    {
-      "id": 933,
-      "tienda": "hites",
-      "titulo": "Cocina A Gas Ursus Trotter UT EURO60 PR / 4 Quemadores",
-      "url": "https://www.hites.com/cocina-a-gas-ursus-trotter-ut-euro60-pr-4-quemadores-756444001.html",
-      "imagen_url": "",
-      "precio_internet": 399990,
-      "precio_normal": 399990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Mejor Precio Retail",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-12 10:45:41",
-      "ultima_revision": "2026-10-16 08:38:27"
-    },
-    {
-      "id": 932,
-      "tienda": "hites",
-      "titulo": "Encimera A Gas Ursus Trotter Avantgarde GS-60T GL / 4 Quemadores",
-      "url": "https://www.hites.com/encimera-a-gas-ursus-trotter-avantgarde-gs-60t-gl-4-quemadores-819940001.html",
-      "imagen_url": "",
-      "precio_internet": 274990,
-      "precio_normal": 274990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Mejor Precio Retail",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-12 10:45:36",
-      "ultima_revision": "2026-10-16 08:38:27"
-    },
-    {
-      "id": 926,
-      "tienda": "hites",
-      "titulo": "Encimera A Gas Ursus Trotter UT Prime GLT-5 / 5 Quemadores",
-      "url": "https://www.hites.com/encimera-a-gas-ursus-trotter-ut-prime-glt-5-5-quemadores-801792001.html",
-      "imagen_url": "",
-      "precio_internet": 279990,
-      "precio_normal": 279990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Mejor Precio Retail",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-12 10:45:12",
-      "ultima_revision": "2026-10-16 08:38:27"
     }
   ],
   "estadisticas": {
-    "total_productos": 1754,
+    "total_productos": 1757,
     "tiendas": 52,
-    "alertas_enviadas": 670,
+    "alertas_enviadas": 674,
     "descuento_maximo": 68
   }
 }
