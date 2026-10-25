@@ -95,11 +95,27 @@
           <circle cx="11" cy="11" r="8"></circle>
           <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
         </svg>
-        <input type="text" id="searchInput" placeholder="Buscar por producto, marca o modelo (ej. Notebook, Ryzen, TV)..." autocomplete="off">
+        <input type="text" id="searchInput" placeholder="Buscar por producto, marca o modelo (ej. Zapatillas, Polerón, Notebook, TV)..." autocomplete="off">
         <button id="btnClearSearch" class="btn-clear hidden" title="Limpiar búsqueda">&times;</button>
       </div>
 
       <div class="filters-row">
+        <!-- Filtro Categoría -->
+        <div class="filter-group">
+          <label for="categoryFilter">Categoría:</label>
+          <select id="categoryFilter">
+            <option value="all">Todas las categorías</option>
+            <option value="Zapatillas y Calzado">👟 Zapatillas y Calzado</option>
+            <option value="Ropa y Vestuario">👕 Ropa y Vestuario</option>
+            <option value="Computación">💻 Computación</option>
+            <option value="Telefonía y Wearables">📱 Telefonía y Wearables</option>
+            <option value="Audio, TV y Consolas">📺 Audio, TV y Consolas</option>
+            <option value="Electrohogar">🏠 Electrohogar</option>
+            <option value="Belleza y Cuidado Personal">✨ Belleza y Cuidado</option>
+            <option value="Otros">📦 Otros</option>
+          </select>
+        </div>
+
         <!-- Filtro Tienda -->
         <div class="filter-group">
           <label for="storeFilter">Tienda:</label>

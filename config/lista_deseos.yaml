@@ -58,6 +58,74 @@ busquedas:
       descuento_minimo_pct: 20
       precio_maximo: 500000
 
+  # --- Calzado y Zapatillas en Falabella ---
+  - termino: zapatillas
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas hombre
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas mujer
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas running
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas urbanas
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 200000
+
+  # --- Ropa y Vestuario en Falabella ---
+  - termino: poleron
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 120000
+
+  - termino: chaqueta
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: parka
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 300000
+
+  - termino: jeans
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 120000
+
+  - termino: polera
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 50000
+
+  - termino: ropa deportiva
+    tienda: falabella
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 150000
+
   # ============================================================================
   # Búsquedas directas en Paris (Retail Directo)
   # ============================================================================
@@ -96,6 +164,74 @@ busquedas:
     reglas:
       descuento_minimo_pct: 20
       precio_maximo: 500000
+
+  # --- Calzado y Zapatillas en Paris ---
+  - termino: zapatillas
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas hombre
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas mujer
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas running
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: zapatillas urbanas
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 200000
+
+  # --- Ropa y Vestuario en Paris ---
+  - termino: poleron
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 120000
+
+  - termino: chaqueta
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 250000
+
+  - termino: parka
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 300000
+
+  - termino: jeans
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 120000
+
+  - termino: polera
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 50000
+
+  - termino: ropa deportiva
+    tienda: paris
+    reglas:
+      descuento_minimo_pct: 20
+      precio_maximo: 150000
 
   # ============================================================================
   # Catálogo Multitienda Ampliado vía SoloTodo (Cubre cientos de tiendas chilenas)

@@ -10,6 +10,42 @@ BASE = RAIZ / "data" / "tracker.db"
 DESTINO = RAIZ / "web" / "data" / "ofertas.json"
 
 
+def determinar_categoria(titulo: str) -> str:
+    """Clasifica el producto en una categoría comercial clara."""
+    t = (titulo or "").lower()
+    if any(k in t for k in ["zapatilla", "zapato", "botin", "bota", "sandalia", "sneaker", "running"]):
+        return "Zapatillas y Calzado"
+    if any(k in t for k in [
+        "poleron", "polerón", "chaqueta", "parka", "jeans", "polera", 
+        "pantalon", "pantalón", "chaleco", "camisa", "blusa", "vestido", 
+        "buzo", "ropa deportiva", "polar hombre", "polar mujer", "casaca",
+        "sweater", "cardigan", "short", "legging", "cortaviento"
+    ]):
+        return "Ropa y Vestuario"
+    if any(k in t for k in [
+        "notebook", "laptop", "procesador", "ryzen", "core i", "geforce", "radeon", 
+        "ddr4", "ddr5", "nvme", "ssd", "tarjeta de video", "placa madre", "monitor", 
+        "teclado", "mouse", "all-in-one", "gabinete", "fuente de poder", "silla gamer"
+    ]):
+        return "Computación"
+    if any(k in t for k in ["celular", "smartphone", "iphone", "galaxy", "xiaomi", "redmi", "smartwatch", "wearable"]):
+        return "Telefonía y Wearables"
+    if any(k in t for k in [
+        "smart tv", "televisor", "tv ", " audifono", "audífono", "headset", "parlante", 
+        "soundbar", "barra de sonido", "consola", "playstation", "ps5", "xbox", "nintendo"
+    ]):
+        return "Audio, TV y Consolas"
+    if any(k in t for k in [
+        "refrigerador", "lavadora", "secadora", "microondas", "freidora", "air fryer", 
+        "cafetera", "aspiradora", "estufa", "aire acondicionado", "ventilador", "horno",
+        "lavavajillas", "licuadora"
+    ]):
+        return "Electrohogar"
+    if any(k in t for k in ["perfume", "fragancia", "secador", "alisador", "afeitadora"]):
+        return "Belleza y Cuidado Personal"
+    return "Otros"
+
+
 def exportar_ofertas(ruta_base: Path = BASE, ruta_destino: Path = DESTINO) -> dict:
     if not ruta_base.exists():
         datos = {
@@ -125,6 +161,7 @@ def exportar_ofertas(ruta_base: Path = BASE, ruta_destino: Path = DESTINO) -> di
             "titulo": f["titulo"],
             "url": f["url"],
             "imagen_url": f["imagen_url"] or "",
+            "categoria": determinar_categoria(f["titulo"]),
             "precio_internet": p_internet,
             "precio_normal": p_normal,
             "precio_tarjeta": p_tarjeta,

@@ -15,6 +15,7 @@ const offersGrid = document.getElementById('offersGrid');
 const emptyState = document.getElementById('emptyState');
 const searchInput = document.getElementById('searchInput');
 const btnClearSearch = document.getElementById('btnClearSearch');
+const categoryFilter = document.getElementById('categoryFilter');
 const storeFilter = document.getElementById('storeFilter');
 const ruleFilter = document.getElementById('ruleFilter');
 const discountFilter = document.getElementById('discountFilter');
@@ -158,6 +159,12 @@ function obtenerOfertasFiltradas() {
       if (!matchTitulo && !matchTienda) return false;
     }
 
+    // Filtro categoría
+    const categoria = categoryFilter ? categoryFilter.value : 'all';
+    if (categoria !== 'all' && (o.categoria || '') !== categoria) {
+      return false;
+    }
+
     // Filtro tienda
     if (tienda !== 'all' && o.tienda !== tienda) {
       return false;
@@ -229,7 +236,10 @@ function renderizar() {
       : '';
     const badgeTienda = `<span class="store-badge ${claseTienda}">${nombreTienda}</span>`;
     
-    // Regla
+    // Categoría y Regla
+    const tagCategoria = o.categoria && o.categoria !== 'Otros'
+      ? `<span class="category-tag">${o.categoria}</span>`
+      : '';
     const tagRegla = o.regla 
       ? `<span class="rule-tag ${tieneAlerta ? 'is-alerta' : ''}">${tieneAlerta ? '🔔 ' : ''}${o.regla}</span>` 
       : '';
@@ -260,7 +270,10 @@ function renderizar() {
         <img class="card-img" src="${imgSrc}" alt="${o.titulo || 'Producto'}" loading="lazy" onerror="this.onerror=null; this.src='${SVG_FALLBACK}';">
       </div>
       <div class="card-body">
-        ${tagRegla}
+        <div class="card-tags">
+          ${tagCategoria}
+          ${tagRegla}
+        </div>
         <h2 class="product-title" title="${o.titulo}">${o.titulo || 'Sin título'}</h2>
         
         <div class="price-block">
@@ -336,6 +349,7 @@ btnClearSearch.addEventListener('click', () => {
   renderizar();
 });
 
+if (categoryFilter) categoryFilter.addEventListener('change', renderizar);
 storeFilter.addEventListener('change', renderizar);
 ruleFilter.addEventListener('change', renderizar);
 discountFilter.addEventListener('change', renderizar);
@@ -346,6 +360,7 @@ btnRefresh.addEventListener('click', () => cargarOfertas(true));
 btnResetFilters.addEventListener('click', () => {
   searchInput.value = '';
   btnClearSearch.classList.add('hidden');
+  if (categoryFilter) categoryFilter.value = 'all';
   storeFilter.value = 'all';
   ruleFilter.value = 'all';
   discountFilter.value = '0';
