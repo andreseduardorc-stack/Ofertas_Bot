@@ -1,7 +1,107 @@
 {
-  "actualizado_el": "2026-10-26T08:27:47.281985",
+  "actualizado_el": "2026-10-26T09:20:23.279590",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 2141,
+      "tienda": "falabella",
+      "titulo": "Calza Mujer Adidas",
+      "url": "https://www.falabella.com/falabella-cl/product/80660102/calza-mujer-adidas",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80660252_1/public",
+      "categoria": "Otros",
+      "precio_internet": 34990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-26 09:12:48",
+      "ultima_revision": "2026-10-26 09:12:47"
+    },
+    {
+      "id": 2140,
+      "tienda": "falabella",
+      "titulo": "Parka Aysen Autoempacable Hombre Negro",
+      "url": "https://www.falabella.com/falabella-cl/product/153685884/parka-aysen-autoempacable-hombre-negro",
+      "imagen_url": "https://media.falabella.com/falabellaCL/153685885_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 99990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-26 09:05:52",
+      "ultima_revision": "2026-10-26 09:05:52"
+    },
+    {
+      "id": 2139,
+      "tienda": "falabella",
+      "titulo": "Parka Impermeable 3 en 1 Mujer Baker",
+      "url": "https://www.falabella.com/falabella-cl/product/152366928/parka-impermeable-3-en-1-mujer-baker",
+      "imagen_url": "https://media.falabella.com/falabellaCL/152366929_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 108990,
+      "precio_normal": 153990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 153990,
+      "descuento_pct": 29,
+      "ahorro_pesos": 45000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-26 09:05:30",
+      "ultima_revision": "2026-10-26 09:05:29"
+    },
+    {
+      "id": 2138,
+      "tienda": "falabella",
+      "titulo": "Zapatillas Urbanas Unisex Suede Xl Burdeo",
+      "url": "https://www.falabella.com/falabella-cl/product/155388242/zapatillas-urbanas-unisex-suede-xl-burdeo",
+      "imagen_url": "https://media.falabella.com/falabellaCL/155388255_01/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 89990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-26 09:00:35",
+      "ultima_revision": "2026-10-26 09:00:35"
+    },
+    {
+      "id": 2137,
+      "tienda": "falabella",
+      "titulo": "Air Force 1 07 Zapatilla Urbana Hombre Cuero Blanco Nike",
+      "url": "https://www.falabella.com/falabella-cl/product/14853402/air-force-1-07-zapatilla-urbana-hombre-cuero-blanco-nike",
+      "imagen_url": "https://media.falabella.com/falabellaCL/14853406_1/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 119990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-26 08:51:00",
+      "ultima_revision": "2026-10-26 08:53:03"
+    },
     {
       "id": 2135,
       "tienda": "falabella",
@@ -120,7 +220,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 07:12:45",
-      "ultima_revision": "2026-10-26 08:24:09"
+      "ultima_revision": "2026-10-26 09:17:13"
     },
     {
       "id": 2129,
@@ -360,7 +460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 05:59:06",
-      "ultima_revision": "2026-10-26 05:59:06"
+      "ultima_revision": "2026-10-26 09:09:50"
     },
     {
       "id": 2117,
@@ -440,7 +540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 05:42:25",
-      "ultima_revision": "2026-10-26 05:42:24"
+      "ultima_revision": "2026-10-26 08:53:16"
     },
     {
       "id": 2112,
@@ -740,7 +840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 05:01:41",
-      "ultima_revision": "2026-10-26 08:16:28"
+      "ultima_revision": "2026-10-26 09:10:47"
     },
     {
       "id": 2097,
@@ -780,7 +880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 05:00:55",
-      "ultima_revision": "2026-10-26 06:00:41"
+      "ultima_revision": "2026-10-26 09:10:05"
     },
     {
       "id": 2095,
@@ -820,7 +920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 05:00:03",
-      "ultima_revision": "2026-10-26 05:59:10"
+      "ultima_revision": "2026-10-26 09:10:00"
     },
     {
       "id": 2093,
@@ -840,7 +940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 04:55:35",
-      "ultima_revision": "2026-10-26 08:11:58"
+      "ultima_revision": "2026-10-26 09:05:18"
     },
     {
       "id": 2092,
@@ -920,7 +1020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 04:49:10",
-      "ultima_revision": "2026-10-26 05:47:52"
+      "ultima_revision": "2026-10-26 08:58:42"
     },
     {
       "id": 2088,
@@ -940,7 +1040,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 04:01:57",
-      "ultima_revision": "2026-10-26 07:05:35"
+      "ultima_revision": "2026-10-26 09:13:19"
     },
     {
       "id": 2087,
@@ -980,7 +1080,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:58:25",
-      "ultima_revision": "2026-10-26 05:58:55"
+      "ultima_revision": "2026-10-26 09:09:45"
     },
     {
       "id": 2085,
@@ -1020,7 +1120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:57:38",
-      "ultima_revision": "2026-10-26 08:14:33"
+      "ultima_revision": "2026-10-26 09:09:02"
     },
     {
       "id": 2083,
@@ -1040,7 +1140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:56:30",
-      "ultima_revision": "2026-10-26 08:14:12"
+      "ultima_revision": "2026-10-26 09:08:01"
     },
     {
       "id": 2082,
@@ -1100,7 +1200,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:54:20",
-      "ultima_revision": "2026-10-26 06:57:22"
+      "ultima_revision": "2026-10-26 09:07:20"
     },
     {
       "id": 2079,
@@ -1120,7 +1220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:52:54",
-      "ultima_revision": "2026-10-26 08:11:20"
+      "ultima_revision": "2026-10-26 09:03:23"
     },
     {
       "id": 2078,
@@ -1140,7 +1240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:52:10",
-      "ultima_revision": "2026-10-26 03:52:09"
+      "ultima_revision": "2026-10-26 09:04:29"
     },
     {
       "id": 2077,
@@ -1160,7 +1260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:52:06",
-      "ultima_revision": "2026-10-26 08:11:18"
+      "ultima_revision": "2026-10-26 09:03:39"
     },
     {
       "id": 2076,
@@ -1180,7 +1280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:51:48",
-      "ultima_revision": "2026-10-26 08:10:36"
+      "ultima_revision": "2026-10-26 09:03:44"
     },
     {
       "id": 2075,
@@ -1200,7 +1300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:51:44",
-      "ultima_revision": "2026-10-26 08:10:14"
+      "ultima_revision": "2026-10-26 09:03:20"
     },
     {
       "id": 2074,
@@ -1220,7 +1320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:50:49",
-      "ultima_revision": "2026-10-26 08:09:08"
+      "ultima_revision": "2026-10-26 09:02:19"
     },
     {
       "id": 2073,
@@ -1280,7 +1380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:41:57",
-      "ultima_revision": "2026-10-26 08:00:17"
+      "ultima_revision": "2026-10-26 08:53:14"
     },
     {
       "id": 2070,
@@ -1320,7 +1420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:39:44",
-      "ultima_revision": "2026-10-26 07:58:01"
+      "ultima_revision": "2026-10-26 08:51:17"
     },
     {
       "id": 2068,
@@ -1340,7 +1440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:39:22",
-      "ultima_revision": "2026-10-26 08:01:58"
+      "ultima_revision": "2026-10-26 08:54:55"
     },
     {
       "id": 2067,
@@ -1380,7 +1480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 03:02:57",
-      "ultima_revision": "2026-10-26 08:20:44"
+      "ultima_revision": "2026-10-26 09:13:51"
     },
     {
       "id": 2065,
@@ -1660,7 +1760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:48:08",
-      "ultima_revision": "2026-10-26 08:05:39"
+      "ultima_revision": "2026-10-26 08:57:18"
     },
     {
       "id": 2051,
@@ -1840,7 +1940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:13:58",
-      "ultima_revision": "2026-10-26 08:20:39"
+      "ultima_revision": "2026-10-26 09:13:46"
     },
     {
       "id": 2042,
@@ -2060,7 +2160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:07:21",
-      "ultima_revision": "2026-10-26 08:13:58"
+      "ultima_revision": "2026-10-26 09:07:28"
     },
     {
       "id": 2031,
@@ -2120,7 +2220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:05:31",
-      "ultima_revision": "2026-10-26 08:12:19"
+      "ultima_revision": "2026-10-26 09:05:39"
     },
     {
       "id": 2028,
@@ -2280,7 +2380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:00:46",
-      "ultima_revision": "2026-10-26 08:07:49"
+      "ultima_revision": "2026-10-26 09:00:55"
     },
     {
       "id": 2020,
@@ -2300,7 +2400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:00:43",
-      "ultima_revision": "2026-10-26 08:07:45"
+      "ultima_revision": "2026-10-26 09:00:52"
     },
     {
       "id": 2019,
@@ -2320,7 +2420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 02:00:39",
-      "ultima_revision": "2026-10-26 08:06:11"
+      "ultima_revision": "2026-10-26 09:00:47"
     },
     {
       "id": 2018,
@@ -2340,7 +2440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 01:58:56",
-      "ultima_revision": "2026-10-26 08:05:44"
+      "ultima_revision": "2026-10-26 08:54:39"
     },
     {
       "id": 2017,
@@ -2387,7 +2487,7 @@
       "tienda": "falabella",
       "titulo": "Cloudswift 4 Zapatilla Running Mujer Gris On",
       "url": "https://www.falabella.com/falabella-cl/product/80656763/cloudswift-4-zapatilla-running-mujer-gris-on",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80656895_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80656896_1/public",
       "categoria": "Zapatillas y Calzado",
       "precio_internet": 169990,
       "precio_normal": null,
@@ -2400,7 +2500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 01:55:38",
-      "ultima_revision": "2026-10-26 08:02:02"
+      "ultima_revision": "2026-10-26 08:54:51"
     },
     {
       "id": 2014,
@@ -2740,7 +2840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 01:00:03",
-      "ultima_revision": "2026-10-26 08:13:55"
+      "ultima_revision": "2026-10-26 09:07:26"
     },
     {
       "id": 1995,
@@ -3180,7 +3280,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:25:42",
-      "ultima_revision": "2026-10-26 08:23:36"
+      "ultima_revision": "2026-10-26 09:16:42"
     },
     {
       "id": 1974,
@@ -3200,7 +3300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:50",
-      "ultima_revision": "2026-10-26 08:20:35"
+      "ultima_revision": "2026-10-26 09:13:40"
     },
     {
       "id": 1973,
@@ -3240,14 +3340,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:41",
-      "ultima_revision": "2026-10-26 08:20:23"
+      "ultima_revision": "2026-10-26 09:13:28"
     },
     {
       "id": 1971,
       "tienda": "falabella",
       "titulo": "Pantalón De Buzo Algodón Mujer Fratta",
       "url": "https://www.falabella.com/falabella-cl/product/883611740/pantalon-de-buzo-algodon-mujer-fratta",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611746_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883611743_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 9990,
       "precio_normal": 12990,
@@ -3260,14 +3360,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:38",
-      "ultima_revision": "2026-10-26 08:20:19"
+      "ultima_revision": "2026-10-26 09:13:24"
     },
     {
       "id": 1970,
       "tienda": "falabella",
       "titulo": "Calza Biker Deportiva Diadora",
       "url": "https://www.falabella.com/falabella-cl/product/883758617/calza-biker-deportiva-diadora",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883758619_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883758621_1/public",
       "categoria": "Otros",
       "precio_internet": 9990,
       "precio_normal": null,
@@ -3280,7 +3380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:33",
-      "ultima_revision": "2026-10-26 08:20:15"
+      "ultima_revision": "2026-10-26 09:13:11"
     },
     {
       "id": 1969,
@@ -3300,7 +3400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:29",
-      "ultima_revision": "2026-10-26 08:19:21"
+      "ultima_revision": "2026-10-26 09:12:05"
     },
     {
       "id": 1968,
@@ -3320,14 +3420,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:23",
-      "ultima_revision": "2026-10-26 08:20:12"
+      "ultima_revision": "2026-10-26 09:13:01"
     },
     {
       "id": 1967,
       "tienda": "falabella",
       "titulo": "Polera Manga Corta Deportiva Hombre Fratta",
       "url": "https://www.falabella.com/falabella-cl/product/883611599/POLERA-TS.M.PERPR",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611601_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883611608_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 4990,
       "precio_normal": null,
@@ -3340,7 +3440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:19",
-      "ultima_revision": "2026-10-26 06:02:22"
+      "ultima_revision": "2026-10-26 09:13:06"
     },
     {
       "id": 1966,
@@ -3380,7 +3480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:10",
-      "ultima_revision": "2026-10-26 08:19:24"
+      "ultima_revision": "2026-10-26 09:11:50"
     },
     {
       "id": 1964,
@@ -3400,7 +3500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:05",
-      "ultima_revision": "2026-10-26 08:20:07"
+      "ultima_revision": "2026-10-26 09:12:57"
     },
     {
       "id": 1963,
@@ -3420,7 +3520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:21:00",
-      "ultima_revision": "2026-10-26 08:20:02"
+      "ultima_revision": "2026-10-26 09:12:53"
     },
     {
       "id": 1962,
@@ -3440,7 +3540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:56",
-      "ultima_revision": "2026-10-26 08:19:58"
+      "ultima_revision": "2026-10-26 09:12:42"
     },
     {
       "id": 1961,
@@ -3460,7 +3560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:52",
-      "ultima_revision": "2026-10-26 08:19:54"
+      "ultima_revision": "2026-10-26 09:12:39"
     },
     {
       "id": 1960,
@@ -3480,7 +3580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:49",
-      "ultima_revision": "2026-10-26 08:19:51"
+      "ultima_revision": "2026-10-26 09:12:35"
     },
     {
       "id": 1959,
@@ -3520,14 +3620,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:41",
-      "ultima_revision": "2026-10-26 08:19:49"
+      "ultima_revision": "2026-10-26 09:12:32"
     },
     {
       "id": 1957,
       "tienda": "falabella",
       "titulo": "Calza Mujer Fratta",
       "url": "https://www.falabella.com/falabella-cl/product/883611900/calza-mujer-fratta",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611914_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883611901_1/public",
       "categoria": "Otros",
       "precio_internet": 12990,
       "precio_normal": null,
@@ -3540,7 +3640,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:38",
-      "ultima_revision": "2026-10-26 08:19:43"
+      "ultima_revision": "2026-10-26 09:12:30"
     },
     {
       "id": 1956,
@@ -3560,7 +3660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:35",
-      "ultima_revision": "2026-10-26 08:19:34"
+      "ultima_revision": "2026-10-26 09:12:22"
     },
     {
       "id": 1955,
@@ -3580,7 +3680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:30",
-      "ultima_revision": "2026-10-26 08:19:39"
+      "ultima_revision": "2026-10-26 09:12:25"
     },
     {
       "id": 1954,
@@ -3600,7 +3700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:24",
-      "ultima_revision": "2026-10-26 08:19:30"
+      "ultima_revision": "2026-10-26 09:12:19"
     },
     {
       "id": 1953,
@@ -3620,7 +3720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:20",
-      "ultima_revision": "2026-10-26 08:19:15"
+      "ultima_revision": "2026-10-26 09:12:03"
     },
     {
       "id": 1952,
@@ -3660,7 +3760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:12",
-      "ultima_revision": "2026-10-26 07:04:22"
+      "ultima_revision": "2026-10-26 09:13:15"
     },
     {
       "id": 1950,
@@ -3680,7 +3780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:09",
-      "ultima_revision": "2026-10-26 08:19:28"
+      "ultima_revision": "2026-10-26 09:12:15"
     },
     {
       "id": 1949,
@@ -3700,7 +3800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:20:03",
-      "ultima_revision": "2026-10-26 08:19:10"
+      "ultima_revision": "2026-10-26 09:11:58"
     },
     {
       "id": 1948,
@@ -3720,7 +3820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:58",
-      "ultima_revision": "2026-10-26 08:19:07"
+      "ultima_revision": "2026-10-26 09:11:55"
     },
     {
       "id": 1947,
@@ -3740,7 +3840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:51",
-      "ultima_revision": "2026-10-26 08:18:59"
+      "ultima_revision": "2026-10-26 09:11:46"
     },
     {
       "id": 1946,
@@ -3760,7 +3860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:47",
-      "ultima_revision": "2026-10-26 07:04:18"
+      "ultima_revision": "2026-10-26 09:12:09"
     },
     {
       "id": 1945,
@@ -3807,7 +3907,7 @@
       "tienda": "falabella",
       "titulo": "Polera Estampada 100% Algodón Mujer University Club",
       "url": "https://www.falabella.com/falabella-cl/product/883855853/polera-estampada-100-algodon-mujer-university-club",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883855866_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883855855_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 9990,
       "precio_normal": null,
@@ -3820,14 +3920,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:28",
-      "ultima_revision": "2026-10-26 08:18:03"
+      "ultima_revision": "2026-10-26 09:11:24"
     },
     {
       "id": 1942,
       "tienda": "falabella",
       "titulo": "Polera Nudo Mujer University Club",
       "url": "https://www.falabella.com/falabella-cl/product/883855460/polera-nudo-mujer-university-club",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883855461_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883855483_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 7990,
       "precio_normal": null,
@@ -3840,14 +3940,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:25",
-      "ultima_revision": "2026-10-26 08:18:09"
+      "ultima_revision": "2026-10-26 09:11:28"
     },
     {
       "id": 1941,
       "tienda": "falabella",
       "titulo": "Blusa 100% Algodón Mujer Basement",
       "url": "https://www.falabella.com/falabella-cl/product/883935132/blusa-100-algodon-mujer-basement",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883935141_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883935133_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 9990,
       "precio_normal": null,
@@ -3860,7 +3960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:21",
-      "ultima_revision": "2026-10-26 08:18:00"
+      "ultima_revision": "2026-10-26 09:11:19"
     },
     {
       "id": 1940,
@@ -3880,7 +3980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:17",
-      "ultima_revision": "2026-10-26 08:17:55"
+      "ultima_revision": "2026-10-26 09:11:16"
     },
     {
       "id": 1939,
@@ -3900,7 +4000,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:12",
-      "ultima_revision": "2026-10-26 08:17:51"
+      "ultima_revision": "2026-10-26 09:11:11"
     },
     {
       "id": 1938,
@@ -3920,7 +4020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:07",
-      "ultima_revision": "2026-10-26 08:17:48"
+      "ultima_revision": "2026-10-26 09:11:06"
     },
     {
       "id": 1937,
@@ -3940,14 +4040,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:19:03",
-      "ultima_revision": "2026-10-26 08:17:45"
+      "ultima_revision": "2026-10-26 09:11:03"
     },
     {
       "id": 1936,
       "tienda": "falabella",
       "titulo": "Polera Manga Corta Hombre Newport",
       "url": "https://www.falabella.com/falabella-cl/product/883823524/polera-manga-corta-hombre-newport",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883823525_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883823532_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 7990,
       "precio_normal": null,
@@ -3960,7 +4060,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:58",
-      "ultima_revision": "2026-10-26 08:17:41"
+      "ultima_revision": "2026-10-26 09:10:59"
     },
     {
       "id": 1935,
@@ -3980,7 +4080,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:54",
-      "ultima_revision": "2026-10-26 08:17:36"
+      "ultima_revision": "2026-10-26 09:10:55"
     },
     {
       "id": 1934,
@@ -4000,7 +4100,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:51",
-      "ultima_revision": "2026-10-26 07:01:57"
+      "ultima_revision": "2026-10-26 09:10:52"
     },
     {
       "id": 1933,
@@ -4020,14 +4120,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:48",
-      "ultima_revision": "2026-10-26 08:16:39"
+      "ultima_revision": "2026-10-26 09:11:33"
     },
     {
       "id": 1932,
       "tienda": "falabella",
       "titulo": "Polera Mujer Sybilla",
       "url": "https://www.falabella.com/falabella-cl/product/883786012/polera-mujer-sybilla",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883786034_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883786013_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 9990,
       "precio_normal": null,
@@ -4040,7 +4140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:44",
-      "ultima_revision": "2026-10-26 08:17:24"
+      "ultima_revision": "2026-10-26 09:10:43"
     },
     {
       "id": 1931,
@@ -4060,7 +4160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:38",
-      "ultima_revision": "2026-10-26 08:17:13"
+      "ultima_revision": "2026-10-26 09:10:31"
     },
     {
       "id": 1930,
@@ -4080,7 +4180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:33",
-      "ultima_revision": "2026-10-26 08:17:21"
+      "ultima_revision": "2026-10-26 09:10:40"
     },
     {
       "id": 1929,
@@ -4100,14 +4200,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:29",
-      "ultima_revision": "2026-10-26 08:17:17"
+      "ultima_revision": "2026-10-26 09:10:35"
     },
     {
       "id": 1928,
       "tienda": "falabella",
       "titulo": "Polera Mujer University Club",
       "url": "https://www.falabella.com/falabella-cl/product/883839969/polera-mujer-university-club",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883839970_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883839980_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 7990,
       "precio_normal": null,
@@ -4120,7 +4220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:24",
-      "ultima_revision": "2026-10-26 08:17:10"
+      "ultima_revision": "2026-10-26 09:10:26"
     },
     {
       "id": 1927,
@@ -4140,7 +4240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:19",
-      "ultima_revision": "2026-10-26 08:17:05"
+      "ultima_revision": "2026-10-26 09:10:20"
     },
     {
       "id": 1926,
@@ -4160,7 +4260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:15",
-      "ultima_revision": "2026-10-26 08:17:00"
+      "ultima_revision": "2026-10-26 09:10:17"
     },
     {
       "id": 1925,
@@ -4180,14 +4280,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:10",
-      "ultima_revision": "2026-10-26 08:16:54"
+      "ultima_revision": "2026-10-26 09:10:14"
     },
     {
       "id": 1924,
       "tienda": "falabella",
       "titulo": "Polera Manga Corta Algodón Hombre Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883780196/polera-manga-corta-algodon-hombre-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883780221_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883780209_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 19990,
       "precio_normal": null,
@@ -4200,7 +4300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:05",
-      "ultima_revision": "2026-10-26 08:16:49"
+      "ultima_revision": "2026-10-26 09:10:11"
     },
     {
       "id": 1923,
@@ -4220,7 +4320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:18:00",
-      "ultima_revision": "2026-10-26 08:16:43"
+      "ultima_revision": "2026-10-26 09:10:08"
     },
     {
       "id": 1922,
@@ -4260,7 +4360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:52",
-      "ultima_revision": "2026-10-26 08:16:36"
+      "ultima_revision": "2026-10-26 09:11:37"
     },
     {
       "id": 1920,
@@ -4280,7 +4380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:46",
-      "ultima_revision": "2026-10-26 08:16:31"
+      "ultima_revision": "2026-10-26 09:09:55"
     },
     {
       "id": 1919,
@@ -4320,7 +4420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:38",
-      "ultima_revision": "2026-10-26 08:16:23"
+      "ultima_revision": "2026-10-26 09:10:23"
     },
     {
       "id": 1917,
@@ -4340,7 +4440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:28",
-      "ultima_revision": "2026-10-26 07:01:38"
+      "ultima_revision": "2026-10-26 09:09:35"
     },
     {
       "id": 1916,
@@ -4360,7 +4460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:25",
-      "ultima_revision": "2026-10-26 08:16:12"
+      "ultima_revision": "2026-10-26 09:09:31"
     },
     {
       "id": 1915,
@@ -4380,7 +4480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:21",
-      "ultima_revision": "2026-10-26 08:16:06"
+      "ultima_revision": "2026-10-26 09:09:23"
     },
     {
       "id": 1914,
@@ -4400,7 +4500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:15",
-      "ultima_revision": "2026-10-26 08:16:10"
+      "ultima_revision": "2026-10-26 09:09:28"
     },
     {
       "id": 1913,
@@ -4420,14 +4520,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:11",
-      "ultima_revision": "2026-10-26 08:16:00"
+      "ultima_revision": "2026-10-26 09:09:20"
     },
     {
       "id": 1912,
       "tienda": "falabella",
       "titulo": "Jeans Culotte Mujer S Cocci",
       "url": "https://www.falabella.com/falabella-cl/product/883526279/jeans-culotte-mujer-s-cocci",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883526785_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883526786_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 24990,
       "precio_normal": null,
@@ -4440,7 +4540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:07",
-      "ultima_revision": "2026-10-26 08:15:55"
+      "ultima_revision": "2026-10-26 09:09:17"
     },
     {
       "id": 1911,
@@ -4460,7 +4560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:04",
-      "ultima_revision": "2026-10-26 08:15:50"
+      "ultima_revision": "2026-10-26 09:09:11"
     },
     {
       "id": 1910,
@@ -4480,7 +4580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:17:00",
-      "ultima_revision": "2026-10-26 08:14:37"
+      "ultima_revision": "2026-10-26 09:09:06"
     },
     {
       "id": 1909,
@@ -4520,7 +4620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:51",
-      "ultima_revision": "2026-10-26 08:15:39"
+      "ultima_revision": "2026-10-26 09:08:58"
     },
     {
       "id": 1907,
@@ -4540,7 +4640,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:46",
-      "ultima_revision": "2026-10-26 08:15:33"
+      "ultima_revision": "2026-10-26 09:08:52"
     },
     {
       "id": 1906,
@@ -4560,7 +4660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:41",
-      "ultima_revision": "2026-10-26 08:15:29"
+      "ultima_revision": "2026-10-26 09:08:48"
     },
     {
       "id": 1905,
@@ -4580,7 +4680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:37",
-      "ultima_revision": "2026-10-26 08:15:24"
+      "ultima_revision": "2026-10-26 09:08:45"
     },
     {
       "id": 1904,
@@ -4600,14 +4700,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:34",
-      "ultima_revision": "2026-10-26 08:15:19"
+      "ultima_revision": "2026-10-26 09:08:40"
     },
     {
       "id": 1903,
       "tienda": "falabella",
       "titulo": "Jeans Hombre 505 Regular Fit Levis",
       "url": "https://www.falabella.com/falabella-cl/product/80781499/jeans-hombre-505-regular-fit-levis",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80781732_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80781734_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 36990,
       "precio_normal": 64990,
@@ -4620,14 +4720,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:29",
-      "ultima_revision": "2026-10-26 08:15:13"
+      "ultima_revision": "2026-10-26 09:08:37"
     },
     {
       "id": 1902,
       "tienda": "falabella",
       "titulo": "Jeans Mujer 03 Wide Leg Fit Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883699095/jeans-mujer-03-wide-leg-fit-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883700218_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883700217_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 29990,
       "precio_normal": null,
@@ -4640,7 +4740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:24",
-      "ultima_revision": "2026-10-26 08:15:05"
+      "ultima_revision": "2026-10-26 09:08:34"
     },
     {
       "id": 1901,
@@ -4660,7 +4760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:20",
-      "ultima_revision": "2026-10-26 08:15:01"
+      "ultima_revision": "2026-10-26 09:08:30"
     },
     {
       "id": 1900,
@@ -4680,7 +4780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:16",
-      "ultima_revision": "2026-10-26 08:14:57"
+      "ultima_revision": "2026-10-26 09:08:26"
     },
     {
       "id": 1899,
@@ -4700,7 +4800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:13",
-      "ultima_revision": "2026-10-26 08:14:53"
+      "ultima_revision": "2026-10-26 09:08:23"
     },
     {
       "id": 1898,
@@ -4720,7 +4820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:08",
-      "ultima_revision": "2026-10-26 08:14:51"
+      "ultima_revision": "2026-10-26 09:08:19"
     },
     {
       "id": 1897,
@@ -4740,7 +4840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:16:04",
-      "ultima_revision": "2026-10-26 08:14:46"
+      "ultima_revision": "2026-10-26 09:08:16"
     },
     {
       "id": 1896,
@@ -4760,7 +4860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:59",
-      "ultima_revision": "2026-10-26 08:14:42"
+      "ultima_revision": "2026-10-26 09:08:12"
     },
     {
       "id": 1895,
@@ -4800,7 +4900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:51",
-      "ultima_revision": "2026-10-26 07:01:07"
+      "ultima_revision": "2026-10-26 09:08:07"
     },
     {
       "id": 1893,
@@ -4820,7 +4920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:46",
-      "ultima_revision": "2026-10-26 08:14:29"
+      "ultima_revision": "2026-10-26 09:07:59"
     },
     {
       "id": 1892,
@@ -4840,7 +4940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:43",
-      "ultima_revision": "2026-10-26 08:14:27"
+      "ultima_revision": "2026-10-26 09:07:55"
     },
     {
       "id": 1891,
@@ -4860,14 +4960,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:39",
-      "ultima_revision": "2026-10-26 08:14:23"
+      "ultima_revision": "2026-10-26 09:07:52"
     },
     {
       "id": 1890,
       "tienda": "falabella",
       "titulo": "Jeans Baggy Hombre Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883858111/jeans-baggy-hombre-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883858142_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883858150_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 29990,
       "precio_normal": 39990,
@@ -4880,7 +4980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:36",
-      "ultima_revision": "2026-10-26 08:14:20"
+      "ultima_revision": "2026-10-26 09:07:48"
     },
     {
       "id": 1889,
@@ -4900,7 +5000,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:31",
-      "ultima_revision": "2026-10-26 07:00:02"
+      "ultima_revision": "2026-10-26 09:07:43"
     },
     {
       "id": 1888,
@@ -4920,7 +5020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:27",
-      "ultima_revision": "2026-10-26 08:15:09"
+      "ultima_revision": "2026-10-26 09:07:39"
     },
     {
       "id": 1887,
@@ -4940,14 +5040,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:16",
-      "ultima_revision": "2026-10-26 08:13:42"
+      "ultima_revision": "2026-10-26 09:07:11"
     },
     {
       "id": 1886,
       "tienda": "falabella",
       "titulo": "Parka Hombre Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883736915/Parka-Hombre-Americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883736916_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883736918_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 49990,
       "precio_normal": 99990,
@@ -4960,7 +5060,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:15:11",
-      "ultima_revision": "2026-10-26 08:13:46"
+      "ultima_revision": "2026-10-26 09:07:15"
     },
     {
       "id": 1885,
@@ -5020,7 +5120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:56",
-      "ultima_revision": "2026-10-26 08:13:38"
+      "ultima_revision": "2026-10-26 09:07:06"
     },
     {
       "id": 1882,
@@ -5040,7 +5140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:52",
-      "ultima_revision": "2026-10-26 08:13:34"
+      "ultima_revision": "2026-10-26 09:07:02"
     },
     {
       "id": 1881,
@@ -5060,14 +5160,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:46",
-      "ultima_revision": "2026-10-26 08:13:50"
+      "ultima_revision": "2026-10-26 09:07:23"
     },
     {
       "id": 1880,
       "tienda": "falabella",
       "titulo": "Parka Acolchada Sin Mangas Mujer Newport",
       "url": "https://www.falabella.com/falabella-cl/product/883849569/parka-acolchada-sin-mangas-mujer-newport",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883849570_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883849576_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 24990,
       "precio_normal": null,
@@ -5080,7 +5180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:42",
-      "ultima_revision": "2026-10-26 08:13:30"
+      "ultima_revision": "2026-10-26 09:06:57"
     },
     {
       "id": 1879,
@@ -5100,7 +5200,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:37",
-      "ultima_revision": "2026-10-26 08:13:26"
+      "ultima_revision": "2026-10-26 09:06:52"
     },
     {
       "id": 1878,
@@ -5120,14 +5220,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:32",
-      "ultima_revision": "2026-10-26 08:13:17"
+      "ultima_revision": "2026-10-26 09:06:44"
     },
     {
       "id": 1877,
       "tienda": "falabella",
       "titulo": "Parka Mujer Tommy Hilfiger",
       "url": "https://www.falabella.com/falabella-cl/product/883786515/Parka-Mujer-Tommy-Hilfiger",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883786519_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883786516_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 76990,
       "precio_normal": 109990,
@@ -5140,7 +5240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:29",
-      "ultima_revision": "2026-10-26 08:13:22"
+      "ultima_revision": "2026-10-26 09:06:48"
     },
     {
       "id": 1876,
@@ -5160,7 +5260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:26",
-      "ultima_revision": "2026-10-26 08:13:14"
+      "ultima_revision": "2026-10-26 09:06:40"
     },
     {
       "id": 1875,
@@ -5180,7 +5280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:21",
-      "ultima_revision": "2026-10-26 08:13:12"
+      "ultima_revision": "2026-10-26 09:06:35"
     },
     {
       "id": 1874,
@@ -5200,7 +5300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:16",
-      "ultima_revision": "2026-10-26 08:13:08"
+      "ultima_revision": "2026-10-26 09:06:30"
     },
     {
       "id": 1873,
@@ -5220,7 +5320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:11",
-      "ultima_revision": "2026-10-26 08:13:02"
+      "ultima_revision": "2026-10-26 09:06:25"
     },
     {
       "id": 1872,
@@ -5240,14 +5340,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:08",
-      "ultima_revision": "2026-10-26 08:12:55"
+      "ultima_revision": "2026-10-26 09:06:17"
     },
     {
       "id": 1871,
       "tienda": "falabella",
       "titulo": "Parka Deportiva Hombre Fratta",
       "url": "https://www.falabella.com/falabella-cl/product/883611720/PARKA-DEPORTIVA-PK.M.BAPAD",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611727_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883611721_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 16990,
       "precio_normal": 29990,
@@ -5260,7 +5360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:04",
-      "ultima_revision": "2026-10-26 08:12:58"
+      "ultima_revision": "2026-10-26 09:06:22"
     },
     {
       "id": 1870,
@@ -5280,7 +5380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:14:00",
-      "ultima_revision": "2026-10-26 08:12:50"
+      "ultima_revision": "2026-10-26 09:06:13"
     },
     {
       "id": 1869,
@@ -5300,7 +5400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:57",
-      "ultima_revision": "2026-10-26 08:12:30"
+      "ultima_revision": "2026-10-26 09:05:56"
     },
     {
       "id": 1868,
@@ -5320,7 +5420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:53",
-      "ultima_revision": "2026-10-26 08:12:46"
+      "ultima_revision": "2026-10-26 09:06:09"
     },
     {
       "id": 1867,
@@ -5340,7 +5440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:49",
-      "ultima_revision": "2026-10-26 08:12:42"
+      "ultima_revision": "2026-10-26 09:06:04"
     },
     {
       "id": 1866,
@@ -5360,7 +5460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:46",
-      "ultima_revision": "2026-10-26 08:12:38"
+      "ultima_revision": "2026-10-26 09:06:01"
     },
     {
       "id": 1865,
@@ -5420,14 +5520,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:37",
-      "ultima_revision": "2026-10-26 08:12:27"
+      "ultima_revision": "2026-10-26 09:05:47"
     },
     {
       "id": 1862,
       "tienda": "falabella",
       "titulo": "Parka Deportiva Hombre Diadora",
       "url": "https://www.falabella.com/falabella-cl/product/883604308/Parka-Deportiva-Hombre-Diadora",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883688107_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883774822_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 21990,
       "precio_normal": 44990,
@@ -5440,7 +5540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:34",
-      "ultima_revision": "2026-10-26 08:12:21"
+      "ultima_revision": "2026-10-26 09:05:43"
     },
     {
       "id": 1861,
@@ -5480,7 +5580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:24",
-      "ultima_revision": "2026-10-26 08:12:16"
+      "ultima_revision": "2026-10-26 09:05:34"
     },
     {
       "id": 1859,
@@ -5520,7 +5620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:15",
-      "ultima_revision": "2026-10-26 08:12:09"
+      "ultima_revision": "2026-10-26 09:05:26"
     },
     {
       "id": 1857,
@@ -5560,14 +5660,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:13:00",
-      "ultima_revision": "2026-10-26 08:11:55"
+      "ultima_revision": "2026-10-26 09:05:14"
     },
     {
       "id": 1855,
       "tienda": "falabella",
       "titulo": "Chaqueta 100% Cuero Mujer Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883850484/chaqueta-100-cuero-mujer-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883850492_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883850485_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 129990,
       "precio_normal": null,
@@ -5580,7 +5680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:56",
-      "ultima_revision": "2026-10-26 08:11:52"
+      "ultima_revision": "2026-10-26 09:05:09"
     },
     {
       "id": 1854,
@@ -5600,7 +5700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:51",
-      "ultima_revision": "2026-10-26 08:11:47"
+      "ultima_revision": "2026-10-26 09:05:05"
     },
     {
       "id": 1853,
@@ -5620,7 +5720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:46",
-      "ultima_revision": "2026-10-26 08:11:45"
+      "ultima_revision": "2026-10-26 09:05:02"
     },
     {
       "id": 1852,
@@ -5640,7 +5740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:41",
-      "ultima_revision": "2026-10-26 08:11:40"
+      "ultima_revision": "2026-10-26 09:04:59"
     },
     {
       "id": 1851,
@@ -5660,7 +5760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:36",
-      "ultima_revision": "2026-10-26 08:10:10"
+      "ultima_revision": "2026-10-26 09:04:55"
     },
     {
       "id": 1850,
@@ -5680,14 +5780,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:32",
-      "ultima_revision": "2026-10-26 08:11:38"
+      "ultima_revision": "2026-10-26 09:04:50"
     },
     {
       "id": 1849,
       "tienda": "falabella",
       "titulo": "Chaqueta 100% Cuero Mujer Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883853049/chaqueta-100-cuero-mujer-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883853050_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883853053_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 129990,
       "precio_normal": null,
@@ -5700,7 +5800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:27",
-      "ultima_revision": "2026-10-26 08:11:35"
+      "ultima_revision": "2026-10-26 09:04:46"
     },
     {
       "id": 1848,
@@ -5720,7 +5820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:22",
-      "ultima_revision": "2026-10-26 08:11:32"
+      "ultima_revision": "2026-10-26 09:04:42"
     },
     {
       "id": 1847,
@@ -5740,7 +5840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:17",
-      "ultima_revision": "2026-10-26 08:11:28"
+      "ultima_revision": "2026-10-26 09:04:37"
     },
     {
       "id": 1846,
@@ -5760,7 +5860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:12:14",
-      "ultima_revision": "2026-10-26 08:11:25"
+      "ultima_revision": "2026-10-26 09:04:32"
     },
     {
       "id": 1845,
@@ -5807,7 +5907,7 @@
       "tienda": "falabella",
       "titulo": "Chaqueta Efecto Piel Bolsillos Mujer Mango",
       "url": "https://www.falabella.com/falabella-cl/product/17707846/chaqueta-efecto-piel-bolsillos-mujer-mango",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17707849_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17707847_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 89990,
       "precio_normal": null,
@@ -5820,7 +5920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:11:58",
-      "ultima_revision": "2026-10-26 08:11:14"
+      "ultima_revision": "2026-10-26 09:04:22"
     },
     {
       "id": 1842,
@@ -5840,7 +5940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:11:54",
-      "ultima_revision": "2026-10-26 08:11:09"
+      "ultima_revision": "2026-10-26 09:04:18"
     },
     {
       "id": 1841,
@@ -5860,7 +5960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:11:45",
-      "ultima_revision": "2026-10-26 08:11:00"
+      "ultima_revision": "2026-10-26 09:04:09"
     },
     {
       "id": 1840,
@@ -5880,7 +5980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:11:42",
-      "ultima_revision": "2026-10-26 08:10:57"
+      "ultima_revision": "2026-10-26 09:04:05"
     },
     {
       "id": 1839,
@@ -5900,113 +6000,13 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-26 00:11:36",
-      "ultima_revision": "2026-10-26 08:10:53"
-    },
-    {
-      "id": 1838,
-      "tienda": "falabella",
-      "titulo": "Chaqueta Mujer  Sybilla",
-      "url": "https://www.falabella.com/falabella-cl/product/883630528/Chaqueta-Mujer--Sybilla",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883630529_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 29990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-26 00:11:31",
-      "ultima_revision": "2026-10-26 08:10:50"
-    },
-    {
-      "id": 1837,
-      "tienda": "falabella",
-      "titulo": "Chaqueta Mujer Basement",
-      "url": "https://www.falabella.com/falabella-cl/product/883857244/chaqueta-mujer-basement",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883857247_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 23990,
-      "precio_normal": 34990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 34990,
-      "descuento_pct": 31,
-      "ahorro_pesos": 11000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-26 00:11:27",
-      "ultima_revision": "2026-10-26 08:10:46"
-    },
-    {
-      "id": 1836,
-      "tienda": "falabella",
-      "titulo": "Chaqueta Hombre Americanino",
-      "url": "https://www.falabella.com/falabella-cl/product/883829587/chaqueta-hombre-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883829588_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 69990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-26 00:11:22",
-      "ultima_revision": "2026-10-26 08:10:41"
-    },
-    {
-      "id": 1835,
-      "tienda": "falabella",
-      "titulo": "Chaqueta Hombre Regular Fit Azul Levis",
-      "url": "https://www.falabella.com/falabella-cl/product/116512868/chaqueta-hombre-regular-fit-azul-levis",
-      "imagen_url": "https://media.falabella.com/falabellaCL/116512873_01/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 72990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-26 00:11:18",
-      "ultima_revision": "2026-10-26 00:11:18"
-    },
-    {
-      "id": 1834,
-      "tienda": "falabella",
-      "titulo": "Cortaviento Mujer Panama Jack",
-      "url": "https://www.falabella.com/falabella-cl/product/151379013/chaqueta-mujer-casual-beige-panama-jack",
-      "imagen_url": "https://media.falabella.com/falabellaCL/151379012_01/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 42990,
-      "precio_normal": 49990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 49990,
-      "descuento_pct": 14,
-      "ahorro_pesos": 7000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-26 00:11:12",
-      "ultima_revision": "2026-10-26 06:56:14"
+      "ultima_revision": "2026-10-26 09:04:00"
     }
   ],
   "estadisticas": {
-    "total_productos": 2136,
+    "total_productos": 2141,
     "tiendas": 53,
-    "alertas_enviadas": 933,
+    "alertas_enviadas": 938,
     "descuento_maximo": 66
   }
 }
