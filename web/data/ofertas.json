@@ -1,7 +1,367 @@
 {
-  "actualizado_el": "2026-10-29T04:20:14.859705",
+  "actualizado_el": "2026-10-29T05:20:14.601578",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 44,
+      "tienda": "falabella",
+      "titulo": "Apple iPhone 17 Pro Max",
+      "url": "https://www.falabella.com/falabella-cl/product/17564075/Apple-iPhone-17-Pro-Max",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17564075_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1499990,
+      "precio_normal": 1549990,
+      "precio_tarjeta": 1479990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 1549990,
+      "descuento_pct": 3,
+      "ahorro_pesos": 50000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:20:09",
+      "ultima_revision": "2026-10-29 04:39:52"
+    },
+    {
+      "id": 43,
+      "tienda": "falabella",
+      "titulo": "Samsung Galaxy A07 LTE 128GB Negro",
+      "url": "https://www.falabella.com/falabella-cl/product/17558926/Samsung%20Galaxy%20A07%20LTE%20128GB%20Negro",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17558926_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 139990,
+      "precio_normal": 149990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 149990,
+      "descuento_pct": 7,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:20:04",
+      "ultima_revision": "2026-10-29 04:39:24"
+    },
+    {
+      "id": 42,
+      "tienda": "falabella",
+      "titulo": "Apple iPhone 17 Pro",
+      "url": "https://www.falabella.com/falabella-cl/product/17564066/apple-iphone-17-pro",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17564066_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1349990,
+      "precio_normal": 1429990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 1429990,
+      "descuento_pct": 6,
+      "ahorro_pesos": 80000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:58",
+      "ultima_revision": "2026-10-29 04:39:34"
+    },
+    {
+      "id": 1630,
+      "tienda": "falabella",
+      "titulo": "SMART TV 55\" NANO UHD AI NU800 4K 2026 LG",
+      "url": "https://www.falabella.com/falabella-cl/product/80758800/smart-tv-55-nano-uhd-ai-nu800-4k-2026-lg",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80758800_1/public",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 339990,
+      "precio_normal": 419990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 419990,
+      "descuento_pct": 19,
+      "ahorro_pesos": 80000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:50",
+      "ultima_revision": "2026-10-29 04:42:34"
+    },
+    {
+      "id": 2245,
+      "tienda": "abc",
+      "titulo": "Kit Levo Proyector Smart Lumix + Telón Mural 80\"",
+      "url": "https://www.abc.cl/kit-levo-proyector-smart-lumix-telon-mural-80/28114630.html",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 409980,
+      "precio_normal": 409980,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:45",
+      "ultima_revision": "2026-10-29 05:16:33"
+    },
+    {
+      "id": 39,
+      "tienda": "falabella",
+      "titulo": "Celular Motorola Edge 70 12+512GB",
+      "url": "https://www.falabella.com/falabella-cl/product/17703317/celular-motorola-edge-70-12512gb",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17703317_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 549990,
+      "precio_normal": 799990,
+      "precio_tarjeta": 529990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 799990,
+      "descuento_pct": 31,
+      "ahorro_pesos": 250000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:18",
+      "ultima_revision": "2026-10-29 04:39:39"
+    },
+    {
+      "id": 36,
+      "tienda": "falabella",
+      "titulo": "Celular Motorola G06 128GB",
+      "url": "https://www.falabella.com/falabella-cl/product/17632413/celular-motorola-g06-128gb",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17632413_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 124990,
+      "precio_normal": 129990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 129990,
+      "descuento_pct": 4,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:13",
+      "ultima_revision": "2026-10-29 04:39:06"
+    },
+    {
+      "id": 35,
+      "tienda": "falabella",
+      "titulo": "Apple iPhone 17",
+      "url": "https://www.falabella.com/falabella-cl/product/17564056/apple-iphone-17",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17564056_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1049990,
+      "precio_normal": 1099990,
+      "precio_tarjeta": 1029990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 1099990,
+      "descuento_pct": 5,
+      "ahorro_pesos": 50000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:09",
+      "ultima_revision": "2026-10-29 04:38:41"
+    },
+    {
+      "id": 34,
+      "tienda": "falabella",
+      "titulo": "Apple iPhone 18 Pro",
+      "url": "https://www.falabella.com/falabella-cl/product/17776863/iphone-18-pro-256gb-black",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17776863_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1539990,
+      "precio_normal": 1549990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 1549990,
+      "descuento_pct": 1,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:05",
+      "ultima_revision": "2026-10-29 04:38:57"
+    },
+    {
+      "id": 33,
+      "tienda": "falabella",
+      "titulo": "Apple iPhone 18 Pro Max",
+      "url": "https://www.falabella.com/falabella-cl/product/17776877/iphone-18-pro-max-256gb-burgundy",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17776875_1/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1699990,
+      "precio_normal": null,
+      "precio_tarjeta": 1659990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:19:02",
+      "ultima_revision": "2026-10-29 04:38:51"
+    },
+    {
+      "id": 2511,
+      "tienda": "falabella",
+      "titulo": "Short Deportivo Hombre Puma",
+      "url": "https://www.falabella.com/falabella-cl/product/17328461/short-deportivo-hombre-puma",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17328464_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 11990,
+      "precio_normal": 19990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 19990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 8000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:13:47",
+      "ultima_revision": "2026-10-29 05:13:46"
+    },
+    {
+      "id": 2510,
+      "tienda": "falabella",
+      "titulo": "Polera Cuello Camisero Hombre",
+      "url": "https://www.falabella.com/falabella-cl/product/157585919/polera-cuello-camisero-hombre",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157585921_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 14190,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:11:56",
+      "ultima_revision": "2026-10-29 05:11:56"
+    },
+    {
+      "id": 2329,
+      "tienda": "falabella",
+      "titulo": "Polera Algodón Manga Corta Mujer Mango",
+      "url": "https://www.falabella.com/falabella-cl/product/17675560/polera-algodon-manga-corta-mujer-mango",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17675561_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 9990,
+      "precio_normal": 14990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 14990,
+      "descuento_pct": 33,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:11:53",
+      "ultima_revision": "2026-10-29 05:11:52"
+    },
+    {
+      "id": 2509,
+      "tienda": "falabella",
+      "titulo": "Jeans Hombre Regular Fit",
+      "url": "https://www.falabella.com/falabella-cl/product/157571975/jeans-hombre-regular-fit",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157571976_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 22990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:09:35",
+      "ultima_revision": "2026-10-29 05:09:35"
+    },
+    {
+      "id": 2508,
+      "tienda": "falabella",
+      "titulo": "Jeans  Pillin Azul Niño (PVD713-26DEN)",
+      "url": "https://www.falabella.com/falabella-cl/product/151849362/jeans-pillin-azul-nino-pvd713-26den",
+      "imagen_url": "https://media.falabella.com/falabellaCL/151849364_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 11690,
+      "precio_normal": 25990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 25990,
+      "descuento_pct": 55,
+      "ahorro_pesos": 14300,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 05:08:17",
+      "ultima_revision": "2026-10-29 05:08:17"
+    },
+    {
+      "id": 2507,
+      "tienda": "falabella",
+      "titulo": "Motorola Razr 60 5G (8+256GB)",
+      "url": "https://www.falabella.com/falabella-cl/product/157622272/motorola-razr-60-5g-8256gb",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157622275_01/public",
+      "categoria": "Otros",
+      "precio_internet": 634990,
+      "precio_normal": 761988,
+      "precio_tarjeta": 599990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 761988,
+      "descuento_pct": 17,
+      "ahorro_pesos": 126998,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 04:40:18",
+      "ultima_revision": "2026-10-29 04:40:18"
+    },
+    {
+      "id": 2506,
+      "tienda": "falabella",
+      "titulo": "iPhone 15 Pro Max 256GB Reacondicionado ESIM",
+      "url": "https://www.falabella.com/falabella-cl/product/149218644/iPhone-15-Pro-Max-256GB-Negro-Titanio-Reacondicionado",
+      "imagen_url": "https://media.falabella.com/falabellaCL/149218645_01/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 829990,
+      "precio_normal": 1099990,
+      "precio_tarjeta": 799990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 1099990,
+      "descuento_pct": 25,
+      "ahorro_pesos": 270000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 04:39:21",
+      "ultima_revision": "2026-10-29 04:39:20"
+    },
+    {
+      "id": 1592,
+      "tienda": "falabella",
+      "titulo": "Celular Huawei Mate X7 512GB",
+      "url": "https://www.falabella.com/falabella-cl/product/17647243/celular-huawei-mate-x7-512gb",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17647243_01/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 1899990,
+      "precio_normal": 2199990,
+      "precio_tarjeta": 1799990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 2199990,
+      "descuento_pct": 14,
+      "ahorro_pesos": 300000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-10-29 04:38:46",
+      "ultima_revision": "2026-10-29 04:38:45"
+    },
     {
       "id": 2505,
       "tienda": "falabella",
@@ -20,7 +380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 04:03:42",
-      "ultima_revision": "2026-10-29 04:03:42"
+      "ultima_revision": "2026-10-29 05:03:51"
     },
     {
       "id": 2504,
@@ -40,7 +400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 04:03:38",
-      "ultima_revision": "2026-10-29 04:03:37"
+      "ultima_revision": "2026-10-29 05:04:38"
     },
     {
       "id": 2209,
@@ -60,7 +420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 04:00:50",
-      "ultima_revision": "2026-10-29 04:00:49"
+      "ultima_revision": "2026-10-29 05:00:47"
     },
     {
       "id": 2503,
@@ -140,7 +500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:41:19",
-      "ultima_revision": "2026-10-29 03:41:19"
+      "ultima_revision": "2026-10-29 04:42:22"
     },
     {
       "id": 77,
@@ -160,7 +520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:41:04",
-      "ultima_revision": "2026-10-29 03:41:04"
+      "ultima_revision": "2026-10-29 04:42:06"
     },
     {
       "id": 65,
@@ -180,7 +540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:40:27",
-      "ultima_revision": "2026-10-29 03:40:26"
+      "ultima_revision": "2026-10-29 04:41:22"
     },
     {
       "id": 69,
@@ -200,7 +560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:40:00",
-      "ultima_revision": "2026-10-29 03:39:59"
+      "ultima_revision": "2026-10-29 04:40:53"
     },
     {
       "id": 31,
@@ -223,26 +583,6 @@
       "ultima_revision": "2026-10-29 03:39:42"
     },
     {
-      "id": 34,
-      "tienda": "falabella",
-      "titulo": "Apple iPhone 18 Pro",
-      "url": "https://www.falabella.com/falabella-cl/product/17776863/iphone-18-pro-256gb-black",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17776863_1/public",
-      "categoria": "Telefonía y Wearables",
-      "precio_internet": 1539990,
-      "precio_normal": 1549990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 1549990,
-      "descuento_pct": 1,
-      "ahorro_pesos": 10000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-29 03:37:57",
-      "ultima_revision": "2026-10-29 03:37:57"
-    },
-    {
       "id": 1374,
       "tienda": "falabella",
       "titulo": "Vivobook 15 X1504VA-E84208W X1504 C5 16GB 512GB SSD 15P FHD Asus",
@@ -260,7 +600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:36:57",
-      "ultima_revision": "2026-10-29 03:36:56"
+      "ultima_revision": "2026-10-29 04:37:54"
     },
     {
       "id": 3,
@@ -280,7 +620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:35:46",
-      "ultima_revision": "2026-10-29 03:35:45"
+      "ultima_revision": "2026-10-29 04:36:44"
     },
     {
       "id": 1529,
@@ -300,7 +640,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:23:23",
-      "ultima_revision": "2026-10-29 04:16:09"
+      "ultima_revision": "2026-10-29 05:16:14"
     },
     {
       "id": 159,
@@ -320,7 +660,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 03:21:54",
-      "ultima_revision": "2026-10-29 03:46:42"
+      "ultima_revision": "2026-10-29 04:47:42"
     },
     {
       "id": 2501,
@@ -380,7 +720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 02:39:40",
-      "ultima_revision": "2026-10-29 03:37:05"
+      "ultima_revision": "2026-10-29 04:38:08"
     },
     {
       "id": 2499,
@@ -640,7 +980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 02:02:29",
-      "ultima_revision": "2026-10-29 02:02:29"
+      "ultima_revision": "2026-10-29 04:50:32"
     },
     {
       "id": 1563,
@@ -1080,7 +1420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-29 00:36:36",
-      "ultima_revision": "2026-10-29 03:41:29"
+      "ultima_revision": "2026-10-29 04:42:30"
     },
     {
       "id": 20,
@@ -1260,7 +1600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:51:37",
-      "ultima_revision": "2026-10-29 04:02:35"
+      "ultima_revision": "2026-10-29 05:02:30"
     },
     {
       "id": 2475,
@@ -1320,7 +1660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:35:35",
-      "ultima_revision": "2026-10-29 02:48:15"
+      "ultima_revision": "2026-10-29 04:46:56"
     },
     {
       "id": 2410,
@@ -1420,7 +1760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:03:36",
-      "ultima_revision": "2026-10-28 23:03:36"
+      "ultima_revision": "2026-10-29 05:08:20"
     },
     {
       "id": 2472,
@@ -1440,7 +1780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:02:32",
-      "ultima_revision": "2026-10-28 23:02:32"
+      "ultima_revision": "2026-10-29 05:09:30"
     },
     {
       "id": 2471,
@@ -1460,7 +1800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:02:08",
-      "ultima_revision": "2026-10-28 23:57:07"
+      "ultima_revision": "2026-10-29 05:07:56"
     },
     {
       "id": 1870,
@@ -1480,7 +1820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 23:00:29",
-      "ultima_revision": "2026-10-29 04:06:32"
+      "ultima_revision": "2026-10-29 05:06:26"
     },
     {
       "id": 176,
@@ -1500,7 +1840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 22:40:01",
-      "ultima_revision": "2026-10-29 03:48:19"
+      "ultima_revision": "2026-10-29 04:47:28"
     },
     {
       "id": 1558,
@@ -1520,7 +1860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 22:39:25",
-      "ultima_revision": "2026-10-29 02:46:27"
+      "ultima_revision": "2026-10-29 04:46:53"
     },
     {
       "id": 1511,
@@ -1560,7 +1900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 22:07:07",
-      "ultima_revision": "2026-10-29 04:13:15"
+      "ultima_revision": "2026-10-29 05:13:17"
     },
     {
       "id": 1828,
@@ -1580,7 +1920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 21:56:03",
-      "ultima_revision": "2026-10-29 04:03:20"
+      "ultima_revision": "2026-10-29 05:03:05"
     },
     {
       "id": 155,
@@ -1600,7 +1940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 21:39:23",
-      "ultima_revision": "2026-10-28 22:41:32"
+      "ultima_revision": "2026-10-29 04:48:57"
     },
     {
       "id": 1562,
@@ -1620,7 +1960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 21:39:05",
-      "ultima_revision": "2026-10-29 03:47:01"
+      "ultima_revision": "2026-10-29 04:47:59"
     },
     {
       "id": 1364,
@@ -1640,7 +1980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 21:38:40",
-      "ultima_revision": "2026-10-29 01:56:39"
+      "ultima_revision": "2026-10-29 04:45:20"
     },
     {
       "id": 2469,
@@ -1787,7 +2127,7 @@
       "tienda": "falabella",
       "titulo": "Chaqueta Denim Mujer Basement",
       "url": "https://www.falabella.com/falabella-cl/product/883723039/chaqueta-denim-mujer-basement",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883723040_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883723043_1/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 39990,
       "precio_normal": null,
@@ -1800,7 +2140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:08:11",
-      "ultima_revision": "2026-10-28 20:08:11"
+      "ultima_revision": "2026-10-29 05:05:28"
     },
     {
       "id": 1831,
@@ -1820,7 +2160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:06:35",
-      "ultima_revision": "2026-10-29 04:03:47"
+      "ultima_revision": "2026-10-29 05:03:40"
     },
     {
       "id": 1822,
@@ -1840,7 +2180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:05:16",
-      "ultima_revision": "2026-10-29 04:02:38"
+      "ultima_revision": "2026-10-29 05:02:34"
     },
     {
       "id": 1819,
@@ -1860,7 +2200,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:05:05",
-      "ultima_revision": "2026-10-29 04:02:25"
+      "ultima_revision": "2026-10-29 05:02:23"
     },
     {
       "id": 1814,
@@ -1880,7 +2220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:04:47",
-      "ultima_revision": "2026-10-29 04:02:09"
+      "ultima_revision": "2026-10-29 05:02:09"
     },
     {
       "id": 1810,
@@ -1900,7 +2240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:04:38",
-      "ultima_revision": "2026-10-29 04:01:59"
+      "ultima_revision": "2026-10-29 05:02:01"
     },
     {
       "id": 1784,
@@ -1920,7 +2260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:02:41",
-      "ultima_revision": "2026-10-29 04:00:07"
+      "ultima_revision": "2026-10-29 05:00:12"
     },
     {
       "id": 1766,
@@ -1940,7 +2280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:02:19",
-      "ultima_revision": "2026-10-29 03:59:49"
+      "ultima_revision": "2026-10-29 04:59:56"
     },
     {
       "id": 1774,
@@ -1960,7 +2300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:01:37",
-      "ultima_revision": "2026-10-29 03:58:58"
+      "ultima_revision": "2026-10-29 04:59:18"
     },
     {
       "id": 1776,
@@ -1980,7 +2320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:01:17",
-      "ultima_revision": "2026-10-29 03:58:44"
+      "ultima_revision": "2026-10-29 04:59:07"
     },
     {
       "id": 1772,
@@ -2000,7 +2340,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:00:45",
-      "ultima_revision": "2026-10-29 03:58:11"
+      "ultima_revision": "2026-10-29 04:58:30"
     },
     {
       "id": 1771,
@@ -2020,7 +2360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 20:00:17",
-      "ultima_revision": "2026-10-29 03:57:53"
+      "ultima_revision": "2026-10-29 04:58:03"
     },
     {
       "id": 1761,
@@ -2040,7 +2380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:59:28",
-      "ultima_revision": "2026-10-29 03:58:07"
+      "ultima_revision": "2026-10-29 04:58:23"
     },
     {
       "id": 1757,
@@ -2060,7 +2400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:58:35",
-      "ultima_revision": "2026-10-29 03:55:58"
+      "ultima_revision": "2026-10-29 04:56:20"
     },
     {
       "id": 1732,
@@ -2080,7 +2420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:57:08",
-      "ultima_revision": "2026-10-29 03:54:34"
+      "ultima_revision": "2026-10-29 04:55:10"
     },
     {
       "id": 1742,
@@ -2100,14 +2440,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:56:57",
-      "ultima_revision": "2026-10-29 03:58:24"
+      "ultima_revision": "2026-10-29 04:58:44"
     },
     {
       "id": 1746,
       "tienda": "falabella",
       "titulo": "Runfalcon 5 Zapatilla Indoor Hombre Gris Adidas",
       "url": "https://www.falabella.com/falabella-cl/product/80760640/runfalcon-5-zapatilla-indoor-hombre-gris-adidas",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80761054_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80761059_1/public",
       "categoria": "Zapatillas y Calzado",
       "precio_internet": 29990,
       "precio_normal": 59990,
@@ -2120,7 +2460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:56:53",
-      "ultima_revision": "2026-10-29 03:54:19"
+      "ultima_revision": "2026-10-29 04:54:55"
     },
     {
       "id": 1741,
@@ -2140,7 +2480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:56:45",
-      "ultima_revision": "2026-10-29 03:54:08"
+      "ultima_revision": "2026-10-29 04:54:48"
     },
     {
       "id": 1730,
@@ -2160,7 +2500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:55:04",
-      "ultima_revision": "2026-10-29 03:59:28"
+      "ultima_revision": "2026-10-29 04:59:36"
     },
     {
       "id": 1729,
@@ -2180,7 +2520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:54:48",
-      "ultima_revision": "2026-10-29 03:57:44"
+      "ultima_revision": "2026-10-29 04:57:55"
     },
     {
       "id": 1719,
@@ -2200,7 +2540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:54:37",
-      "ultima_revision": "2026-10-29 03:58:14"
+      "ultima_revision": "2026-10-29 04:58:35"
     },
     {
       "id": 2153,
@@ -2220,7 +2560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:54:00",
-      "ultima_revision": "2026-10-29 03:57:26"
+      "ultima_revision": "2026-10-29 04:57:34"
     },
     {
       "id": 1714,
@@ -2240,7 +2580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:53:46",
-      "ultima_revision": "2026-10-29 03:57:49"
+      "ultima_revision": "2026-10-29 04:57:59"
     },
     {
       "id": 1716,
@@ -2260,7 +2600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:53:41",
-      "ultima_revision": "2026-10-29 03:51:19"
+      "ultima_revision": "2026-10-29 04:51:54"
     },
     {
       "id": 1545,
@@ -2280,7 +2620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:52:03",
-      "ultima_revision": "2026-10-29 03:49:47"
+      "ultima_revision": "2026-10-29 04:50:20"
     },
     {
       "id": 1544,
@@ -2340,7 +2680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:46:33",
-      "ultima_revision": "2026-10-29 02:46:52"
+      "ultima_revision": "2026-10-29 04:45:01"
     },
     {
       "id": 1538,
@@ -2360,7 +2700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:41:16",
-      "ultima_revision": "2026-10-29 03:39:39"
+      "ultima_revision": "2026-10-29 04:40:42"
     },
     {
       "id": 1973,
@@ -2400,7 +2740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:13:45",
-      "ultima_revision": "2026-10-29 04:13:58"
+      "ultima_revision": "2026-10-29 05:13:55"
     },
     {
       "id": 1961,
@@ -2420,7 +2760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:13:22",
-      "ultima_revision": "2026-10-29 04:13:32"
+      "ultima_revision": "2026-10-29 05:13:30"
     },
     {
       "id": 1957,
@@ -2440,7 +2780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:56",
-      "ultima_revision": "2026-10-29 04:13:10"
+      "ultima_revision": "2026-10-29 05:13:08"
     },
     {
       "id": 1958,
@@ -2460,7 +2800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:51",
-      "ultima_revision": "2026-10-29 04:13:06"
+      "ultima_revision": "2026-10-29 05:13:04"
     },
     {
       "id": 1954,
@@ -2480,7 +2820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:38",
-      "ultima_revision": "2026-10-29 04:12:54"
+      "ultima_revision": "2026-10-29 05:12:52"
     },
     {
       "id": 1949,
@@ -2500,7 +2840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:35",
-      "ultima_revision": "2026-10-29 04:12:49"
+      "ultima_revision": "2026-10-29 05:12:49"
     },
     {
       "id": 1948,
@@ -2520,7 +2860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:14",
-      "ultima_revision": "2026-10-29 04:12:28"
+      "ultima_revision": "2026-10-29 05:12:31"
     },
     {
       "id": 1817,
@@ -2540,7 +2880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:12:03",
-      "ultima_revision": "2026-10-29 04:12:15"
+      "ultima_revision": "2026-10-29 05:12:19"
     },
     {
       "id": 1921,
@@ -2560,7 +2900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:11:37",
-      "ultima_revision": "2026-10-28 23:04:29"
+      "ultima_revision": "2026-10-29 05:10:29"
     },
     {
       "id": 2060,
@@ -2580,7 +2920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:11:31",
-      "ultima_revision": "2026-10-29 04:11:48"
+      "ultima_revision": "2026-10-29 05:11:38"
     },
     {
       "id": 2330,
@@ -2600,7 +2940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:11:21",
-      "ultima_revision": "2026-10-29 04:11:43"
+      "ultima_revision": "2026-10-29 05:11:35"
     },
     {
       "id": 1930,
@@ -2620,7 +2960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:10:32",
-      "ultima_revision": "2026-10-29 04:11:03"
+      "ultima_revision": "2026-10-29 05:11:03"
     },
     {
       "id": 1941,
@@ -2640,7 +2980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:10:02",
-      "ultima_revision": "2026-10-29 04:10:38"
+      "ultima_revision": "2026-10-29 05:11:20"
     },
     {
       "id": 1931,
@@ -2660,7 +3000,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:09:57",
-      "ultima_revision": "2026-10-29 04:10:34"
+      "ultima_revision": "2026-10-29 05:10:48"
     },
     {
       "id": 1937,
@@ -2680,7 +3020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:09:52",
-      "ultima_revision": "2026-10-29 04:10:31"
+      "ultima_revision": "2026-10-29 05:10:45"
     },
     {
       "id": 1920,
@@ -2700,7 +3040,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:09:31",
-      "ultima_revision": "2026-10-29 04:10:14"
+      "ultima_revision": "2026-10-29 05:10:20"
     },
     {
       "id": 1915,
@@ -2720,7 +3060,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:09:12",
-      "ultima_revision": "2026-10-29 04:09:51"
+      "ultima_revision": "2026-10-29 05:09:51"
     },
     {
       "id": 1914,
@@ -2740,7 +3080,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:09:07",
-      "ultima_revision": "2026-10-29 04:09:45"
+      "ultima_revision": "2026-10-29 05:09:54"
     },
     {
       "id": 1913,
@@ -2760,7 +3100,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:08:57",
-      "ultima_revision": "2026-10-29 04:09:36"
+      "ultima_revision": "2026-10-29 05:09:44"
     },
     {
       "id": 1911,
@@ -2780,7 +3120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:08:51",
-      "ultima_revision": "2026-10-29 04:09:31"
+      "ultima_revision": "2026-10-29 05:09:38"
     },
     {
       "id": 1908,
@@ -2800,7 +3140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:08:44",
-      "ultima_revision": "2026-10-29 04:09:14"
+      "ultima_revision": "2026-10-29 05:09:20"
     },
     {
       "id": 1898,
@@ -2820,7 +3160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:08:40",
-      "ultima_revision": "2026-10-29 04:09:11"
+      "ultima_revision": "2026-10-29 05:09:16"
     },
     {
       "id": 1902,
@@ -2840,7 +3180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:08:08",
-      "ultima_revision": "2026-10-29 04:08:51"
+      "ultima_revision": "2026-10-29 05:08:47"
     },
     {
       "id": 2302,
@@ -2900,7 +3240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:07:38",
-      "ultima_revision": "2026-10-29 04:08:31"
+      "ultima_revision": "2026-10-29 05:08:28"
     },
     {
       "id": 1893,
@@ -2920,7 +3260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:07:16",
-      "ultima_revision": "2026-10-29 04:08:13"
+      "ultima_revision": "2026-10-29 05:08:12"
     },
     {
       "id": 2189,
@@ -2940,7 +3280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:07:06",
-      "ultima_revision": "2026-10-29 04:08:05"
+      "ultima_revision": "2026-10-29 05:08:05"
     },
     {
       "id": 1890,
@@ -2960,7 +3300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:07:02",
-      "ultima_revision": "2026-10-29 04:08:01"
+      "ultima_revision": "2026-10-29 05:08:00"
     },
     {
       "id": 1886,
@@ -2980,7 +3320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:06:04",
-      "ultima_revision": "2026-10-29 04:07:03"
+      "ultima_revision": "2026-10-29 05:06:52"
     },
     {
       "id": 2300,
@@ -3000,7 +3340,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:04:59",
-      "ultima_revision": "2026-10-29 04:05:55"
+      "ultima_revision": "2026-10-29 05:05:49"
     },
     {
       "id": 1861,
@@ -3040,7 +3380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:04:25",
-      "ultima_revision": "2026-10-29 04:05:34"
+      "ultima_revision": "2026-10-29 05:05:24"
     },
     {
       "id": 2147,
@@ -3060,7 +3400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:04:03",
-      "ultima_revision": "2026-10-29 04:05:15"
+      "ultima_revision": "2026-10-29 05:05:03"
     },
     {
       "id": 1850,
@@ -3080,7 +3420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:04:00",
-      "ultima_revision": "2026-10-29 04:05:10"
+      "ultima_revision": "2026-10-29 05:04:59"
     },
     {
       "id": 1846,
@@ -3100,7 +3440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:03:47",
-      "ultima_revision": "2026-10-29 04:04:56"
+      "ultima_revision": "2026-10-29 05:04:46"
     },
     {
       "id": 1837,
@@ -3140,7 +3480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:02:58",
-      "ultima_revision": "2026-10-29 04:04:20"
+      "ultima_revision": "2026-10-29 05:04:12"
     },
     {
       "id": 1839,
@@ -3160,7 +3500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:02:49",
-      "ultima_revision": "2026-10-29 04:04:10"
+      "ultima_revision": "2026-10-29 05:04:04"
     },
     {
       "id": 1833,
@@ -3180,7 +3520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:02:32",
-      "ultima_revision": "2026-10-29 04:03:57"
+      "ultima_revision": "2026-10-29 05:03:48"
     },
     {
       "id": 1806,
@@ -3220,7 +3560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:00:23",
-      "ultima_revision": "2026-10-29 04:01:51"
+      "ultima_revision": "2026-10-29 05:01:52"
     },
     {
       "id": 1802,
@@ -3240,7 +3580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 19:00:13",
-      "ultima_revision": "2026-10-29 04:01:35"
+      "ultima_revision": "2026-10-29 05:01:34"
     },
     {
       "id": 207,
@@ -3260,7 +3600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 18:48:20",
-      "ultima_revision": "2026-10-29 03:50:23"
+      "ultima_revision": "2026-10-29 04:50:55"
     },
     {
       "id": 181,
@@ -3280,7 +3620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 18:45:55",
-      "ultima_revision": "2026-10-29 03:48:44"
+      "ultima_revision": "2026-10-29 04:49:45"
     },
     {
       "id": 151,
@@ -3320,7 +3660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 18:41:16",
-      "ultima_revision": "2026-10-29 03:43:57"
+      "ultima_revision": "2026-10-29 04:45:44"
     },
     {
       "id": 1526,
@@ -3360,7 +3700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 18:37:25",
-      "ultima_revision": "2026-10-29 03:40:57"
+      "ultima_revision": "2026-10-29 04:41:59"
     },
     {
       "id": 2454,
@@ -3400,7 +3740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 18:00:32",
-      "ultima_revision": "2026-10-29 04:01:31"
+      "ultima_revision": "2026-10-29 05:01:31"
     },
     {
       "id": 2452,
@@ -3500,7 +3840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 17:45:22",
-      "ultima_revision": "2026-10-29 03:45:40"
+      "ultima_revision": "2026-10-29 04:46:43"
     },
     {
       "id": 1522,
@@ -3520,7 +3860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 17:35:29",
-      "ultima_revision": "2026-10-29 03:37:25"
+      "ultima_revision": "2026-10-29 04:37:08"
     },
     {
       "id": 2322,
@@ -3540,7 +3880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 17:09:06",
-      "ultima_revision": "2026-10-28 17:09:06"
+      "ultima_revision": "2026-10-29 05:03:36"
     },
     {
       "id": 1847,
@@ -3560,7 +3900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 17:08:53",
-      "ultima_revision": "2026-10-29 04:04:41"
+      "ultima_revision": "2026-10-29 05:04:32"
     },
     {
       "id": 2449,
@@ -3700,7 +4040,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:49:30",
-      "ultima_revision": "2026-10-29 03:44:56"
+      "ultima_revision": "2026-10-29 04:46:03"
     },
     {
       "id": 142,
@@ -3720,7 +4060,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:49:02",
-      "ultima_revision": "2026-10-29 03:44:28"
+      "ultima_revision": "2026-10-29 04:45:28"
     },
     {
       "id": 1520,
@@ -3740,7 +4080,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:46:48",
-      "ultima_revision": "2026-10-29 03:42:19"
+      "ultima_revision": "2026-10-29 04:43:24"
     },
     {
       "id": 1519,
@@ -3760,7 +4100,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:46:36",
-      "ultima_revision": "2026-10-29 03:42:08"
+      "ultima_revision": "2026-10-29 04:43:14"
     },
     {
       "id": 1518,
@@ -3780,7 +4120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:44:43",
-      "ultima_revision": "2026-10-29 03:40:47"
+      "ultima_revision": "2026-10-29 04:41:46"
     },
     {
       "id": 1375,
@@ -3820,7 +4160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:40:51",
-      "ultima_revision": "2026-10-29 03:36:43"
+      "ultima_revision": "2026-10-29 04:37:43"
     },
     {
       "id": 8,
@@ -3840,7 +4180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:40:42",
-      "ultima_revision": "2026-10-29 03:36:30"
+      "ultima_revision": "2026-10-29 04:37:31"
     },
     {
       "id": 9,
@@ -3860,7 +4200,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:40:27",
-      "ultima_revision": "2026-10-29 03:35:42"
+      "ultima_revision": "2026-10-29 04:36:40"
     },
     {
       "id": 18,
@@ -3880,7 +4220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:40:02",
-      "ultima_revision": "2026-10-29 03:35:57"
+      "ultima_revision": "2026-10-29 04:36:57"
     },
     {
       "id": 2,
@@ -3920,7 +4260,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:24:32",
-      "ultima_revision": "2026-10-29 04:17:06"
+      "ultima_revision": "2026-10-29 05:17:16"
     },
     {
       "id": 2443,
@@ -3940,7 +4280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 16:16:30",
-      "ultima_revision": "2026-10-29 04:12:07"
+      "ultima_revision": "2026-10-29 05:12:16"
     },
     {
       "id": 2118,
@@ -4000,7 +4340,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 15:56:51",
-      "ultima_revision": "2026-10-28 15:56:51"
+      "ultima_revision": "2026-10-29 04:51:40"
     },
     {
       "id": 1726,
@@ -4020,7 +4360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 15:56:44",
-      "ultima_revision": "2026-10-29 03:55:54"
+      "ultima_revision": "2026-10-29 04:56:09"
     },
     {
       "id": 1366,
@@ -4100,7 +4440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 15:48:23",
-      "ultima_revision": "2026-10-29 03:44:06"
+      "ultima_revision": "2026-10-29 04:44:55"
     },
     {
       "id": 90,
@@ -4140,7 +4480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 15:45:32",
-      "ultima_revision": "2026-10-29 03:41:14"
+      "ultima_revision": "2026-10-29 04:42:17"
     },
     {
       "id": 1508,
@@ -4200,7 +4540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 14:55:30",
-      "ultima_revision": "2026-10-29 02:49:11"
+      "ultima_revision": "2026-10-29 04:48:52"
     },
     {
       "id": 1402,
@@ -4260,7 +4600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 13:58:01",
-      "ultima_revision": "2026-10-29 03:47:08"
+      "ultima_revision": "2026-10-29 04:48:06"
     },
     {
       "id": 2440,
@@ -4340,7 +4680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 12:39:00",
-      "ultima_revision": "2026-10-29 03:41:36"
+      "ultima_revision": "2026-10-29 04:42:37"
     },
     {
       "id": 67,
@@ -4360,7 +4700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 12:37:44",
-      "ultima_revision": "2026-10-29 03:39:51"
+      "ultima_revision": "2026-10-29 04:40:56"
     },
     {
       "id": 2435,
@@ -4420,7 +4760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 11:50:56",
-      "ultima_revision": "2026-10-29 03:57:06"
+      "ultima_revision": "2026-10-29 04:57:16"
     },
     {
       "id": 197,
@@ -4440,7 +4780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 11:44:27",
-      "ultima_revision": "2026-10-29 03:50:14"
+      "ultima_revision": "2026-10-29 04:50:47"
     },
     {
       "id": 1363,
@@ -4460,7 +4800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 11:40:36",
-      "ultima_revision": "2026-10-28 21:38:37"
+      "ultima_revision": "2026-10-29 04:45:24"
     },
     {
       "id": 1377,
@@ -4540,7 +4880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 11:32:11",
-      "ultima_revision": "2026-10-29 03:37:28"
+      "ultima_revision": "2026-10-29 04:38:27"
     },
     {
       "id": 1788,
@@ -4560,7 +4900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:58:47",
-      "ultima_revision": "2026-10-29 04:00:36"
+      "ultima_revision": "2026-10-29 05:00:40"
     },
     {
       "id": 2425,
@@ -4580,7 +4920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:55:11",
-      "ultima_revision": "2026-10-29 03:56:46"
+      "ultima_revision": "2026-10-29 04:56:58"
     },
     {
       "id": 2424,
@@ -4600,7 +4940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:55:03",
-      "ultima_revision": "2026-10-29 03:56:35"
+      "ultima_revision": "2026-10-29 04:56:51"
     },
     {
       "id": 206,
@@ -4620,7 +4960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:49:07",
-      "ultima_revision": "2026-10-29 03:50:36"
+      "ultima_revision": "2026-10-29 04:51:06"
     },
     {
       "id": 2423,
@@ -4660,7 +5000,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:46:52",
-      "ultima_revision": "2026-10-29 03:48:14"
+      "ultima_revision": "2026-10-29 04:48:48"
     },
     {
       "id": 147,
@@ -4700,7 +5040,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:42:46",
-      "ultima_revision": "2026-10-29 03:43:39"
+      "ultima_revision": "2026-10-29 04:44:40"
     },
     {
       "id": 89,
@@ -4760,7 +5100,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:39:59",
-      "ultima_revision": "2026-10-29 03:41:11"
+      "ultima_revision": "2026-10-29 04:42:14"
     },
     {
       "id": 1359,
@@ -4780,7 +5120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 10:39:41",
-      "ultima_revision": "2026-10-29 03:41:01"
+      "ultima_revision": "2026-10-29 04:42:02"
     },
     {
       "id": 2421,
@@ -4860,14 +5200,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:52:02",
-      "ultima_revision": "2026-10-29 03:50:31"
+      "ultima_revision": "2026-10-29 04:51:01"
     },
     {
       "id": 201,
       "tienda": "falabella",
       "titulo": "Audífonos Redmi Buds 8 Lite",
       "url": "https://www.falabella.com/falabella-cl/product/80692848/Aud%C3%ADfonos-In-ear-Redmi-Buds-8-Lite-Black-Xiaomi",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80692849_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80692851_1/public",
       "categoria": "Telefonía y Wearables",
       "precio_internet": 23990,
       "precio_normal": 24990,
@@ -4880,7 +5220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:58",
-      "ultima_revision": "2026-10-29 03:50:27"
+      "ultima_revision": "2026-10-29 04:50:57"
     },
     {
       "id": 202,
@@ -4900,7 +5240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:54",
-      "ultima_revision": "2026-10-29 03:50:19"
+      "ultima_revision": "2026-10-29 04:50:51"
     },
     {
       "id": 198,
@@ -4920,7 +5260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:43",
-      "ultima_revision": "2026-10-29 03:50:01"
+      "ultima_revision": "2026-10-29 04:50:39"
     },
     {
       "id": 195,
@@ -4940,7 +5280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:34",
-      "ultima_revision": "2026-10-29 03:50:11"
+      "ultima_revision": "2026-10-29 04:50:44"
     },
     {
       "id": 189,
@@ -4960,7 +5300,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:30",
-      "ultima_revision": "2026-10-29 03:49:56"
+      "ultima_revision": "2026-10-29 04:50:27"
     },
     {
       "id": 199,
@@ -4980,7 +5320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:16",
-      "ultima_revision": "2026-10-29 03:49:44"
+      "ultima_revision": "2026-10-29 04:50:16"
     },
     {
       "id": 191,
@@ -5000,7 +5340,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:13",
-      "ultima_revision": "2026-10-29 03:49:39"
+      "ultima_revision": "2026-10-29 04:50:12"
     },
     {
       "id": 200,
@@ -5020,7 +5360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:08",
-      "ultima_revision": "2026-10-29 03:49:30"
+      "ultima_revision": "2026-10-29 04:50:03"
     },
     {
       "id": 193,
@@ -5040,7 +5380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:51:04",
-      "ultima_revision": "2026-10-29 03:49:34"
+      "ultima_revision": "2026-10-29 04:50:07"
     },
     {
       "id": 186,
@@ -5060,7 +5400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:59",
-      "ultima_revision": "2026-10-29 03:49:25"
+      "ultima_revision": "2026-10-29 04:49:58"
     },
     {
       "id": 187,
@@ -5080,7 +5420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:52",
-      "ultima_revision": "2026-10-29 03:49:17"
+      "ultima_revision": "2026-10-29 04:49:50"
     },
     {
       "id": 188,
@@ -5100,7 +5440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:47",
-      "ultima_revision": "2026-10-29 03:49:12"
+      "ultima_revision": "2026-10-29 04:49:40"
     },
     {
       "id": 192,
@@ -5120,7 +5460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:44",
-      "ultima_revision": "2026-10-29 03:49:07"
+      "ultima_revision": "2026-10-29 04:49:34"
     },
     {
       "id": 196,
@@ -5140,7 +5480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:40",
-      "ultima_revision": "2026-10-29 03:48:41"
+      "ultima_revision": "2026-10-29 04:49:09"
     },
     {
       "id": 184,
@@ -5160,7 +5500,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:31",
-      "ultima_revision": "2026-10-29 03:49:03"
+      "ultima_revision": "2026-10-29 04:49:30"
     },
     {
       "id": 183,
@@ -5180,7 +5520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:27",
-      "ultima_revision": "2026-10-29 03:48:55"
+      "ultima_revision": "2026-10-29 04:49:27"
     },
     {
       "id": 182,
@@ -5200,7 +5540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:23",
-      "ultima_revision": "2026-10-29 03:48:49"
+      "ultima_revision": "2026-10-29 04:49:19"
     },
     {
       "id": 180,
@@ -5220,7 +5560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:50:13",
-      "ultima_revision": "2026-10-29 03:48:59"
+      "ultima_revision": "2026-10-29 04:49:13"
     },
     {
       "id": 174,
@@ -5240,7 +5580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:56",
-      "ultima_revision": "2026-10-29 03:48:23"
+      "ultima_revision": "2026-10-29 04:49:01"
     },
     {
       "id": 1701,
@@ -5280,7 +5620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:40",
-      "ultima_revision": "2026-10-29 03:48:04"
+      "ultima_revision": "2026-10-29 04:48:39"
     },
     {
       "id": 171,
@@ -5300,7 +5640,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:35",
-      "ultima_revision": "2026-10-29 03:48:09"
+      "ultima_revision": "2026-10-29 04:48:44"
     },
     {
       "id": 169,
@@ -5320,7 +5660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:29",
-      "ultima_revision": "2026-10-29 03:47:55"
+      "ultima_revision": "2026-10-29 04:48:33"
     },
     {
       "id": 172,
@@ -5340,7 +5680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:25",
-      "ultima_revision": "2026-10-29 03:47:42"
+      "ultima_revision": "2026-10-29 04:48:24"
     },
     {
       "id": 173,
@@ -5360,7 +5700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:20",
-      "ultima_revision": "2026-10-29 03:47:50"
+      "ultima_revision": "2026-10-29 04:48:29"
     },
     {
       "id": 170,
@@ -5380,7 +5720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:07",
-      "ultima_revision": "2026-10-29 03:47:38"
+      "ultima_revision": "2026-10-29 04:48:19"
     },
     {
       "id": 167,
@@ -5400,7 +5740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:49:04",
-      "ultima_revision": "2026-10-29 03:47:33"
+      "ultima_revision": "2026-10-29 04:48:14"
     },
     {
       "id": 168,
@@ -5420,7 +5760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:49",
-      "ultima_revision": "2026-10-29 03:47:05"
+      "ultima_revision": "2026-10-29 04:48:01"
     },
     {
       "id": 162,
@@ -5440,7 +5780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:45",
-      "ultima_revision": "2026-10-29 03:46:52"
+      "ultima_revision": "2026-10-29 04:47:52"
     },
     {
       "id": 158,
@@ -5460,7 +5800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:41",
-      "ultima_revision": "2026-10-29 03:46:57"
+      "ultima_revision": "2026-10-29 04:47:55"
     },
     {
       "id": 163,
@@ -5480,7 +5820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:36",
-      "ultima_revision": "2026-10-29 03:46:46"
+      "ultima_revision": "2026-10-29 04:47:47"
     },
     {
       "id": 165,
@@ -5500,7 +5840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:27",
-      "ultima_revision": "2026-10-29 03:46:38"
+      "ultima_revision": "2026-10-29 04:47:39"
     },
     {
       "id": 157,
@@ -5520,7 +5860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:14",
-      "ultima_revision": "2026-10-29 03:46:33"
+      "ultima_revision": "2026-10-29 04:47:35"
     },
     {
       "id": 153,
@@ -5540,7 +5880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:09",
-      "ultima_revision": "2026-10-29 03:46:23"
+      "ultima_revision": "2026-10-29 04:47:18"
     },
     {
       "id": 154,
@@ -5560,7 +5900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:48:00",
-      "ultima_revision": "2026-10-29 03:46:13"
+      "ultima_revision": "2026-10-29 04:47:21"
     },
     {
       "id": 2419,
@@ -5600,7 +5940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:47:30",
-      "ultima_revision": "2026-10-29 03:45:31"
+      "ultima_revision": "2026-10-29 04:46:36"
     },
     {
       "id": 141,
@@ -5620,7 +5960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:47:20",
-      "ultima_revision": "2026-10-29 03:45:35"
+      "ultima_revision": "2026-10-29 04:46:39"
     },
     {
       "id": 137,
@@ -5640,7 +5980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:47:06",
-      "ultima_revision": "2026-10-29 03:45:17"
+      "ultima_revision": "2026-10-29 04:46:22"
     },
     {
       "id": 136,
@@ -5660,353 +6000,13 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-10-28 09:46:59",
-      "ultima_revision": "2026-10-29 03:45:05"
-    },
-    {
-      "id": 139,
-      "tienda": "falabella",
-      "titulo": "Bottom Mount de 321 Litros con All Around Cooling Samsung",
-      "url": "https://www.falabella.com/falabella-cl/product/14454016/Refrigerador-Bottom-Mount-311L-All-Around-Cooling-Samsung",
-      "imagen_url": "https://media.falabella.com/falabellaCL/14454016_1/public",
-      "categoria": "Otros",
-      "precio_internet": 399990,
-      "precio_normal": 659990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 659990,
-      "descuento_pct": 39,
-      "ahorro_pesos": 260000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:55",
-      "ultima_revision": "2026-10-29 03:45:09"
-    },
-    {
-      "id": 130,
-      "tienda": "falabella",
-      "titulo": "Refrigerador French Door de 707 Litros con Family Hub Samsung",
-      "url": "https://www.falabella.com/falabella-cl/product/16959266/refrigerador-french-door-de-707-litros-con-family-hub-samsung",
-      "imagen_url": "https://media.falabella.com/falabellaCL/16959266_1/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 1799990,
-      "precio_normal": 2869990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 2869990,
-      "descuento_pct": 37,
-      "ahorro_pesos": 1070000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:46",
-      "ultima_revision": "2026-10-29 03:45:00"
-    },
-    {
-      "id": 134,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Side By Side No Frost 569 Litros MDRS761FGEDX Midea",
-      "url": "https://www.falabella.com/falabella-cl/product/80526710/refrigerador-side-by-side-no-frost-569-litros-mdrs761fgedx-midea",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80526710_1/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 689990,
-      "precio_normal": 1029990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 1029990,
-      "descuento_pct": 33,
-      "ahorro_pesos": 340000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:41",
-      "ultima_revision": "2026-10-29 03:44:52"
-    },
-    {
-      "id": 135,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Bottom Freezer 310 Litros No Frost MDRB424FGE50 Midea",
-      "url": "https://www.falabella.com/falabella-cl/product/16864936/refrigerador-bottom-freezer-310-litros-no-frost-mdrb424fge50-midea",
-      "imagen_url": "https://media.falabella.com/falabellaCL/16864936_1/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 359990,
-      "precio_normal": 459990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 459990,
-      "descuento_pct": 22,
-      "ahorro_pesos": 100000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:36",
-      "ultima_revision": "2026-10-29 03:44:47"
-    },
-    {
-      "id": 132,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Bottom Freezer 173 LT Frio Directo DE2-22",
-      "url": "https://www.falabella.com/falabella-cl/product/152733146/refrigerador-bottom-freezer-173-lt-frio-directo-de2-22",
-      "imagen_url": "https://media.falabella.com/falabellaCL/152733148_01/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 199990,
-      "precio_normal": 269990,
-      "precio_tarjeta": 189990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 269990,
-      "descuento_pct": 26,
-      "ahorro_pesos": 70000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:33",
-      "ultima_revision": "2026-10-29 03:44:43"
-    },
-    {
-      "id": 128,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Bottom Freezer 262 LT Frio Directo DE2-34",
-      "url": "https://www.falabella.com/falabella-cl/product/152732265/refrigerador-bottom-freezer-262-lt-frio-directo-de2-34",
-      "imagen_url": "https://media.falabella.com/falabellaCL/152732266_01/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 239990,
-      "precio_normal": 299990,
-      "precio_tarjeta": 227990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 299990,
-      "descuento_pct": 20,
-      "ahorro_pesos": 60000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:24",
-      "ultima_revision": "2026-10-29 03:44:37"
-    },
-    {
-      "id": 129,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Side By Side con dispensador 578 Litros Negro Samsung",
-      "url": "https://www.falabella.com/falabella-cl/product/17336224/refrigerador-side-by-side-con-dispensador-578-litros-negro-samsung",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17336224_1/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 609990,
-      "precio_normal": 1099990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 1099990,
-      "descuento_pct": 45,
-      "ahorro_pesos": 490000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:46:10",
-      "ultima_revision": "2026-10-29 03:44:32"
-    },
-    {
-      "id": 123,
-      "tienda": "falabella",
-      "titulo": "Refrigerador Side By Side 635 litros con InstaView GS66SXTCG LG",
-      "url": "https://www.falabella.com/falabella-cl/product/17391221/Refrigerador-Side-By-Side-598-Litros-con-InstaView-GS66SXTC-LG",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17391221_2/public",
-      "categoria": "Electrohogar",
-      "precio_internet": 1299990,
-      "precio_normal": 2299990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 2299990,
-      "descuento_pct": 43,
-      "ahorro_pesos": 1000000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:59",
-      "ultima_revision": "2026-10-29 03:44:16"
-    },
-    {
-      "id": 122,
-      "tienda": "falabella",
-      "titulo": "Bottom Freezer 175 Litros Frío Directo RD-22DC Hisense",
-      "url": "https://www.falabella.com/falabella-cl/product/15267403/refrigerador-bottom-freezer-165lts-rd-22dc-hisense",
-      "imagen_url": "https://media.falabella.com/falabellaCL/15267403_1/public",
-      "categoria": "Otros",
-      "precio_internet": 179990,
-      "precio_normal": 219990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 219990,
-      "descuento_pct": 18,
-      "ahorro_pesos": 40000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:55",
-      "ultima_revision": "2026-10-29 03:44:11"
-    },
-    {
-      "id": 118,
-      "tienda": "falabella",
-      "titulo": "Consola de juegos SUP consola de TV de pantalla grande",
-      "url": "https://www.falabella.com/falabella-cl/product/142963104/Consola-de-juegos-SUP-consola-de-TV-de-pantalla-grande",
-      "imagen_url": "https://media.falabella.com/falabellaCL/142963105_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 27990,
-      "precio_normal": 39999,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 39999,
-      "descuento_pct": 30,
-      "ahorro_pesos": 12009,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:32",
-      "ultima_revision": "2026-10-29 03:43:44"
-    },
-    {
-      "id": 119,
-      "tienda": "falabella",
-      "titulo": "Consola portátil  64G de 4.96 pulgadas - Blanco",
-      "url": "https://www.falabella.com/falabella-cl/product/142487732/Consola-portatil-64G-de-4.96-pulgadas-Blanco",
-      "imagen_url": "https://media.falabella.com/falabellaCL/142487733_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 169990,
-      "precio_normal": 249990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 249990,
-      "descuento_pct": 32,
-      "ahorro_pesos": 80000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:24",
-      "ultima_revision": "2026-10-29 03:43:35"
-    },
-    {
-      "id": 113,
-      "tienda": "falabella",
-      "titulo": "Nintendo Switch Lite Consola - Turquesa",
-      "url": "https://www.falabella.com/falabella-cl/product/143211057/Nintendo-Switch-Lite-Consola-Turquesa",
-      "imagen_url": "https://media.falabella.com/falabellaCL/143211058_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 263990,
-      "precio_normal": 326990,
-      "precio_tarjeta": 243990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 326990,
-      "descuento_pct": 19,
-      "ahorro_pesos": 63000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:18",
-      "ultima_revision": "2026-10-29 03:43:31"
-    },
-    {
-      "id": 109,
-      "tienda": "falabella",
-      "titulo": "Mini Nes Classic Edition - Nueva - Sellada - Sniper Game",
-      "url": "https://www.falabella.com/falabella-cl/product/112887518/Mini-Nes-Classic-Edition-Nueva-Sellada-Sniper-Game",
-      "imagen_url": "https://media.falabella.com/falabellaCL/112887519_01/public",
-      "categoria": "Otros",
-      "precio_internet": 349990,
-      "precio_normal": 399990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 399990,
-      "descuento_pct": 13,
-      "ahorro_pesos": 50000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:13",
-      "ultima_revision": "2026-10-29 03:43:27"
-    },
-    {
-      "id": 107,
-      "tienda": "falabella",
-      "titulo": "Playstation Classic Mini + 2 Controles + 20 Juegos - Sniper",
-      "url": "https://www.falabella.com/falabella-cl/product/112887534/Playstation-Classic-Mini-+-2-Controles-+-20-Juegos-Sniper",
-      "imagen_url": "https://media.falabella.com/falabellaCL/112887536_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 199990,
-      "precio_normal": 299990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 299990,
-      "descuento_pct": 33,
-      "ahorro_pesos": 100000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:09",
-      "ultima_revision": "2026-10-29 03:43:23"
-    },
-    {
-      "id": 116,
-      "tienda": "falabella",
-      "titulo": "Consola XBOX Series S 512GB SSD - Blanco",
-      "url": "https://www.falabella.com/falabella-cl/product/124239995/Consola-XBOX-Series-S-512GB-SSD-Blanco",
-      "imagen_url": "https://media.falabella.com/falabellaCL/124239996_01/public",
-      "categoria": "Computación",
-      "precio_internet": 689990,
-      "precio_normal": 749990,
-      "precio_tarjeta": 649990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 749990,
-      "descuento_pct": 8,
-      "ahorro_pesos": 60000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:45:03",
-      "ultima_revision": "2026-10-29 03:43:14"
-    },
-    {
-      "id": 106,
-      "tienda": "falabella",
-      "titulo": "Consola Sony Playstation 5 Slim Edición Digital + Control Dualsense Adicional Midnight Black.",
-      "url": "https://www.falabella.com/falabella-cl/product/148993549/Consola-Sony-Playstation-5-Slim-Edicion-Digital-+-Control-Dualsense-Adicional-Midnight-Black",
-      "imagen_url": "https://media.falabella.com/falabellaCL/148993551_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 769990,
-      "precio_normal": 799990,
-      "precio_tarjeta": 749990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 799990,
-      "descuento_pct": 4,
-      "ahorro_pesos": 30000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:44:58",
-      "ultima_revision": "2026-10-29 03:43:19"
-    },
-    {
-      "id": 114,
-      "tienda": "falabella",
-      "titulo": "Toumi TRIMUI Smart Pro IPS GBA gaming consola-Negro",
-      "url": "https://www.falabella.com/falabella-cl/product/143289026/toumi-trimui-smart-pro-ips-gba-gaming-console-negro",
-      "imagen_url": "https://media.falabella.com/falabellaCL/143289027_01/public",
-      "categoria": "Audio, TV y Consolas",
-      "precio_internet": 99990,
-      "precio_normal": 151988,
-      "precio_tarjeta": 94990,
-      "tarjeta_asociada": "CMR",
-      "precio_referencia": 151988,
-      "descuento_pct": 34,
-      "ahorro_pesos": 51998,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-10-28 09:44:55",
-      "ultima_revision": "2026-10-29 03:43:07"
+      "ultima_revision": "2026-10-29 04:46:10"
     }
   ],
   "estadisticas": {
-    "total_productos": 2505,
+    "total_productos": 2513,
     "tiendas": 56,
-    "alertas_enviadas": 1606,
+    "alertas_enviadas": 1624,
     "descuento_maximo": 76
   }
 }
