@@ -1,7 +1,387 @@
 {
-  "actualizado_el": "2026-11-04T04:24:53.984648",
+  "actualizado_el": "2026-11-04T05:29:11.474645",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 1320,
+      "tienda": "hites",
+      "titulo": "Secador De Pelo Philips BHD-360/20",
+      "url": "https://www.hites.com/secador-de-pelo-philips-bhd-36020-852361001.html",
+      "imagen_url": "",
+      "categoria": "Belleza y Cuidado Personal",
+      "precio_internet": 27990,
+      "precio_normal": 27990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:26:28",
+      "ultima_revision": "2026-11-04 05:26:27"
+    },
+    {
+      "id": 2096,
+      "tienda": "falabella",
+      "titulo": "Polera MC Swell Negro Hombre Rip Curl",
+      "url": "https://www.falabella.com/falabella-cl/product/157150029/polera-mc-swell-negro-hombre-rip-curl",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157150030_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 16990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:19:53",
+      "ultima_revision": "2026-11-04 05:19:53"
+    },
+    {
+      "id": 2272,
+      "tienda": "falabella",
+      "titulo": "Polera MC Swell Verde Hombre Rip Curl",
+      "url": "https://www.falabella.com/falabella-cl/product/157150021/polera-mc-swell-verde-hombre-rip-curl",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157150023_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 16990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:19:50",
+      "ultima_revision": "2026-11-04 05:19:50"
+    },
+    {
+      "id": 2257,
+      "tienda": "falabella",
+      "titulo": "Polera Manga Corta Hombre Oakley",
+      "url": "https://www.falabella.com/falabella-cl/product/80845083/polera-manga-corta-hombre-oakley",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80845101_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 17990,
+      "precio_normal": 24990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 24990,
+      "descuento_pct": 28,
+      "ahorro_pesos": 7000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:56",
+      "ultima_revision": "2026-11-04 05:18:55"
+    },
+    {
+      "id": 3486,
+      "tienda": "falabella",
+      "titulo": "Jeans Hombre 505 Regular Fit Levis",
+      "url": "https://www.falabella.com/falabella-cl/product/14703406/jeans-hombre-505-regular-fit-levis",
+      "imagen_url": "https://media.falabella.com/falabellaCL/14703410_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 52990,
+      "precio_normal": 54990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 54990,
+      "descuento_pct": 4,
+      "ahorro_pesos": 2000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:25",
+      "ultima_revision": "2026-11-04 05:18:24"
+    },
+    {
+      "id": 3485,
+      "tienda": "falabella",
+      "titulo": "Jeans Hombre 505 Regular Azul Levis",
+      "url": "https://www.falabella.com/falabella-cl/product/118198552/jeans-hombre-505-regular-azul-levis",
+      "imagen_url": "https://media.falabella.com/falabellaCL/118198555_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 54990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:21",
+      "ultima_revision": "2026-11-04 05:18:21"
+    },
+    {
+      "id": 1897,
+      "tienda": "falabella",
+      "titulo": "Jeans Marine Tiro Medio Mujer Sybilla",
+      "url": "https://www.falabella.com/falabella-cl/product/883349274/jeans-marine-tiro-medio-mujer-sybilla",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883349284_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 11990,
+      "precio_normal": 24990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 24990,
+      "descuento_pct": 52,
+      "ahorro_pesos": 13000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:17",
+      "ultima_revision": "2026-11-04 05:18:17"
+    },
+    {
+      "id": 3484,
+      "tienda": "falabella",
+      "titulo": "Jeans Skinny Tiro Alto Mujer Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/881604991/jeans-skinny-tiro-alto-mujer-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/882142882_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 20990,
+      "precio_normal": 29990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 29990,
+      "descuento_pct": 30,
+      "ahorro_pesos": 9000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:14",
+      "ultima_revision": "2026-11-04 05:18:14"
+    },
+    {
+      "id": 3483,
+      "tienda": "falabella",
+      "titulo": "Jeans Straight Tiro Medio Mujer Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/883333862/jeans-straight-tiro-medio-mujer-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883333869_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 27990,
+      "precio_normal": 39990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 39990,
+      "descuento_pct": 30,
+      "ahorro_pesos": 12000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:18:11",
+      "ultima_revision": "2026-11-04 05:18:11"
+    },
+    {
+      "id": 3482,
+      "tienda": "falabella",
+      "titulo": "Jeans Flare Tiro Medio Mujer Mossimo",
+      "url": "https://www.falabella.com/falabella-cl/product/883193685/jeans-flare-tiro-medio-mujer-mossimo",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883193700_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 24990,
+      "precio_normal": 29990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 29990,
+      "descuento_pct": 17,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:54",
+      "ultima_revision": "2026-11-04 05:17:54"
+    },
+    {
+      "id": 3481,
+      "tienda": "falabella",
+      "titulo": "Jeans Mujer 04 Skinny Fit Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/881255631/jeans-mujer-04-skinny-fit-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/881260233_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 22990,
+      "precio_normal": 29990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 29990,
+      "descuento_pct": 23,
+      "ahorro_pesos": 7000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:45",
+      "ultima_revision": "2026-11-04 05:17:45"
+    },
+    {
+      "id": 3480,
+      "tienda": "falabella",
+      "titulo": "Jeans Straight Tiro Alto Mujer Sybilla",
+      "url": "https://www.falabella.com/falabella-cl/product/883171129/jeans-straight-tiro-alto-mujer-sybilla",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883333826_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 14990,
+      "precio_normal": 19990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 19990,
+      "descuento_pct": 25,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:33",
+      "ultima_revision": "2026-11-04 05:17:33"
+    },
+    {
+      "id": 3479,
+      "tienda": "falabella",
+      "titulo": "Jeans Mujer 05 Flare Fit Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/883072780/jeans-mujer-05-flare-fit-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883072788_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 22990,
+      "precio_normal": 29990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 29990,
+      "descuento_pct": 23,
+      "ahorro_pesos": 7000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:30",
+      "ultima_revision": "2026-11-04 05:17:30"
+    },
+    {
+      "id": 3478,
+      "tienda": "falabella",
+      "titulo": "Jeans Baggy Barrel Hombre Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/883530519/jeans-baggy-barrel-hombre-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883534384_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 19990,
+      "precio_normal": 39990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 39990,
+      "descuento_pct": 50,
+      "ahorro_pesos": 20000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:22",
+      "ultima_revision": "2026-11-04 05:17:21"
+    },
+    {
+      "id": 3477,
+      "tienda": "falabella",
+      "titulo": "Jeans Cropped Flare Mujer Basement",
+      "url": "https://www.falabella.com/falabella-cl/product/883584493/jeans-cropped-flare-mujer-basement",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883584494_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 14990,
+      "precio_normal": 24990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 24990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:09",
+      "ultima_revision": "2026-11-04 05:17:09"
+    },
+    {
+      "id": 3476,
+      "tienda": "falabella",
+      "titulo": "Jeans Hombre Cargo Bearcliff",
+      "url": "https://www.falabella.com/falabella-cl/product/883606587/jeans-hombre-cargo-bearcliff",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883606588_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 17990,
+      "precio_normal": 29990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 29990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 12000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:17:01",
+      "ultima_revision": "2026-11-04 05:17:01"
+    },
+    {
+      "id": 2000,
+      "tienda": "falabella",
+      "titulo": "Jeans Baggy Hombre Bearcliff",
+      "url": "https://www.falabella.com/falabella-cl/product/883533601/jeans-baggy-hombre-bearcliff",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883533602_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 19990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:16:48",
+      "ultima_revision": "2026-11-04 05:16:48"
+    },
+    {
+      "id": 2582,
+      "tienda": "falabella",
+      "titulo": "Polerón Cierre Mujer Sybilla",
+      "url": "https://www.falabella.com/falabella-cl/product/883000869/poleron-cierre-mujer-sybilla",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883000875_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 9990,
+      "precio_normal": 16990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 16990,
+      "descuento_pct": 41,
+      "ahorro_pesos": 7000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:11:48",
+      "ultima_revision": "2026-11-04 05:11:48"
+    },
+    {
+      "id": 2583,
+      "tienda": "falabella",
+      "titulo": "Polar sin manga Mujer Mountain Gear",
+      "url": "https://www.falabella.com/falabella-cl/product/883774039/polar-sin-manga-mujer-mountain-gear",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883774040_1/public",
+      "categoria": "Otros",
+      "precio_internet": 14990,
+      "precio_normal": 24990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 24990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-04 05:11:45",
+      "ultima_revision": "2026-11-04 05:11:45"
+    },
     {
       "id": 917,
       "tienda": "easy",
@@ -20,7 +400,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 04:23:36",
-      "ultima_revision": "2026-11-04 04:21:15"
+      "ultima_revision": "2026-11-04 05:25:34"
     },
     {
       "id": 2280,
@@ -40,7 +420,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 04:14:33",
-      "ultima_revision": "2026-11-04 04:14:32"
+      "ultima_revision": "2026-11-04 05:18:34"
     },
     {
       "id": 1859,
@@ -80,7 +460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 04:03:55",
-      "ultima_revision": "2026-11-04 04:03:55"
+      "ultima_revision": "2026-11-04 05:08:11"
     },
     {
       "id": 3475,
@@ -140,7 +520,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:50:46",
-      "ultima_revision": "2026-11-04 03:50:46"
+      "ultima_revision": "2026-11-04 04:55:47"
     },
     {
       "id": 2110,
@@ -200,7 +580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:45:33",
-      "ultima_revision": "2026-11-04 03:45:33"
+      "ultima_revision": "2026-11-04 04:50:06"
     },
     {
       "id": 77,
@@ -220,7 +600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:45:20",
-      "ultima_revision": "2026-11-04 03:45:20"
+      "ultima_revision": "2026-11-04 04:49:55"
     },
     {
       "id": 72,
@@ -240,7 +620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:45:16",
-      "ultima_revision": "2026-11-04 03:45:15"
+      "ultima_revision": "2026-11-04 04:49:51"
     },
     {
       "id": 64,
@@ -260,7 +640,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:45:12",
-      "ultima_revision": "2026-11-04 03:45:12"
+      "ultima_revision": "2026-11-04 04:49:46"
     },
     {
       "id": 65,
@@ -280,7 +660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:45:08",
-      "ultima_revision": "2026-11-04 03:45:08"
+      "ultima_revision": "2026-11-04 04:49:43"
     },
     {
       "id": 3474,
@@ -360,7 +740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:43:52",
-      "ultima_revision": "2026-11-04 03:43:51"
+      "ultima_revision": "2026-11-04 04:48:41"
     },
     {
       "id": 53,
@@ -380,7 +760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:43:35",
-      "ultima_revision": "2026-11-04 03:43:35"
+      "ultima_revision": "2026-11-04 04:48:24"
     },
     {
       "id": 6,
@@ -400,7 +780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:41:24",
-      "ultima_revision": "2026-11-04 03:41:23"
+      "ultima_revision": "2026-11-04 04:45:52"
     },
     {
       "id": 15,
@@ -420,7 +800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 03:41:15",
-      "ultima_revision": "2026-11-04 03:41:15"
+      "ultima_revision": "2026-11-04 04:45:45"
     },
     {
       "id": 1642,
@@ -600,7 +980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 02:19:42",
-      "ultima_revision": "2026-11-04 04:10:33"
+      "ultima_revision": "2026-11-04 05:14:26"
     },
     {
       "id": 2057,
@@ -760,7 +1140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 01:53:47",
-      "ultima_revision": "2026-11-04 02:42:50"
+      "ultima_revision": "2026-11-04 04:48:48"
     },
     {
       "id": 3467,
@@ -860,7 +1240,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-04 00:12:50",
-      "ultima_revision": "2026-11-04 04:21:23"
+      "ultima_revision": "2026-11-04 05:25:44"
     },
     {
       "id": 2129,
@@ -940,7 +1320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 23:58:09",
-      "ultima_revision": "2026-11-03 23:58:08"
+      "ultima_revision": "2026-11-04 05:12:49"
     },
     {
       "id": 2377,
@@ -980,7 +1360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 23:55:35",
-      "ultima_revision": "2026-11-04 04:07:13"
+      "ultima_revision": "2026-11-04 05:11:09"
     },
     {
       "id": 3463,
@@ -1060,7 +1440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:44:18",
-      "ultima_revision": "2026-11-04 03:46:00"
+      "ultima_revision": "2026-11-04 04:50:36"
     },
     {
       "id": 67,
@@ -1080,7 +1460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:42:50",
-      "ultima_revision": "2026-11-04 00:40:09"
+      "ultima_revision": "2026-11-04 04:49:08"
     },
     {
       "id": 940,
@@ -1100,7 +1480,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:36:58",
-      "ultima_revision": "2026-11-04 04:21:18"
+      "ultima_revision": "2026-11-04 05:25:37"
     },
     {
       "id": 938,
@@ -1120,7 +1500,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:36:50",
-      "ultima_revision": "2026-11-04 04:21:18"
+      "ultima_revision": "2026-11-04 05:25:37"
     },
     {
       "id": 926,
@@ -1140,7 +1520,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:36:04",
-      "ultima_revision": "2026-11-04 04:21:18"
+      "ultima_revision": "2026-11-04 05:25:37"
     },
     {
       "id": 3459,
@@ -1160,7 +1540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:26:38",
-      "ultima_revision": "2026-11-04 04:14:42"
+      "ultima_revision": "2026-11-04 05:18:49"
     },
     {
       "id": 3458,
@@ -1240,7 +1620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:24:18",
-      "ultima_revision": "2026-11-04 04:12:40"
+      "ultima_revision": "2026-11-04 05:16:37"
     },
     {
       "id": 3456,
@@ -1280,7 +1660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:19:22",
-      "ultima_revision": "2026-11-04 04:07:35"
+      "ultima_revision": "2026-11-04 05:11:39"
     },
     {
       "id": 1809,
@@ -1300,7 +1680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:17:51",
-      "ultima_revision": "2026-11-04 04:06:05"
+      "ultima_revision": "2026-11-04 05:10:12"
     },
     {
       "id": 1776,
@@ -1320,7 +1700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:14:10",
-      "ultima_revision": "2026-11-04 04:02:30"
+      "ultima_revision": "2026-11-04 05:06:43"
     },
     {
       "id": 1771,
@@ -1340,7 +1720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:14:05",
-      "ultima_revision": "2026-11-04 04:02:26"
+      "ultima_revision": "2026-11-04 05:06:39"
     },
     {
       "id": 1772,
@@ -1360,7 +1740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:13:52",
-      "ultima_revision": "2026-11-04 04:02:14"
+      "ultima_revision": "2026-11-04 05:06:26"
     },
     {
       "id": 2187,
@@ -1380,7 +1760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:10:28",
-      "ultima_revision": "2026-11-04 03:58:52"
+      "ultima_revision": "2026-11-04 05:03:03"
     },
     {
       "id": 2207,
@@ -1420,7 +1800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 22:04:33",
-      "ultima_revision": "2026-11-04 03:52:34"
+      "ultima_revision": "2026-11-04 04:57:07"
     },
     {
       "id": 17,
@@ -1440,7 +1820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 21:52:00",
-      "ultima_revision": "2026-11-04 03:40:54"
+      "ultima_revision": "2026-11-04 04:45:30"
     },
     {
       "id": 3089,
@@ -5621,392 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-03 21:30:24",
       "ultima_revision": "2026-11-03 21:30:23"
-    },
-    {
-      "id": 3262,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Bella Mujer Donna",
-      "url": "https://www.paris.cl/zapatilla-urbana-bella-mujer-donna-522931.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/522931/variant/6a3bc79c0c264fbea9da5f7d/images/66e00817-56e9-4062-8f7c-5acd5ce4d50e/522931-0100-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 54990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:30:23",
-      "ultima_revision": "2026-11-03 21:30:23"
-    },
-    {
-      "id": 3260,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Faito para Niños T.27 a T.35",
-      "url": "https://www.paris.cl/zapatilla-running-faito-para-ninos-t27-a-t35-500996.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/500996/variant/6a3d922f3e931113a762119b/images/e1532904-f1fc-486d-9885-943a22c6b09e/500996-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 39990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:22",
-      "ultima_revision": "2026-11-03 21:28:22"
-    },
-    {
-      "id": 3261,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Runblaze M Hombre",
-      "url": "https://www.paris.cl/zapatilla-running-runblaze-m-hombre-164735.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/164735/variant/683bf4633b6f903ea5cc61b0/images/42925e91-bff2-4c75-9448-0256f8e9ba37/164735-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:22",
-      "ultima_revision": "2026-11-03 21:28:22"
-    },
-    {
-      "id": 3259,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running de Mujer Verse",
-      "url": "https://www.paris.cl/zapatilla-running-de-mujer-verse-456856.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/456856/variant/69d8180dc13992c337c2f794/images/a8646236-bc5b-493e-b43d-6fc8e53c1cea/456856-0110-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:22",
-      "ultima_revision": "2026-11-03 21:28:21"
-    },
-    {
-      "id": 3256,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Mujer Gel-Excite11",
-      "url": "https://www.paris.cl/zapatilla-running-mujer-gel-excite11-359268.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/359268/variant/694b079974e714aee6ec6f0e/images/302c9dc3-9cb4-47e0-bf80-03f30f33c4f4/359268-0530-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 89990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:21",
-      "ultima_revision": "2026-11-03 21:28:21"
-    },
-    {
-      "id": 3257,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Rosa Softride-Carson Mujer",
-      "url": "https://www.paris.cl/zapatilla-running-rosa-softride-carson-mujer-524141.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/524141/variant/6a3c088be86ef78800fa430e/images/0d87584d-d7ea-4445-9e9b-915174862261/524141-0650-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:21",
-      "ultima_revision": "2026-11-03 21:28:21"
-    },
-    {
-      "id": 3258,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Unisex Response Runner 2",
-      "url": "https://www.paris.cl/zapatilla-running-unisex-response-runner-2-491174.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/491174/variant/6a0b003a0d8330b73df24825/images/1e6bcb78-34b5-4428-8499-4cffcab2b7cc/491174-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:21",
-      "ultima_revision": "2026-11-03 21:28:21"
-    },
-    {
-      "id": 3255,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Mujer Darter Pro 2",
-      "url": "https://www.paris.cl/zapatilla-running-mujer-darter-pro-2-341651.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/341651/variant/6929d5bb1551902353c9e47e/images/889d4e4c-0e57-4d49-b7e4-1694be58686a/341651-0730-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 62990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:21",
-      "ultima_revision": "2026-11-03 21:28:20"
-    },
-    {
-      "id": 3252,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Unisex Response-Runner",
-      "url": "https://www.paris.cl/zapatilla-running-unisex-response-runner-331354.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/331354/variant/6917659b598824d071d89d96/images/bbca01c4-a41f-44d0-8e10-5ee0a2e80951/331354-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:20",
-      "ultima_revision": "2026-11-03 21:28:20"
-    },
-    {
-      "id": 3253,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Mujer 411",
-      "url": "https://www.paris.cl/zapatilla-running-mujer-411-415590.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/415590/variant/699e1693562f46666954f3a0/images/50a0dce4-606f-493b-857f-40efc0f4b34b/415590-0530-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 54990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:20",
-      "ultima_revision": "2026-11-03 21:28:20"
-    },
-    {
-      "id": 3254,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Flexfocus LI Mujer",
-      "url": "https://www.paris.cl/zapatilla-running-flexfocus-li-mujer-402573.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/402573/variant/698cc778709d6934cab58aaa/images/26259baf-d161-433e-aa69-0c3bebdb3afa/402573-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 39990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:20",
-      "ultima_revision": "2026-11-03 21:28:20"
-    },
-    {
-      "id": 3251,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Design Response Runner 2 Unisex",
-      "url": "https://www.paris.cl/zapatilla-running-design-response-runner-2-unisex-491171.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/491171/variant/6a0b003b1308dc5e40173109/images/5cc21d8a-c21e-43d9-804f-1b9ffbfa9748/491171-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:20",
-      "ultima_revision": "2026-11-03 21:28:19"
-    },
-    {
-      "id": 3248,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Arishi Mujer",
-      "url": "https://www.paris.cl/zapatilla-running-arishi-mujer-357557.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/357557/variant/6a5e2ee86c737edae4b52026/images/8e51bc1e-3696-467b-b33f-bf4354c8e7c8/357557-0100-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 69990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:19",
-      "ultima_revision": "2026-11-03 21:28:19"
-    },
-    {
-      "id": 3249,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Galaxy-8 Shoes Hombre",
-      "url": "https://www.paris.cl/zapatilla-running-galaxy-8-shoes-hombre-491187.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/491187/variant/6a0b007c0d8330b73df24ea0/images/1c08976e-6be2-40d6-91ba-3dbf6d90237a/491187-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 59990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:19",
-      "ultima_revision": "2026-11-03 21:28:19"
-    },
-    {
-      "id": 3250,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Response Runner Unisex",
-      "url": "https://www.paris.cl/zapatilla-running-response-runner-unisex-331352.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/331352/variant/691f634166680315db4ce72e/images/a2514427-c7a8-4272-927c-0c7c71cbf685/331352-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:28:19",
-      "ultima_revision": "2026-11-03 21:28:19"
-    },
-    {
-      "id": 3246,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Carina-Lift Mujer",
-      "url": "https://www.paris.cl/zapatilla-urbana-carina-lift-mujer-243238.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/paris/243238/variant/images/476bf54d-ed06-438a-a6e0-2f3c5638bfd1/243238-0100-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 54990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:26:21",
-      "ultima_revision": "2026-11-03 21:30:25"
-    },
-    {
-      "id": 3244,
-      "tienda": "paris",
-      "titulo": "Zapatilla Running Negra Softride Car Mujer",
-      "url": "https://www.paris.cl/zapatilla-running-negra-softride-car-mujer-524100.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/paris/524100/variant/images/ef6578d8-0ca8-483b-80d8-b3a284c5ea33/524100-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 44990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:26:21",
-      "ultima_revision": "2026-11-03 21:28:20"
-    },
-    {
-      "id": 3245,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Slip-On Mujer",
-      "url": "https://www.paris.cl/zapatilla-urbana-slip-on-mujer-422577.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/422577/variant/6a563bc94fcad868405e9e60/images/528350e3-2f5c-47c6-ba27-ed1a84143691/422577-0001-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 19990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:26:21",
-      "ultima_revision": "2026-11-03 21:26:21"
-    },
-    {
-      "id": 3247,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Slip On Comfrot Línea Flex Mujer",
-      "url": "https://www.paris.cl/zapatilla-urbana-slip-on-comfrot-linea-flex-mujer-252829.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/252829/variant/698cd29d8746b1d031010943/images/6a84e4dc-fcb6-488d-a53c-f498b71102a4/252829-0001-006.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 54990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-03 21:26:21",
-      "ultima_revision": "2026-11-03 21:26:21"
     }
   ],
   "estadisticas": {
-    "total_productos": 3475,
+    "total_productos": 3488,
     "tiendas": 57,
-    "alertas_enviadas": 3504,
+    "alertas_enviadas": 3523,
     "descuento_maximo": 76
   }
 }
