@@ -1,7 +1,647 @@
 {
-  "actualizado_el": "2026-11-13T18:17:24.366130",
+  "actualizado_el": "2026-11-13T23:58:26.301054",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 4179,
+      "tienda": "hites",
+      "titulo": "Microondas Thomas TH-25DM / 25 Litros / 800W",
+      "url": "https://www.hites.com/microondas-thomas-th-25dm-25-litros-800w-798851001.html",
+      "imagen_url": "",
+      "categoria": "Electrohogar",
+      "precio_internet": 99990,
+      "precio_normal": 99990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:55:59",
+      "ultima_revision": "2026-11-13 23:54:12"
+    },
+    {
+      "id": 608,
+      "tienda": "winpy",
+      "titulo": "Silla Ejecutiva Xtech ERGO con repozabrazos (hasta 120kg, Negro)",
+      "url": "https://www.winpy.cl/venta/silla-ejecutiva-xtech-ergo-con-repozabrazos-hasta-120kg-negro/",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 54720,
+      "precio_normal": 57600,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 57600,
+      "descuento_pct": 5,
+      "ahorro_pesos": 2880,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:53:25",
+      "ultima_revision": "2026-11-13 23:53:25"
+    },
+    {
+      "id": 2272,
+      "tienda": "falabella",
+      "titulo": "Polera MC Swell Verde Hombre Rip Curl",
+      "url": "https://www.falabella.com/falabella-cl/product/157150021/polera-mc-swell-verde-hombre-rip-curl",
+      "imagen_url": "https://media.falabella.com/falabellaCL/157150023_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 13590,
+      "precio_normal": 16990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 16990,
+      "descuento_pct": 20,
+      "ahorro_pesos": 3400,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:48:48",
+      "ultima_revision": "2026-11-13 23:48:48"
+    },
+    {
+      "id": 1943,
+      "tienda": "falabella",
+      "titulo": "Polera Estampada 100% Algodón Mujer University Club",
+      "url": "https://www.falabella.com/falabella-cl/product/883855853/polera-estampada-100-algodon-mujer-university-club",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883855867_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 9990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:48:39",
+      "ultima_revision": "2026-11-13 23:48:39"
+    },
+    {
+      "id": 2330,
+      "tienda": "falabella",
+      "titulo": "Polera Algodón Cuello Pico Mujer Mango",
+      "url": "https://www.falabella.com/falabella-cl/product/17675402/polera-algodon-cuello-pico-mujer-mango",
+      "imagen_url": "https://media.falabella.com/falabellaCL/17675404_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 14990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:48:34",
+      "ultima_revision": "2026-11-13 23:48:34"
+    },
+    {
+      "id": 2816,
+      "tienda": "falabella",
+      "titulo": "Polera Mujer Basement",
+      "url": "https://www.falabella.com/falabella-cl/product/80830914/polera-mujer-basement",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80830931_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 16990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:48:29",
+      "ultima_revision": "2026-11-13 23:48:29"
+    },
+    {
+      "id": 4178,
+      "tienda": "falabella",
+      "titulo": "Polera Manga Corta Hombre Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/883914568/polera-manga-corta-hombre-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883914569_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 19990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:46:55",
+      "ultima_revision": "2026-11-13 23:46:55"
+    },
+    {
+      "id": 4177,
+      "tienda": "falabella",
+      "titulo": "Jeans Balloon Cargo Mujer Sybilla",
+      "url": "https://www.falabella.com/falabella-cl/product/883748517/jeans-balloon-cargo-mujer-sybilla",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883748518_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 24990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:46:19",
+      "ultima_revision": "2026-11-13 23:46:19"
+    },
+    {
+      "id": 2823,
+      "tienda": "falabella",
+      "titulo": "Jeans Fluido Mujer Sybilla",
+      "url": "https://www.falabella.com/falabella-cl/product/883894708/jeans-fluido-mujer-sybilla",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883920668_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 19990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:46:14",
+      "ultima_revision": "2026-11-13 23:46:14"
+    },
+    {
+      "id": 1904,
+      "tienda": "falabella",
+      "titulo": "Jeans Slim Fit Bearcliff Algodón Hombre Estilo Urbano",
+      "url": "https://www.falabella.com/falabella-cl/product/881687479/jeans-slim-fit-bearcliff-algodon-hombre-estilo-urbano",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883328942_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 19990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:46:07",
+      "ultima_revision": "2026-11-13 23:46:07"
+    },
+    {
+      "id": 3758,
+      "tienda": "falabella",
+      "titulo": "Jeans Baggy Tiro Medio Mujer Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/80823485/jeans-baggy-tiro-medio-mujer-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80823487_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 39990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:46:03",
+      "ultima_revision": "2026-11-13 23:46:03"
+    },
+    {
+      "id": 3458,
+      "tienda": "falabella",
+      "titulo": "Jeans Mujer Mossimo",
+      "url": "https://www.falabella.com/falabella-cl/product/883851148/jeans-mujer-mossimo",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883857211_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 29990,
+      "precio_normal": 39990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 39990,
+      "descuento_pct": 25,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:45:37",
+      "ultima_revision": "2026-11-13 23:45:37"
+    },
+    {
+      "id": 4176,
+      "tienda": "falabella",
+      "titulo": "Jeans Slim Hombre Americanino",
+      "url": "https://www.falabella.com/falabella-cl/product/883180766/jeans-slim-hombre-americanino",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883324544_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 29990,
+      "precio_normal": 39990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 39990,
+      "descuento_pct": 25,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:44:31",
+      "ultima_revision": "2026-11-13 23:44:30"
+    },
+    {
+      "id": 1885,
+      "tienda": "falabella",
+      "titulo": "Chaqueta Mujer Winter Down 800 FP Jacket Negro Lippi",
+      "url": "https://www.falabella.com/falabella-cl/product/143318801/chaqueta-mujer-winter-down-800-fp-jacket-negro-lippi",
+      "imagen_url": "https://media.falabella.com/falabellaCL/143318802_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 167990,
+      "precio_normal": 252990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 252990,
+      "descuento_pct": 34,
+      "ahorro_pesos": 85000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:43:54",
+      "ultima_revision": "2026-11-13 23:43:54"
+    },
+    {
+      "id": 2157,
+      "tienda": "falabella",
+      "titulo": "Chaqueta Mujer Perro Guapo Pro Negro Haka Honu",
+      "url": "https://www.falabella.com/falabella-cl/product/152173945/chaqueta-mujer-perro-guapo-pro-negro-haka-honu",
+      "imagen_url": "https://media.falabella.com/falabellaCL/152173949_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 156990,
+      "precio_normal": 222990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 222990,
+      "descuento_pct": 30,
+      "ahorro_pesos": 66000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:42:40",
+      "ultima_revision": "2026-11-13 23:42:39"
+    },
+    {
+      "id": 4175,
+      "tienda": "falabella",
+      "titulo": "Polerón Hombre Levis",
+      "url": "https://www.falabella.com/falabella-cl/product/80779385/poleron-hombre-levis",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80779395_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 49990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:39:29",
+      "ultima_revision": "2026-11-13 23:39:28"
+    },
+    {
+      "id": 1809,
+      "tienda": "falabella",
+      "titulo": "Polerón Estampado Mujer Doo Australia",
+      "url": "https://www.falabella.com/falabella-cl/product/883853203/poleron-estampado-mujer-doo-australia",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883853204_1/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 16990,
+      "precio_normal": 24990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 24990,
+      "descuento_pct": 32,
+      "ahorro_pesos": 8000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:38:18",
+      "ultima_revision": "2026-11-13 23:38:18"
+    },
+    {
+      "id": 4174,
+      "tienda": "falabella",
+      "titulo": "Polerón Hombre Essentials Crew Volcom",
+      "url": "https://www.falabella.com/falabella-cl/product/154913150/poleron-cr-single-stone-crew-negro-hombre-volcom",
+      "imagen_url": "https://media.falabella.com/falabellaCL/154913154_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 23090,
+      "precio_normal": 32990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 32990,
+      "descuento_pct": 30,
+      "ahorro_pesos": 9900,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:38:14",
+      "ultima_revision": "2026-11-13 23:38:14"
+    },
+    {
+      "id": 2172,
+      "tienda": "falabella",
+      "titulo": "Polerón Deportivo Hombre Haka Honu",
+      "url": "https://www.falabella.com/falabella-cl/product/150313879/poleron-hombre-ninja-negro-haka-honu",
+      "imagen_url": "https://media.falabella.com/falabellaCL/150313884_01/public",
+      "categoria": "Ropa y Vestuario",
+      "precio_internet": 28990,
+      "precio_normal": 57990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 57990,
+      "descuento_pct": 50,
+      "ahorro_pesos": 29000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:38:00",
+      "ultima_revision": "2026-11-13 23:37:59"
+    },
+    {
+      "id": 2925,
+      "tienda": "falabella",
+      "titulo": "Carina 3.0 Zapatilla Urbana Mujer Blanco Puma",
+      "url": "https://www.falabella.com/falabella-cl/product/80537749/carina-3-0-zapatilla-urbana-mujer-blanco-puma",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80538089_1/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 37990,
+      "precio_normal": 54990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 54990,
+      "descuento_pct": 31,
+      "ahorro_pesos": 17000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:37:32",
+      "ultima_revision": "2026-11-13 23:37:31"
+    },
+    {
+      "id": 2724,
+      "tienda": "falabella",
+      "titulo": "Zapatillas Running Negro Mujer New Balance 520",
+      "url": "https://www.falabella.com/falabella-cl/product/142857956/zapatillas-running-negro-mujer-new-balance-520",
+      "imagen_url": "https://media.falabella.com/falabellaCL/142857958_01/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 64990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:35:24",
+      "ultima_revision": "2026-11-13 23:35:24"
+    },
+    {
+      "id": 2325,
+      "tienda": "falabella",
+      "titulo": "Zapatos Running mujer JOMA ACTIVE 2601 negro",
+      "url": "https://www.falabella.com/falabella-cl/product/151953227/zapatos-running-mujer-joma-active-2601-negro",
+      "imagen_url": "https://media.falabella.com/falabellaCL/151953229_01/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 64990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:33:26",
+      "ultima_revision": "2026-11-13 23:33:26"
+    },
+    {
+      "id": 4173,
+      "tienda": "falabella",
+      "titulo": "Zapatilla Hombre 4River Negro / Verde Lippi",
+      "url": "https://www.falabella.com/falabella-cl/product/149830944/zapatilla-hombre-4river-negro-verde-lippi",
+      "imagen_url": "https://media.falabella.com/falabellaCL/149830951_01/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 46990,
+      "precio_normal": 77990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 77990,
+      "descuento_pct": 40,
+      "ahorro_pesos": 31000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:29:12",
+      "ultima_revision": "2026-11-13 23:29:12"
+    },
+    {
+      "id": 3008,
+      "tienda": "falabella",
+      "titulo": "Zapatilla Niño Bubblegummers Eren Blanco",
+      "url": "https://www.falabella.com/falabella-cl/product/156383586/zapatilla-nino-bubblegummers-eren-blanco",
+      "imagen_url": "https://media.falabella.com/falabellaCL/156383590_01/public",
+      "categoria": "Zapatillas y Calzado",
+      "precio_internet": 22990,
+      "precio_normal": null,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:26:49",
+      "ultima_revision": "2026-11-13 23:26:49"
+    },
+    {
+      "id": 3454,
+      "tienda": "falabella",
+      "titulo": "Lavadora Carga Superior 15KG Eco Bubble™ Grafito 2026 Samsung",
+      "url": "https://www.falabella.com/falabella-cl/product/80667821/lavadora-carga-superior-15kg-eco-bubble-grafito-2026-samsung",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80667821_1/public",
+      "categoria": "Electrohogar",
+      "precio_internet": 309990,
+      "precio_normal": 399990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 399990,
+      "descuento_pct": 23,
+      "ahorro_pesos": 90000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:23:56",
+      "ultima_revision": "2026-11-13 23:23:55"
+    },
+    {
+      "id": 1575,
+      "tienda": "falabella",
+      "titulo": "REFRIGERADOR BOTTOM FREEZER FRIO DIRECTO 157 LTS LRB-180DFI",
+      "url": "https://www.falabella.com/falabella-cl/product/123345725/REFRIGERADOR-BOTTOM-FREEZER-FRIO-DIRECTO-157-LTS-LRB-180DFI",
+      "imagen_url": "https://media.falabella.com/falabellaCL/123345726_01/public",
+      "categoria": "Electrohogar",
+      "precio_internet": 179990,
+      "precio_normal": 279990,
+      "precio_tarjeta": 159990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 279990,
+      "descuento_pct": 36,
+      "ahorro_pesos": 100000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:22:06",
+      "ultima_revision": "2026-11-13 23:22:05"
+    },
+    {
+      "id": 110,
+      "tienda": "falabella",
+      "titulo": "Consola de videojuegos portátil Retro R36S sistema Linux 35 pulgadas",
+      "url": "https://www.falabella.com/falabella-cl/product/142963136/Consola-de-videojuegos-portatil-Retro-R36S-sistema-Linux-35-pulgadas",
+      "imagen_url": "https://media.falabella.com/falabellaCL/142963137_01/public",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 54990,
+      "precio_normal": 99990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 99990,
+      "descuento_pct": 45,
+      "ahorro_pesos": 45000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:20:02",
+      "ultima_revision": "2026-11-13 23:20:02"
+    },
+    {
+      "id": 89,
+      "tienda": "falabella",
+      "titulo": "QLED Smart Tv 75\" Mini Led U6ESV Hisense",
+      "url": "https://www.falabella.com/falabella-cl/product/80748820/qled-smart-tv-75-mini-led-u6esv-hisense",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80748820_1/public",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 709990,
+      "precio_normal": 799990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 799990,
+      "descuento_pct": 11,
+      "ahorro_pesos": 90000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:17:35",
+      "ultima_revision": "2026-11-13 23:17:35"
+    },
+    {
+      "id": 73,
+      "tienda": "falabella",
+      "titulo": "Smart TV 55 LG NANO 4K UHD AI NU85 2026 + Magic Remote.",
+      "url": "https://www.falabella.com/falabella-cl/product/154507272/smart-tv-55-lg-nano-4k-uhd-ai-nu85-2026",
+      "imagen_url": "https://media.falabella.com/falabellaCL/154507273_01/public",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 309990,
+      "precio_normal": 579990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 579990,
+      "descuento_pct": 47,
+      "ahorro_pesos": 270000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:16:05",
+      "ultima_revision": "2026-11-13 23:16:04"
+    },
+    {
+      "id": 2357,
+      "tienda": "falabella",
+      "titulo": "Smart Tv 65\" QLED MINILED 4K UHD GOOGLE TV Gamer 144HZ 65U7ESG Hisense",
+      "url": "https://www.falabella.com/falabella-cl/product/80725431/smart-tv-65-qled-miniled-4k-uhd-google-tv-gamer-144hz-65u7esg-hisense",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80725431_1/public",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 609990,
+      "precio_normal": 729990,
+      "precio_tarjeta": 589990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 729990,
+      "descuento_pct": 16,
+      "ahorro_pesos": 120000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:15:43",
+      "ultima_revision": "2026-11-13 23:15:43"
+    },
+    {
+      "id": 32,
+      "tienda": "falabella",
+      "titulo": "iPhone 13 128GB Reacondicionado Excelente",
+      "url": "https://www.falabella.com/falabella-cl/product/143212645/iphone-13-128gb-negro-reacondicionado",
+      "imagen_url": "https://media.falabella.com/falabellaCL/143212646_01/public",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 349990,
+      "precio_normal": 499990,
+      "precio_tarjeta": 329990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 499990,
+      "descuento_pct": 30,
+      "ahorro_pesos": 150000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:13:38",
+      "ultima_revision": "2026-11-13 23:13:38"
+    },
+    {
+      "id": 3040,
+      "tienda": "falabella",
+      "titulo": "Notebook ASUS Vivobook 15 Intel Core 7 16GB RAM 512GB SSD 15.6\"",
+      "url": "https://www.falabella.com/falabella-cl/product/155929883/notebook-asus-vivobook-15-intel-core-7-16gb-ram-512gb-ssd-15-6",
+      "imagen_url": "https://media.falabella.com/falabellaCL/155929884_01/public",
+      "categoria": "Computación",
+      "precio_internet": 819990,
+      "precio_normal": 1519990,
+      "precio_tarjeta": 799990,
+      "tarjeta_asociada": "CMR",
+      "precio_referencia": 1519990,
+      "descuento_pct": 46,
+      "ahorro_pesos": 700000,
+      "disponible": true,
+      "regla": "Bajo Precio Máximo",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-13 23:12:13",
+      "ultima_revision": "2026-11-13 23:12:12"
+    },
     {
       "id": 2174,
       "tienda": "falabella",
@@ -40,7 +680,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:16:31",
-      "ultima_revision": "2026-11-13 18:13:30"
+      "ultima_revision": "2026-11-13 23:54:24"
     },
     {
       "id": 2292,
@@ -56,11 +696,11 @@
       "precio_referencia": null,
       "descuento_pct": 0,
       "ahorro_pesos": 0,
-      "disponible": false,
+      "disponible": true,
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:16:05",
-      "ultima_revision": "2026-11-13 18:13:18"
+      "ultima_revision": "2026-11-13 23:54:12"
     },
     {
       "id": 1151,
@@ -80,7 +720,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:13:54",
-      "ultima_revision": "2026-11-13 18:13:54"
+      "ultima_revision": "2026-11-13 23:54:43"
     },
     {
       "id": 2613,
@@ -140,7 +780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:09:18",
-      "ultima_revision": "2026-11-13 18:09:17"
+      "ultima_revision": "2026-11-13 23:50:14"
     },
     {
       "id": 2915,
@@ -160,7 +800,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:07:43",
-      "ultima_revision": "2026-11-13 18:07:43"
+      "ultima_revision": "2026-11-13 23:48:15"
     },
     {
       "id": 2550,
@@ -180,7 +820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:04:48",
-      "ultima_revision": "2026-11-13 18:04:47"
+      "ultima_revision": "2026-11-13 23:45:25"
     },
     {
       "id": 1998,
@@ -200,7 +840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:03:45",
-      "ultima_revision": "2026-11-13 18:03:45"
+      "ultima_revision": "2026-11-13 23:44:36"
     },
     {
       "id": 1861,
@@ -220,14 +860,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:02:50",
-      "ultima_revision": "2026-11-13 18:02:50"
+      "ultima_revision": "2026-11-13 23:43:39"
     },
     {
       "id": 1886,
       "tienda": "falabella",
       "titulo": "Parka Hombre Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/883736915/Parka-Hombre-Americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883736925_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883736918_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 39990,
       "precio_normal": 99990,
@@ -240,14 +880,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:02:19",
-      "ultima_revision": "2026-11-13 18:02:18"
+      "ultima_revision": "2026-11-13 23:43:09"
     },
     {
       "id": 3013,
       "tienda": "falabella",
       "titulo": "Chaqueta Sin Mangas Mujer Americanino",
       "url": "https://www.falabella.com/falabella-cl/product/80788138/chaqueta-sin-mangas-mujer-americanino",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80788145_01/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/80788147_01/public",
       "categoria": "Ropa y Vestuario",
       "precio_internet": 39990,
       "precio_normal": null,
@@ -260,7 +900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:00:55",
-      "ultima_revision": "2026-11-13 18:00:54"
+      "ultima_revision": "2026-11-13 23:41:40"
     },
     {
       "id": 2659,
@@ -280,7 +920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 18:00:35",
-      "ultima_revision": "2026-11-13 18:00:34"
+      "ultima_revision": "2026-11-13 23:41:25"
     },
     {
       "id": 2093,
@@ -300,7 +940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:59:09",
-      "ultima_revision": "2026-11-13 17:59:08"
+      "ultima_revision": "2026-11-13 23:40:04"
     },
     {
       "id": 2725,
@@ -320,7 +960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:58:40",
-      "ultima_revision": "2026-11-13 17:58:39"
+      "ultima_revision": "2026-11-13 23:39:42"
     },
     {
       "id": 3772,
@@ -340,7 +980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:56:18",
-      "ultima_revision": "2026-11-13 17:56:17"
+      "ultima_revision": "2026-11-13 23:37:19"
     },
     {
       "id": 2982,
@@ -440,14 +1080,14 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:51:28",
-      "ultima_revision": "2026-11-13 17:55:32"
+      "ultima_revision": "2026-11-13 23:36:28"
     },
     {
       "id": 2905,
       "tienda": "falabella",
       "titulo": "Sol Zapatilla Running Mujer Gris Diadora",
       "url": "https://www.falabella.com/falabella-cl/product/883808035/sol-zapatilla-running-mujer-gris-diadora",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883808037_1/public",
+      "imagen_url": "https://media.falabella.com/falabellaCL/883808036_1/public",
       "categoria": "Zapatillas y Calzado",
       "precio_internet": 24990,
       "precio_normal": 29990,
@@ -460,7 +1100,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:51:01",
-      "ultima_revision": "2026-11-13 17:51:01"
+      "ultima_revision": "2026-11-13 23:32:40"
     },
     {
       "id": 2998,
@@ -480,7 +1120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:50:37",
-      "ultima_revision": "2026-11-13 17:50:37"
+      "ultima_revision": "2026-11-13 23:32:19"
     },
     {
       "id": 2428,
@@ -500,7 +1140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:50:31",
-      "ultima_revision": "2026-11-13 17:53:17"
+      "ultima_revision": "2026-11-13 23:34:39"
     },
     {
       "id": 4164,
@@ -560,7 +1200,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:49:11",
-      "ultima_revision": "2026-11-13 17:49:11"
+      "ultima_revision": "2026-11-13 23:30:58"
     },
     {
       "id": 1719,
@@ -580,7 +1220,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:49:02",
-      "ultima_revision": "2026-11-13 17:52:31"
+      "ultima_revision": "2026-11-13 23:33:57"
     },
     {
       "id": 1724,
@@ -600,7 +1240,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:48:44",
-      "ultima_revision": "2026-11-13 17:53:57"
+      "ultima_revision": "2026-11-13 23:35:09"
     },
     {
       "id": 1716,
@@ -620,7 +1260,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:46:37",
-      "ultima_revision": "2026-11-13 17:46:37"
+      "ultima_revision": "2026-11-13 23:28:25"
     },
     {
       "id": 1757,
@@ -640,7 +1280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:45:48",
-      "ultima_revision": "2026-11-13 17:50:05"
+      "ultima_revision": "2026-11-13 23:31:48"
     },
     {
       "id": 4163,
@@ -680,7 +1320,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:44:55",
-      "ultima_revision": "2026-11-13 17:44:54"
+      "ultima_revision": "2026-11-13 23:26:42"
     },
     {
       "id": 199,
@@ -700,7 +1340,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:44:10",
-      "ultima_revision": "2026-11-13 17:44:09"
+      "ultima_revision": "2026-11-13 23:26:07"
     },
     {
       "id": 4162,
@@ -720,7 +1360,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:43:14",
-      "ultima_revision": "2026-11-13 17:43:14"
+      "ultima_revision": "2026-11-13 23:25:09"
     },
     {
       "id": 183,
@@ -740,7 +1380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:42:53",
-      "ultima_revision": "2026-11-13 17:42:52"
+      "ultima_revision": "2026-11-13 23:24:53"
     },
     {
       "id": 173,
@@ -760,7 +1400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:42:34",
-      "ultima_revision": "2026-11-13 17:42:33"
+      "ultima_revision": "2026-11-13 23:24:13"
     },
     {
       "id": 3007,
@@ -820,7 +1460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:41:27",
-      "ultima_revision": "2026-11-13 17:41:26"
+      "ultima_revision": "2026-11-13 23:23:24"
     },
     {
       "id": 165,
@@ -840,7 +1480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:40:45",
-      "ultima_revision": "2026-11-13 17:40:45"
+      "ultima_revision": "2026-11-13 23:22:37"
     },
     {
       "id": 4161,
@@ -900,7 +1540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:39:17",
-      "ultima_revision": "2026-11-13 17:39:17"
+      "ultima_revision": "2026-11-13 23:21:18"
     },
     {
       "id": 139,
@@ -920,7 +1560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:38:49",
-      "ultima_revision": "2026-11-13 17:38:49"
+      "ultima_revision": "2026-11-13 23:20:54"
     },
     {
       "id": 129,
@@ -940,7 +1580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:38:41",
-      "ultima_revision": "2026-11-13 17:38:41"
+      "ultima_revision": "2026-11-13 23:20:46"
     },
     {
       "id": 116,
@@ -960,7 +1600,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:37:04",
-      "ultima_revision": "2026-11-13 17:37:03"
+      "ultima_revision": "2026-11-13 23:19:07"
     },
     {
       "id": 93,
@@ -980,7 +1620,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:36:08",
-      "ultima_revision": "2026-11-13 17:36:07"
+      "ultima_revision": "2026-11-13 23:18:01"
     },
     {
       "id": 94,
@@ -1040,7 +1680,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:35:19",
-      "ultima_revision": "2026-11-13 17:35:19"
+      "ultima_revision": "2026-11-13 23:17:43"
     },
     {
       "id": 1574,
@@ -1060,7 +1700,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:35:12",
-      "ultima_revision": "2026-11-13 17:35:12"
+      "ultima_revision": "2026-11-13 23:17:31"
     },
     {
       "id": 1630,
@@ -1080,7 +1720,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:35:09",
-      "ultima_revision": "2026-11-13 17:35:08"
+      "ultima_revision": "2026-11-13 23:17:20"
     },
     {
       "id": 83,
@@ -1100,7 +1740,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:34:55",
-      "ultima_revision": "2026-11-13 17:34:55"
+      "ultima_revision": "2026-11-13 23:17:11"
     },
     {
       "id": 1573,
@@ -1120,7 +1760,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:33:59",
-      "ultima_revision": "2026-11-13 17:33:58"
+      "ultima_revision": "2026-11-13 23:16:16"
     },
     {
       "id": 2906,
@@ -1140,7 +1780,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:33:20",
-      "ultima_revision": "2026-11-13 17:33:20"
+      "ultima_revision": "2026-11-13 23:15:28"
     },
     {
       "id": 2506,
@@ -1180,7 +1820,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:32:24",
-      "ultima_revision": "2026-11-13 17:32:24"
+      "ultima_revision": "2026-11-13 23:14:41"
     },
     {
       "id": 42,
@@ -1200,7 +1840,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:32:10",
-      "ultima_revision": "2026-11-13 17:32:10"
+      "ultima_revision": "2026-11-13 23:14:28"
     },
     {
       "id": 35,
@@ -1220,7 +1860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:31:55",
-      "ultima_revision": "2026-11-13 17:31:55"
+      "ultima_revision": "2026-11-13 23:14:13"
     },
     {
       "id": 1579,
@@ -1240,7 +1880,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:31:37",
-      "ultima_revision": "2026-11-13 17:31:37"
+      "ultima_revision": "2026-11-13 23:15:08"
     },
     {
       "id": 34,
@@ -1260,7 +1900,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:31:22",
-      "ultima_revision": "2026-11-13 17:31:22"
+      "ultima_revision": "2026-11-13 23:13:44"
     },
     {
       "id": 33,
@@ -1280,7 +1920,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:31:16",
-      "ultima_revision": "2026-11-13 17:31:16"
+      "ultima_revision": "2026-11-13 23:13:41"
     },
     {
       "id": 31,
@@ -1300,7 +1940,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:31:10",
-      "ultima_revision": "2026-11-13 17:31:10"
+      "ultima_revision": "2026-11-13 23:13:51"
     },
     {
       "id": 4160,
@@ -1320,7 +1960,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:30:23",
-      "ultima_revision": "2026-11-13 17:30:23"
+      "ultima_revision": "2026-11-13 23:12:44"
     },
     {
       "id": 30,
@@ -1340,7 +1980,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:30:05",
-      "ultima_revision": "2026-11-13 17:30:05"
+      "ultima_revision": "2026-11-13 23:12:24"
     },
     {
       "id": 3816,
@@ -1380,7 +2020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 17:28:49",
-      "ultima_revision": "2026-11-13 17:28:49"
+      "ultima_revision": "2026-11-13 23:13:15"
     },
     {
       "id": 357,
@@ -1400,7 +2040,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:46:15",
-      "ultima_revision": "2026-11-13 18:11:54"
+      "ultima_revision": "2026-11-13 23:52:40"
     },
     {
       "id": 4130,
@@ -1420,7 +2060,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:44:23",
-      "ultima_revision": "2026-11-13 18:13:30"
+      "ultima_revision": "2026-11-13 23:54:24"
     },
     {
       "id": 4126,
@@ -1440,7 +2080,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:44:07",
-      "ultima_revision": "2026-11-13 18:13:18"
+      "ultima_revision": "2026-11-13 23:54:12"
     },
     {
       "id": 4144,
@@ -1480,7 +2120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:38:56",
-      "ultima_revision": "2026-11-13 18:09:12"
+      "ultima_revision": "2026-11-13 23:50:09"
     },
     {
       "id": 2980,
@@ -1500,7 +2140,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:37:28",
-      "ultima_revision": "2026-11-13 18:07:34"
+      "ultima_revision": "2026-11-13 23:48:06"
     },
     {
       "id": 1917,
@@ -1520,7 +2160,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:35:46",
-      "ultima_revision": "2026-11-13 18:05:48"
+      "ultima_revision": "2026-11-13 23:46:00"
     },
     {
       "id": 3801,
@@ -1540,7 +2180,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:33:30",
-      "ultima_revision": "2026-11-13 18:03:21"
+      "ultima_revision": "2026-11-13 23:44:15"
     },
     {
       "id": 2179,
@@ -1640,7 +2280,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:29:19",
-      "ultima_revision": "2026-11-13 17:58:59"
+      "ultima_revision": "2026-11-13 23:39:52"
     },
     {
       "id": 2514,
@@ -1740,7 +2380,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:13:36",
-      "ultima_revision": "2026-11-13 17:40:32"
+      "ultima_revision": "2026-11-13 23:22:28"
     },
     {
       "id": 174,
@@ -1760,7 +2400,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:12:52",
-      "ultima_revision": "2026-11-13 17:41:30"
+      "ultima_revision": "2026-11-13 23:23:33"
     },
     {
       "id": 4143,
@@ -1800,7 +2440,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:06:59",
-      "ultima_revision": "2026-11-13 17:35:16"
+      "ultima_revision": "2026-11-13 23:17:24"
     },
     {
       "id": 84,
@@ -1820,7 +2460,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:06:42",
-      "ultima_revision": "2026-11-13 17:35:00"
+      "ultima_revision": "2026-11-13 23:17:17"
     },
     {
       "id": 1359,
@@ -1840,7 +2480,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:06:30",
-      "ultima_revision": "2026-11-13 17:34:40"
+      "ultima_revision": "2026-11-13 23:16:43"
     },
     {
       "id": 4142,
@@ -1900,7 +2540,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:02:34",
-      "ultima_revision": "2026-11-13 17:30:38"
+      "ultima_revision": "2026-11-13 23:13:06"
     },
     {
       "id": 13,
@@ -1920,7 +2560,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:02:29",
-      "ultima_revision": "2026-11-13 17:30:56"
+      "ultima_revision": "2026-11-13 23:13:01"
     },
     {
       "id": 1591,
@@ -1940,7 +2580,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 09:00:47",
-      "ultima_revision": "2026-11-13 17:29:07"
+      "ultima_revision": "2026-11-13 23:11:14"
     },
     {
       "id": 4102,
@@ -1960,7 +2600,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 02:22:51",
-      "ultima_revision": "2026-11-13 18:13:08"
+      "ultima_revision": "2026-11-13 23:54:01"
     },
     {
       "id": 4090,
@@ -2000,7 +2640,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 02:22:04",
-      "ultima_revision": "2026-11-13 18:12:40"
+      "ultima_revision": "2026-11-13 23:53:34"
     },
     {
       "id": 2470,
@@ -2020,7 +2660,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 02:16:38",
-      "ultima_revision": "2026-11-13 18:09:01"
+      "ultima_revision": "2026-11-13 23:50:02"
     },
     {
       "id": 4116,
@@ -2220,7 +2860,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 02:04:59",
-      "ultima_revision": "2026-11-13 17:57:19"
+      "ultima_revision": "2026-11-13 23:38:30"
     },
     {
       "id": 3729,
@@ -2380,7 +3020,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 01:49:52",
-      "ultima_revision": "2026-11-13 17:41:09"
+      "ultima_revision": "2026-11-13 23:22:53"
     },
     {
       "id": 1562,
@@ -2400,7 +3040,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 01:49:36",
-      "ultima_revision": "2026-11-13 17:40:26"
+      "ultima_revision": "2026-11-13 23:23:03"
     },
     {
       "id": 1367,
@@ -2440,7 +3080,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 01:48:48",
-      "ultima_revision": "2026-11-13 01:48:47"
+      "ultima_revision": "2026-11-13 23:22:01"
     },
     {
       "id": 112,
@@ -2480,7 +3120,7 @@
       "regla": "Bajo Precio Máximo",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-13 01:42:08",
-      "ultima_revision": "2026-11-13 09:04:29"
+      "ultima_revision": "2026-11-13 23:13:55"
     },
     {
       "id": 3504,
@@ -5361,652 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-12 21:40:37",
       "ultima_revision": "2026-11-12 21:40:37"
-    },
-    {
-      "id": 3293,
-      "tienda": "paris",
-      "titulo": "Polerón Oversize Cuello Redondo Manga Larga con Hombreras",
-      "url": "https://www.paris.cl/poleron-oversize-cuello-redondo-manga-larga-con-hombreras-384463.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/384463/variant/69bbffc54e59ee1547d4936f/images/680b5216-dfeb-48f0-a367-afe032345541/384463-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 16990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:37",
-      "ultima_revision": "2026-11-12 21:38:37"
-    },
-    {
-      "id": 3546,
-      "tienda": "paris",
-      "titulo": "Polerón con Capucha Lavado",
-      "url": "https://www.paris.cl/poleron-con-capucha-lavado-427893.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/427893/variant/69b1bf471d5cd28ccb7db9d8/images/679294e1-1fe1-4ca8-a69c-d78e9f140167/427893-0060-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 44990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:37",
-      "ultima_revision": "2026-11-12 21:38:36"
-    },
-    {
-      "id": 3297,
-      "tienda": "paris",
-      "titulo": "Polerón con Capucha Sólido Oversize",
-      "url": "https://www.paris.cl/poleron-con-capucha-solido-oversize-225318.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/225318/variant/699dba11753c552bb38ab33b/images/e162ce44-beed-493f-8147-79ef4cf930cc/225318-0205-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:36",
-      "ultima_revision": "2026-11-12 21:38:36"
-    },
-    {
-      "id": 3303,
-      "tienda": "paris",
-      "titulo": "Polerón Slouchy",
-      "url": "https://www.paris.cl/poleron-slouchy-363150.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/363150/variant/69b2e82b7dec9b242628e5da/images/3893bedf-0b8a-41ff-af27-0e479b204bab/363150-0010-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 34990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:36",
-      "ultima_revision": "2026-11-12 21:38:36"
-    },
-    {
-      "id": 3291,
-      "tienda": "paris",
-      "titulo": "Polerón con Parche y Capucha",
-      "url": "https://www.paris.cl/poleron-con-parche-y-capucha-444059.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/444059/variant/6a7b3e11a5050ac06de8137a/images/935ba794-f190-4eaa-a2b8-0a053e471d8a/444059-0060-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 29990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:36",
-      "ultima_revision": "2026-11-12 21:38:35"
-    },
-    {
-      "id": 3290,
-      "tienda": "paris",
-      "titulo": "Polerón Bomber Deportivo",
-      "url": "https://www.paris.cl/poleron-bomber-deportivo-444114.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/444114/variant/69caa2bc34a015648bd38f0b/images/9b0ffa68-ad2e-48d7-8991-0a1d433d17c8/444114-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 29990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:35",
-      "ultima_revision": "2026-11-12 21:38:35"
-    },
-    {
-      "id": 3296,
-      "tienda": "paris",
-      "titulo": "Polerón Relaxed",
-      "url": "https://www.paris.cl/poleron-relaxed-444113.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/444113/variant/69caa2be34a015648bd3905b/images/cb5c16a8-f6a3-4a66-94ab-e895e59de30e/444113-0010-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:35",
-      "ultima_revision": "2026-11-12 21:38:35"
-    },
-    {
-      "id": 3294,
-      "tienda": "paris",
-      "titulo": "Polerón Ae Everyday Luxe Dobladillo",
-      "url": "https://www.paris.cl/poleron-ae-everyday-luxe-dobladillo-434828.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/434828/variant/6a612b3db4ea78f26c2d23d0/images/df00d989-4627-482f-a415-f218cf2b2843/434828-0110-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 59990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:35",
-      "ultima_revision": "2026-11-12 21:38:34"
-    },
-    {
-      "id": 3284,
-      "tienda": "paris",
-      "titulo": "Polerón Garment dye",
-      "url": "https://www.paris.cl/poleron-garment-dye-362933.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/362933/variant/69aad783aa76deff0b1770a0/images/e0e5e9f2-03ef-4bc5-a446-7d08cac7abe5/362933-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 32990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:34",
-      "ultima_revision": "2026-11-12 21:38:34"
-    },
-    {
-      "id": 3287,
-      "tienda": "paris",
-      "titulo": "Polerón Cuello Redondo con Bordado",
-      "url": "https://www.paris.cl/poleron-cuello-redondo-con-bordado-373060.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/373060/variant/69bbffb84e59ee1547d48fc4/images/82f77cb8-dc0f-472d-a777-effa6341fa85/373060-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 16990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:34",
-      "ultima_revision": "2026-11-12 21:38:34"
-    },
-    {
-      "id": 3298,
-      "tienda": "paris",
-      "titulo": "Polerón Polar Estampado Geométrico",
-      "url": "https://www.paris.cl/poleron-polar-estampado-geometrico-259881.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/259881/variant/6943f8d9b507fcd5721e4752/images/1ca9b226-c5ba-4935-abff-d5811dc7a092/259881-0960-005.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:34",
-      "ultima_revision": "2026-11-12 21:38:34"
-    },
-    {
-      "id": 3285,
-      "tienda": "paris",
-      "titulo": "Polerón Basic con Capucha y Cierre",
-      "url": "https://www.paris.cl/poleron-basic-con-capucha-y-cierre-174377.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/174377/variant/699478a83b755b7a86305aeb/images/4183228c-c647-4a08-ac22-b2a6b38b1481/174377-0410-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:34",
-      "ultima_revision": "2026-11-12 21:38:33"
-    },
-    {
-      "id": 3283,
-      "tienda": "paris",
-      "titulo": "Polerón Largo con Capucha",
-      "url": "https://www.paris.cl/poleron-largo-con-capucha-405009.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/405009/variant/69bbffa74e59ee1547d48471/images/8fea8a1c-2514-46b8-9fdc-50d94a0111d4/405009-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:33",
-      "ultima_revision": "2026-11-12 21:38:33"
-    },
-    {
-      "id": 4050,
-      "tienda": "paris",
-      "titulo": "Polerón Beky",
-      "url": "https://www.paris.cl/poleron-beky-435286.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/435286/variant/69bc0e7e36799d589a63ed1b/images/0a37e211-3332-463d-950a-f8e74a79cc79/435286-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 32990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:33",
-      "ultima_revision": "2026-11-12 21:38:33"
-    },
-    {
-      "id": 4049,
-      "tienda": "paris",
-      "titulo": "Polerón Polar con Detalle Nylon y Bolsillos",
-      "url": "https://www.paris.cl/poleron-polar-con-detalle-nylon-y-bolsillos-259880.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/259880/variant/6a39a00c31e25b429274647d/images/8b186740-60c2-4808-9f03-4ec74da61a47/259880-0960-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:33",
-      "ultima_revision": "2026-11-12 21:38:32"
-    },
-    {
-      "id": 3292,
-      "tienda": "paris",
-      "titulo": "Polerón con Etiqueta Roja",
-      "url": "https://www.paris.cl/poleron-con-etiqueta-roja-356411.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/356411/variant/6941a0c737ebcabe711ec93e/images/cec838b5-c60a-4db1-9a8f-ad31bda3c85c/356411-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:32",
-      "ultima_revision": "2026-11-12 21:38:32"
-    },
-    {
-      "id": 4048,
-      "tienda": "paris",
-      "titulo": "Polerón Estampado Spicy con Capucha",
-      "url": "https://www.paris.cl/poleron-estampado-spicy-con-capucha-476789.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/476789/variant/6a7b3e11a5050ac06de8138f/images/17c06792-5cba-4808-9295-86cb345551c2/476789-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 47990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:32",
-      "ultima_revision": "2026-11-12 21:38:32"
-    },
-    {
-      "id": 3282,
-      "tienda": "paris",
-      "titulo": "Polerón Básico Capucha Oversize Die Trying",
-      "url": "https://www.paris.cl/poleron-basico-capucha-oversize-die-trying-381210.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/381210/variant/69f215e2fd6c0ae484f4a8f2/images/c187ff22-b37b-4974-a9f5-8145c8438e9b/381210-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 26990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:32",
-      "ultima_revision": "2026-11-12 21:38:31"
-    },
-    {
-      "id": 3451,
-      "tienda": "paris",
-      "titulo": "Polerón Soft Relajado",
-      "url": "https://www.paris.cl/poleron-soft-relajado-285643.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/285643/variant/68d1928efb6b09ac0da2613d/images/0bf80b66-444d-4da7-9aa1-90387a886a97/285643-0231-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 29990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:31",
-      "ultima_revision": "2026-11-12 21:50:05"
-    },
-    {
-      "id": 3295,
-      "tienda": "paris",
-      "titulo": "Polerón Cierre Completo con Gorro French Terry Club Hoodie",
-      "url": "https://www.paris.cl/poleron-cierre-completo-con-gorro-french-terry-club-hoodie-929670.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/paris/929670/variant/images/cdbc8be4-b382-4f7c-b7f9-de8e577d5ddf/929670-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 66990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:31",
-      "ultima_revision": "2026-11-12 21:38:31"
-    },
-    {
-      "id": 4047,
-      "tienda": "paris",
-      "titulo": "Polar Bolsillos Frontales",
-      "url": "https://www.paris.cl/polar-bolsillos-frontales-279434.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/279434/variant/68c1ce68abb84e8ca633d2b1/images/2b5a91cc-1245-4cde-a92f-a93df072b3c2/279434-0001-001.jpg",
-      "categoria": "Otros",
-      "precio_internet": 19990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:31",
-      "ultima_revision": "2026-11-12 21:38:31"
-    },
-    {
-      "id": 3286,
-      "tienda": "paris",
-      "titulo": "Polerón Regular Fit con Cierre y Capucha",
-      "url": "https://www.paris.cl/poleron-regular-fit-con-cierre-y-capucha-985418.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/985418/variant/68ef985a7b577d3b963240e8/images/1474ecae-e8ec-4377-bf04-5de7f7b82c63/985418-0620-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:31",
-      "ultima_revision": "2026-11-12 21:38:30"
-    },
-    {
-      "id": 3281,
-      "tienda": "paris",
-      "titulo": "Polerón Interior Felpa con Gorro",
-      "url": "https://www.paris.cl/poleron-interior-felpa-con-gorro-793532.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/793532/variant/685b37d953caa819eee70bae/images/2ae393de-9c2a-425d-8abe-ffa46ba83da6/793532-0651-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:30",
-      "ultima_revision": "2026-11-12 21:38:30"
-    },
-    {
-      "id": 3545,
-      "tienda": "paris",
-      "titulo": "Polerón Cuello Redondo W Sl Fc Swt",
-      "url": "https://www.paris.cl/poleron-cuello-redondo-w-sl-fc-swt-331695.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/331695/variant/6917b08506a09557e33b441a/images/8e704019-de7d-45ff-888b-408625db493d/331695-0100-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 37990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:30",
-      "ultima_revision": "2026-11-12 21:38:30"
-    },
-    {
-      "id": 4046,
-      "tienda": "paris",
-      "titulo": "Polerón Técnico Running Capsule",
-      "url": "https://www.paris.cl/poleron-tecnico-running-capsule-444135.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/444135/variant/69caa2cb34a015648bd39326/images/b520a5d0-5937-4606-ae84-d597b1a2a89e/444135-0012-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 24990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:30",
-      "ultima_revision": "2026-11-12 21:38:29"
-    },
-    {
-      "id": 3279,
-      "tienda": "paris",
-      "titulo": "Polerón Básico Tipo Canguro",
-      "url": "https://www.paris.cl/poleron-basico-tipo-canguro-108692.html",
-      "imagen_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/85812d50-2f5b-41e1-9870-f6cb881234ae/PARSDLQTCW/PARSDLQTCW-28/1740792446045-PARSDLQTCW-28-1.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 19990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:29",
-      "ultima_revision": "2026-11-12 21:50:05"
-    },
-    {
-      "id": 3280,
-      "tienda": "paris",
-      "titulo": "Polerón Capucha con Bolisllo Canguro Básico",
-      "url": "https://www.paris.cl/poleron-capucha-con-bolisllo-canguro-basico-231875.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/231875/variant/6a887877ff3b53462c70f3e8/images/8c688c3d-3f94-499e-a7f3-35be0bc14bc5/231875-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 19990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:29",
-      "ultima_revision": "2026-11-12 21:38:29"
-    },
-    {
-      "id": 3288,
-      "tienda": "paris",
-      "titulo": "Polerón Estampado",
-      "url": "https://www.paris.cl/poleron-estampado-362915.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/362915/variant/69c1bc2f583840d45c1526ed/images/c14629ca-df39-433c-a67d-618e7e05506c/362915-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 29990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:29",
-      "ultima_revision": "2026-11-12 21:38:29"
-    },
-    {
-      "id": 3277,
-      "tienda": "paris",
-      "titulo": "Polerón Capucha Zipper Unicolor",
-      "url": "https://www.paris.cl/poleron-capucha-zipper-unicolor-238694.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/238694/variant/69f274b3e2860bd90876a5e3/images/5757bcea-98eb-4a26-b41b-37369b08e9fe/238694-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 16990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:28",
-      "ultima_revision": "2026-11-12 21:38:28"
-    },
-    {
-      "id": 3278,
-      "tienda": "paris",
-      "titulo": "Polerón Capucha y Bolsillos",
-      "url": "https://www.paris.cl/poleron-capucha-y-bolsillos-668091.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/668091/variant/69cb0ad8a4207640ab5404a4/images/239b09f0-74e5-4a76-8c17-6a5f142a1ab3/668091-0001-001.jpg",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 19990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:38:28",
-      "ultima_revision": "2026-11-12 21:38:28"
-    },
-    {
-      "id": 3262,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Bella Mujer Donna",
-      "url": "https://www.paris.cl/zapatilla-urbana-bella-mujer-donna-522931.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/522931/variant/6a3bc79c0c264fbea9da5f7d/images/66e00817-56e9-4062-8f7c-5acd5ce4d50e/522931-0100-001.jpg",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 54990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:36:13",
-      "ultima_revision": "2026-11-12 21:36:12"
-    },
-    {
-      "id": 3218,
-      "tienda": "paris",
-      "titulo": "Zapatilla Urbana Plana con Malla Mujer",
-      "url": "https://www.paris.cl/zapatilla-urbana-plana-con-malla-mujer-250673.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/paris/250673/variant/images/06c81a56-6867-45e5-a00a-6985d024482a/250673-0001-006.png",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 49990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-12 21:36:12",
-      "ultima_revision": "2026-11-12 21:36:12"
     }
   ],
   "estadisticas": {
-    "total_productos": 4172,
+    "total_productos": 4186,
     "tiendas": 59,
-    "alertas_enviadas": 5958,
+    "alertas_enviadas": 5990,
     "descuento_maximo": 68
   }
 }
