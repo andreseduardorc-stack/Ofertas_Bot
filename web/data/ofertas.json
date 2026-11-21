@@ -1,7 +1,47 @@
 {
-  "actualizado_el": "2026-11-21T14:46:26.581804",
+  "actualizado_el": "2026-11-21T21:23:15.519727",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 2310,
+      "tienda": "sodimac",
+      "titulo": "AIROLITE Aire Acondicionado Portátil 9000 Climate PRO 9000 Btu/h WIFI",
+      "url": "https://www.sodimac.cl/sodimac-cl/articulo/135812431/product/135812432",
+      "imagen_url": "",
+      "categoria": "Electrohogar",
+      "precio_internet": 349990,
+      "precio_normal": 349990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-21 21:22:31",
+      "ultima_revision": "2026-11-21 21:20:27"
+    },
+    {
+      "id": 2292,
+      "tienda": "ripley",
+      "titulo": "MICROONDAS THOMAS TH34DMG ESPEJADO PLATO GIRATORIO",
+      "url": "https://simple.ripley.cl/microondas-thomas-th34dmg-espejado-plato-giratorio-2000373805484p",
+      "imagen_url": "",
+      "categoria": "Electrohogar",
+      "precio_internet": 99990,
+      "precio_normal": 109990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 109990,
+      "descuento_pct": 9,
+      "ahorro_pesos": 10000,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-21 21:19:45",
+      "ultima_revision": "2026-11-21 21:19:44"
+    },
     {
       "id": 400,
       "tienda": "infor-ingen",
@@ -20,7 +60,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-21 06:02:12",
-      "ultima_revision": "2026-11-21 14:41:02"
+      "ultima_revision": "2026-11-21 21:18:35"
     },
     {
       "id": 2161,
@@ -60,7 +100,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-20 08:56:50",
-      "ultima_revision": "2026-11-21 14:42:17"
+      "ultima_revision": "2026-11-21 21:19:44"
     },
     {
       "id": 1322,
@@ -80,7 +120,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-20 08:56:05",
-      "ultima_revision": "2026-11-21 14:43:21"
+      "ultima_revision": "2026-11-21 21:20:38"
     },
     {
       "id": 1549,
@@ -100,7 +140,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-20 01:37:47",
-      "ultima_revision": "2026-11-21 14:42:37"
+      "ultima_revision": "2026-11-21 21:20:04"
     },
     {
       "id": 1529,
@@ -120,7 +160,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-20 01:37:34",
-      "ultima_revision": "2026-11-21 14:41:46"
+      "ultima_revision": "2026-11-21 21:19:17"
     },
     {
       "id": 586,
@@ -140,7 +180,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-20 01:34:40",
-      "ultima_revision": "2026-11-21 14:41:30"
+      "ultima_revision": "2026-11-21 21:19:01"
     },
     {
       "id": 1479,
@@ -160,7 +200,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 19:27:27",
-      "ultima_revision": "2026-11-21 14:40:57"
+      "ultima_revision": "2026-11-21 21:18:32"
     },
     {
       "id": 995,
@@ -169,18 +209,18 @@
       "url": "https://simple.ripley.cl/aspiradora-thomas-junior-1516-2019021710001p",
       "imagen_url": "",
       "categoria": "Electrohogar",
-      "precio_internet": 77994,
-      "precio_normal": 103992,
+      "precio_internet": 114990,
+      "precio_normal": 129990,
       "precio_tarjeta": null,
       "tarjeta_asociada": null,
-      "precio_referencia": 103992,
-      "descuento_pct": 25,
-      "ahorro_pesos": 25998,
+      "precio_referencia": 129990,
+      "descuento_pct": 12,
+      "ahorro_pesos": 15000,
       "disponible": true,
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 19:24:53",
-      "ultima_revision": "2026-11-21 14:42:32"
+      "ultima_revision": "2026-11-21 21:19:59"
     },
     {
       "id": 996,
@@ -200,7 +240,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 19:24:53",
-      "ultima_revision": "2026-11-21 14:42:32"
+      "ultima_revision": "2026-11-21 21:19:59"
     },
     {
       "id": 988,
@@ -209,58 +249,18 @@
       "url": "https://simple.ripley.cl/aspiradora-trineo-thomas-th-1870-2000348363292p",
       "imagen_url": "",
       "categoria": "Electrohogar",
-      "precio_internet": 47994,
-      "precio_normal": 63992,
+      "precio_internet": 54990,
+      "precio_normal": 59990,
       "precio_tarjeta": null,
       "tarjeta_asociada": null,
-      "precio_referencia": 63992,
-      "descuento_pct": 25,
-      "ahorro_pesos": 15998,
+      "precio_referencia": 59990,
+      "descuento_pct": 8,
+      "ahorro_pesos": 5000,
       "disponible": true,
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 19:24:52",
-      "ultima_revision": "2026-11-21 14:42:32"
-    },
-    {
-      "id": 894,
-      "tienda": "ripley",
-      "titulo": "MICROONDAS THOMAS ESPEJADO TH20S01",
-      "url": "https://simple.ripley.cl/microondas-thomas-espejado-th20s01-2000344160581p",
-      "imagen_url": "",
-      "categoria": "Electrohogar",
-      "precio_internet": 47994,
-      "precio_normal": 63992,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 63992,
-      "descuento_pct": 25,
-      "ahorro_pesos": 15998,
-      "disponible": true,
-      "regla": "Descuento Histórico",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-19 19:24:42",
-      "ultima_revision": "2026-11-21 14:42:17"
-    },
-    {
-      "id": 912,
-      "tienda": "ripley",
-      "titulo": "MICROONDAS THOMAS TH-25DM",
-      "url": "https://simple.ripley.cl/microondas-thomas-th-25dm-2000372275646p",
-      "imagen_url": "",
-      "categoria": "Electrohogar",
-      "precio_internet": 59994,
-      "precio_normal": 79992,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 79992,
-      "descuento_pct": 25,
-      "ahorro_pesos": 19998,
-      "disponible": true,
-      "regla": "Descuento Histórico",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-19 19:24:42",
-      "ultima_revision": "2026-11-21 14:42:17"
+      "ultima_revision": "2026-11-21 21:19:59"
     },
     {
       "id": 2316,
@@ -269,18 +269,58 @@
       "url": "https://simple.ripley.cl/horno-electrico-thomas-80-l-th-80i-2000374140454p",
       "imagen_url": "",
       "categoria": "Electrohogar",
-      "precio_internet": 101994,
-      "precio_normal": 135992,
+      "precio_internet": 119990,
+      "precio_normal": 129990,
       "precio_tarjeta": null,
       "tarjeta_asociada": null,
-      "precio_referencia": 135992,
-      "descuento_pct": 25,
-      "ahorro_pesos": 33998,
+      "precio_referencia": 129990,
+      "descuento_pct": 8,
+      "ahorro_pesos": 10000,
       "disponible": true,
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 19:24:42",
-      "ultima_revision": "2026-11-21 14:42:17"
+      "ultima_revision": "2026-11-21 21:19:45"
+    },
+    {
+      "id": 894,
+      "tienda": "ripley",
+      "titulo": "MICROONDAS THOMAS ESPEJADO TH20S01",
+      "url": "https://simple.ripley.cl/microondas-thomas-espejado-th20s01-2000344160581p",
+      "imagen_url": "",
+      "categoria": "Electrohogar",
+      "precio_internet": 69990,
+      "precio_normal": 74990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 74990,
+      "descuento_pct": 7,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-19 19:24:42",
+      "ultima_revision": "2026-11-21 21:19:44"
+    },
+    {
+      "id": 912,
+      "tienda": "ripley",
+      "titulo": "MICROONDAS THOMAS TH-25DM",
+      "url": "https://simple.ripley.cl/microondas-thomas-th-25dm-2000372275646p",
+      "imagen_url": "",
+      "categoria": "Electrohogar",
+      "precio_internet": 89990,
+      "precio_normal": 94990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 94990,
+      "descuento_pct": 5,
+      "ahorro_pesos": 5000,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-19 19:24:42",
+      "ultima_revision": "2026-11-21 21:19:44"
     },
     {
       "id": 1433,
@@ -300,7 +340,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 10:24:58",
-      "ultima_revision": "2026-11-21 14:40:45"
+      "ultima_revision": "2026-11-21 21:18:17"
     },
     {
       "id": 4433,
@@ -320,7 +360,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 10:24:12",
-      "ultima_revision": "2026-11-21 14:42:08"
+      "ultima_revision": "2026-11-21 21:19:37"
     },
     {
       "id": 4410,
@@ -5961,52 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-19 02:15:29",
       "ultima_revision": "2026-11-19 02:15:29"
-    },
-    {
-      "id": 3091,
-      "tienda": "paris",
-      "titulo": "Smartphone Redmi A7 Pro 128GB 6.9'' Azul Liberado",
-      "url": "https://www.paris.cl/smartphone-redmi-a7-pro-128gb-69-azul-liberado-561556999.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/561556999/variant/6a70fd01d970bf12100c523d/images/9ab356cc-1360-4802-bc3d-793d1dd66b36/561556999-0000-001.jpg",
-      "categoria": "Telefonía y Wearables",
-      "precio_internet": 199990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-19 02:15:29",
-      "ultima_revision": "2026-11-19 02:15:28"
-    },
-    {
-      "id": 3074,
-      "tienda": "paris",
-      "titulo": "Smartphone Redmi Note 15 5G 256GB 6.77'' Negro Liberado",
-      "url": "https://www.paris.cl/smartphone-redmi-note-15-5g-256gb-677-negro-liberado-422528999.html",
-      "imagen_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/422528999/variant/69a6fb98a2929fffffebf6c4/images/1eac4155-647d-4120-bdaf-9d191e04a7be/422528999-0000-001.jpg",
-      "categoria": "Telefonía y Wearables",
-      "precio_internet": 349990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-19 02:15:28",
-      "ultima_revision": "2026-11-19 02:15:28"
     }
   ],
   "estadisticas": {
-    "total_productos": 4452,
+    "total_productos": 4453,
     "tiendas": 62,
-    "alertas_enviadas": 6983,
-    "descuento_maximo": 25
+    "alertas_enviadas": 6985,
+    "descuento_maximo": 12
   }
 }
