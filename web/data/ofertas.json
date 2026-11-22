@@ -1,7 +1,27 @@
 {
-  "actualizado_el": "2026-11-22T08:58:29.877422",
+  "actualizado_el": "2026-11-22T16:31:58.671795",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 574,
+      "tienda": "wei",
+      "titulo": "LOGITECH Teclado Inalámbrico K780  Negro, Blanco (920-008026)",
+      "url": "https://www.wei.cl/producto/teclado-inalambrico-k780-negro-blanco-920-008026-5a3173ee21",
+      "imagen_url": "",
+      "categoria": "Computación",
+      "precio_internet": 97775,
+      "precio_normal": 106278,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 106278,
+      "descuento_pct": 8,
+      "ahorro_pesos": 8503,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-22 16:31:39",
+      "ultima_revision": "2026-11-22 16:27:14"
+    },
     {
       "id": 4412,
       "tienda": "paris",
@@ -5981,32 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:07:33",
       "ultima_revision": "2026-11-22 08:07:33"
-    },
-    {
-      "id": 3738,
-      "tienda": "falabella",
-      "titulo": "Versablast 4 Zapatilla Running Hombre Verde Asics",
-      "url": "https://www.falabella.com/falabella-cl/product/80677095/versablast-4-zapatilla-running-hombre-verde-asics",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80677416_1/public",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 51990,
-      "precio_normal": 74990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 74990,
-      "descuento_pct": 31,
-      "ahorro_pesos": 23000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:07:29",
-      "ultima_revision": "2026-11-22 08:07:28"
     }
   ],
   "estadisticas": {
     "total_productos": 4510,
     "tiendas": 62,
-    "alertas_enviadas": 7555,
+    "alertas_enviadas": 7556,
     "descuento_maximo": 57
   }
 }
