@@ -1,7 +1,27 @@
 {
-  "actualizado_el": "2026-11-22T16:31:58.671795",
+  "actualizado_el": "2026-11-22T22:08:41.333645",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 638,
+      "tienda": "tienda-entel",
+      "titulo": "Apple iPhone 12 Mini Seminuevo, 128 GB Negro",
+      "url": "https://miportal.entel.cl/personas/producto/prod2680095",
+      "imagen_url": "",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 299760,
+      "precio_normal": 299760,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": false,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-22 22:08:30",
+      "ultima_revision": "2026-11-22 22:04:14"
+    },
     {
       "id": 574,
       "tienda": "wei",
@@ -20,7 +40,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 16:31:39",
-      "ultima_revision": "2026-11-22 16:27:14"
+      "ultima_revision": "2026-11-22 22:04:04"
     },
     {
       "id": 4412,
@@ -5981,32 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:07:38",
       "ultima_revision": "2026-11-22 08:07:38"
-    },
-    {
-      "id": 3842,
-      "tienda": "falabella",
-      "titulo": "Galaxy 8 W Zapatilla Running Mujer Negro Adidas",
-      "url": "https://www.falabella.com/falabella-cl/product/80765119/galaxy-8-w-zapatilla-running-mujer-negro-adidas",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80765187_1/public",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 59990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:07:33",
-      "ultima_revision": "2026-11-22 08:07:33"
     }
   ],
   "estadisticas": {
     "total_productos": 4510,
     "tiendas": 62,
-    "alertas_enviadas": 7556,
+    "alertas_enviadas": 7557,
     "descuento_maximo": 57
   }
 }
