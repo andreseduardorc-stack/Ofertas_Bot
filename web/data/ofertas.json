@@ -1,7 +1,27 @@
 {
-  "actualizado_el": "2026-11-23T02:50:09.081278",
+  "actualizado_el": "2026-11-23T12:22:45.474795",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 663,
+      "tienda": "huawei-shop",
+      "titulo": "HUAWEI WATCH FIT Special Edition Hasta 9 Días de Batería Negro Estelar",
+      "url": "https://consumer.huawei.com/cl/wearables/watch-fit-special-edition/buy",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 37990,
+      "precio_normal": 37990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Descuento Histórico",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-23 12:17:52",
+      "ultima_revision": "2026-11-23 12:17:51"
+    },
     {
       "id": 639,
       "tienda": "tienda-entel",
@@ -20,7 +40,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-23 02:47:31",
-      "ultima_revision": "2026-11-23 02:45:45"
+      "ultima_revision": "2026-11-23 12:17:45"
     },
     {
       "id": 638,
@@ -40,7 +60,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 22:08:30",
-      "ultima_revision": "2026-11-23 02:45:45"
+      "ultima_revision": "2026-11-23 12:17:45"
     },
     {
       "id": 574,
@@ -60,7 +80,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 16:31:39",
-      "ultima_revision": "2026-11-23 02:45:37"
+      "ultima_revision": "2026-11-23 12:17:35"
     },
     {
       "id": 4412,
@@ -5981,32 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:07:47",
       "ultima_revision": "2026-11-22 08:07:47"
-    },
-    {
-      "id": 1742,
-      "tienda": "falabella",
-      "titulo": "Response Runner 2 Zapatilla Running Hombre Negro Adidas",
-      "url": "https://www.falabella.com/falabella-cl/product/80659309/Response-Runner-2-Zapatilla-Running-Hombre-Negro-Adidas",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80659455_1/public",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 34990,
-      "precio_normal": 49990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 49990,
-      "descuento_pct": 30,
-      "ahorro_pesos": 15000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:07:43",
-      "ultima_revision": "2026-11-22 08:07:43"
     }
   ],
   "estadisticas": {
-    "total_productos": 4510,
+    "total_productos": 4511,
     "tiendas": 62,
-    "alertas_enviadas": 7558,
+    "alertas_enviadas": 7559,
     "descuento_maximo": 57
   }
 }
