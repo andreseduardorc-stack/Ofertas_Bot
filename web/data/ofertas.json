@@ -1,7 +1,27 @@
 {
-  "actualizado_el": "2026-11-22T22:08:41.333645",
+  "actualizado_el": "2026-11-23T02:50:09.081278",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 639,
+      "tienda": "tienda-entel",
+      "titulo": "Apple Iphone 13, 128 GB Blanco Estelar",
+      "url": "https://miportal.entel.cl/personas/producto/prod1720054",
+      "imagen_url": "",
+      "categoria": "Telefonía y Wearables",
+      "precio_internet": 569990,
+      "precio_normal": 887990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 887990,
+      "descuento_pct": 36,
+      "ahorro_pesos": 318000,
+      "disponible": false,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-23 02:47:31",
+      "ultima_revision": "2026-11-23 02:45:45"
+    },
     {
       "id": 638,
       "tienda": "tienda-entel",
@@ -20,7 +40,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 22:08:30",
-      "ultima_revision": "2026-11-22 22:04:14"
+      "ultima_revision": "2026-11-23 02:45:45"
     },
     {
       "id": 574,
@@ -40,7 +60,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 16:31:39",
-      "ultima_revision": "2026-11-22 22:04:04"
+      "ultima_revision": "2026-11-23 02:45:37"
     },
     {
       "id": 4412,
@@ -5981,32 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:07:43",
       "ultima_revision": "2026-11-22 08:07:43"
-    },
-    {
-      "id": 2144,
-      "tienda": "falabella",
-      "titulo": "Ultra Energy Zapatilla Running Mujer Rosado Adidas",
-      "url": "https://www.falabella.com/falabella-cl/product/80514016/Zapatilla-Running-Mujer-Rosado-Adidas",
-      "imagen_url": "https://media.falabella.com/falabellaCL/80514374_1/public",
-      "categoria": "Zapatillas y Calzado",
-      "precio_internet": 32990,
-      "precio_normal": 54990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 54990,
-      "descuento_pct": 40,
-      "ahorro_pesos": 22000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:07:38",
-      "ultima_revision": "2026-11-22 08:07:38"
     }
   ],
   "estadisticas": {
     "total_productos": 4510,
     "tiendas": 62,
-    "alertas_enviadas": 7557,
+    "alertas_enviadas": 7558,
     "descuento_maximo": 57
   }
 }
