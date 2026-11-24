@@ -1,7 +1,67 @@
 {
-  "actualizado_el": "2026-11-24T08:47:31.219666",
+  "actualizado_el": "2026-11-24T20:33:42.384166",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 849,
+      "tienda": "hites",
+      "titulo": "Frigobar Libero LFB-90R Retro / Frío Directo / 90 Litros",
+      "url": "https://www.hites.com/frigobar-libero-lfb-90r-retro-frio-directo-90-litros-a-790925001.html",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 199990,
+      "precio_normal": 199990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-24 20:32:28",
+      "ultima_revision": "2026-11-24 20:29:32"
+    },
+    {
+      "id": 842,
+      "tienda": "easy",
+      "titulo": "Libero Freezer vertical 80 litros LFV-100I inox Libero",
+      "url": "https://www.easy.cl/freezer-vertical-80-litros-lfv-100i-inox-libero-1274670/p",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 159990,
+      "precio_normal": 159990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-24 20:32:17",
+      "ultima_revision": "2026-11-24 20:29:32"
+    },
+    {
+      "id": 840,
+      "tienda": "easy",
+      "titulo": "Maigas Frigobar 113 lt HS-147R inox",
+      "url": "https://www.easy.cl/frigobar-113-lt-hs-147r-inox-1266229/p",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 159990,
+      "precio_normal": 159990,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": null,
+      "descuento_pct": 0,
+      "ahorro_pesos": 0,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-24 20:32:09",
+      "ultima_revision": "2026-11-24 20:29:32"
+    },
     {
       "id": 3695,
       "tienda": "pc-express",
@@ -20,7 +80,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 08:46:59",
-      "ultima_revision": "2026-11-24 08:43:15"
+      "ultima_revision": "2026-11-24 20:29:18"
     },
     {
       "id": 3691,
@@ -40,7 +100,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 08:46:32",
-      "ultima_revision": "2026-11-24 08:42:11"
+      "ultima_revision": "2026-11-24 20:27:57"
     },
     {
       "id": 4485,
@@ -140,7 +200,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 00:29:41",
-      "ultima_revision": "2026-11-24 08:42:49"
+      "ultima_revision": "2026-11-24 20:28:45"
     },
     {
       "id": 546,
@@ -160,7 +220,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 00:29:37",
-      "ultima_revision": "2026-11-24 08:42:47"
+      "ultima_revision": "2026-11-24 20:28:40"
     },
     {
       "id": 3447,
@@ -3220,7 +3280,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-23 12:17:52",
-      "ultima_revision": "2026-11-24 08:43:00"
+      "ultima_revision": "2026-11-24 20:29:01"
     },
     {
       "id": 639,
@@ -3240,7 +3300,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-23 02:47:31",
-      "ultima_revision": "2026-11-24 08:42:56"
+      "ultima_revision": "2026-11-24 20:28:56"
     },
     {
       "id": 638,
@@ -3260,7 +3320,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 22:08:30",
-      "ultima_revision": "2026-11-24 08:42:56"
+      "ultima_revision": "2026-11-24 20:28:56"
     },
     {
       "id": 574,
@@ -3280,7 +3340,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 16:31:39",
-      "ultima_revision": "2026-11-24 08:42:49"
+      "ultima_revision": "2026-11-24 20:28:45"
     },
     {
       "id": 4412,
@@ -5941,72 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:20:59",
       "ultima_revision": "2026-11-23 23:55:41"
-    },
-    {
-      "id": 1949,
-      "tienda": "falabella",
-      "titulo": "Polar Deportivo Mujer Fratta",
-      "url": "https://www.falabella.com/falabella-cl/product/883611782/POLAR-PO.W.BASIC",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611784_1/public",
-      "categoria": "Otros",
-      "precio_internet": 7990,
-      "precio_normal": 9990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 9990,
-      "descuento_pct": 20,
-      "ahorro_pesos": 2000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:20:56",
-      "ultima_revision": "2026-11-23 23:55:47"
-    },
-    {
-      "id": 2199,
-      "tienda": "falabella",
-      "titulo": "Polera Manga Corta Mujer Fratta",
-      "url": "https://www.falabella.com/falabella-cl/product/883611699/POLERA-POLYESTE-TS.W.PERBA",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611708_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 4990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:20:53",
-      "ultima_revision": "2026-11-23 23:55:32"
-    },
-    {
-      "id": 1957,
-      "tienda": "falabella",
-      "titulo": "Calza Mujer Fratta",
-      "url": "https://www.falabella.com/falabella-cl/product/883611900/calza-mujer-fratta",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883611911_1/public",
-      "categoria": "Otros",
-      "precio_internet": 9990,
-      "precio_normal": 12990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 12990,
-      "descuento_pct": 23,
-      "ahorro_pesos": 3000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:20:49",
-      "ultima_revision": "2026-11-23 23:55:28"
     }
   ],
   "estadisticas": {
     "total_productos": 4569,
     "tiendas": 62,
-    "alertas_enviadas": 7721,
+    "alertas_enviadas": 7724,
     "descuento_maximo": 71
   }
 }
