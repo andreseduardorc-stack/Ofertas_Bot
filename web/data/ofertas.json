@@ -1,7 +1,47 @@
 {
-  "actualizado_el": "2026-11-24T00:35:07.387379",
+  "actualizado_el": "2026-11-24T08:47:31.219666",
   "total_ofertas": 300,
   "ofertas": [
+    {
+      "id": 3695,
+      "tienda": "pc-express",
+      "titulo": "parlante logitech g560 2.1 inalambrico bluetooth p/n 980-001310",
+      "url": "https://tienda.pc-express.cl/9290-parlante-logitech-g560-2-1-inalambrico-bluetooth-p-n-980-001310",
+      "imagen_url": "",
+      "categoria": "Audio, TV y Consolas",
+      "precio_internet": 342500,
+      "precio_normal": 364362,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 364362,
+      "descuento_pct": 6,
+      "ahorro_pesos": 21862,
+      "disponible": true,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-24 08:46:59",
+      "ultima_revision": "2026-11-24 08:43:15"
+    },
+    {
+      "id": 3691,
+      "tienda": "todoclick",
+      "titulo": "Tablet Samsung Tab SM-P615 10.4in (F-P615NZAUP-GT)",
+      "url": "https://todoclick.cl/tablets/1994-tablet_samsung_tab_smp615_10_4in_fp615nzaupgt.html",
+      "imagen_url": "",
+      "categoria": "Otros",
+      "precio_internet": 502990,
+      "precio_normal": 511541,
+      "precio_tarjeta": null,
+      "tarjeta_asociada": null,
+      "precio_referencia": 511541,
+      "descuento_pct": 2,
+      "ahorro_pesos": 8551,
+      "disponible": false,
+      "regla": "Mejor Precio Retail",
+      "tiene_alerta": true,
+      "fecha_alerta": "2026-11-24 08:46:32",
+      "ultima_revision": "2026-11-24 08:42:11"
+    },
     {
       "id": 4485,
       "tienda": "paris",
@@ -100,7 +140,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 00:29:41",
-      "ultima_revision": "2026-11-24 00:29:41"
+      "ultima_revision": "2026-11-24 08:42:49"
     },
     {
       "id": 546,
@@ -120,7 +160,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-24 00:29:37",
-      "ultima_revision": "2026-11-24 00:29:37"
+      "ultima_revision": "2026-11-24 08:42:47"
     },
     {
       "id": 3447,
@@ -3180,7 +3220,7 @@
       "regla": "Descuento Histórico",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-23 12:17:52",
-      "ultima_revision": "2026-11-24 00:29:56"
+      "ultima_revision": "2026-11-24 08:43:00"
     },
     {
       "id": 639,
@@ -3200,7 +3240,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-23 02:47:31",
-      "ultima_revision": "2026-11-24 00:29:51"
+      "ultima_revision": "2026-11-24 08:42:56"
     },
     {
       "id": 638,
@@ -3220,7 +3260,7 @@
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 22:08:30",
-      "ultima_revision": "2026-11-24 00:29:51"
+      "ultima_revision": "2026-11-24 08:42:56"
     },
     {
       "id": 574,
@@ -3229,18 +3269,18 @@
       "url": "https://www.wei.cl/producto/teclado-inalambrico-k780-negro-blanco-920-008026-5a3173ee21",
       "imagen_url": "",
       "categoria": "Computación",
-      "precio_internet": 97775,
-      "precio_normal": 106278,
+      "precio_internet": 98543,
+      "precio_normal": 107112,
       "precio_tarjeta": null,
       "tarjeta_asociada": null,
-      "precio_referencia": 106278,
+      "precio_referencia": 107112,
       "descuento_pct": 8,
-      "ahorro_pesos": 8503,
+      "ahorro_pesos": 8569,
       "disponible": true,
       "regla": "Mejor Precio Retail",
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 16:31:39",
-      "ultima_revision": "2026-11-24 00:29:41"
+      "ultima_revision": "2026-11-24 08:42:49"
     },
     {
       "id": 4412,
@@ -5961,52 +6001,12 @@
       "tiene_alerta": true,
       "fecha_alerta": "2026-11-22 08:20:49",
       "ultima_revision": "2026-11-23 23:55:28"
-    },
-    {
-      "id": 1948,
-      "tienda": "falabella",
-      "titulo": "Polera Deportiva Manga Corta Mujer Diadora",
-      "url": "https://www.falabella.com/falabella-cl/product/883635723/POLERA-ALGODON-TS.W.5BALL",
-      "imagen_url": "https://media.falabella.com/falabellaCL/883635724_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 9990,
-      "precio_normal": 12990,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": 12990,
-      "descuento_pct": 23,
-      "ahorro_pesos": 3000,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:20:44",
-      "ultima_revision": "2026-11-23 23:55:23"
-    },
-    {
-      "id": 1964,
-      "tienda": "falabella",
-      "titulo": "Polera Manga Corta Training Hombre Adidas",
-      "url": "https://www.falabella.com/falabella-cl/product/17305884/Polera-Manga-Corta-Training-Hombre-Adidas",
-      "imagen_url": "https://media.falabella.com/falabellaCL/17305900_1/public",
-      "categoria": "Ropa y Vestuario",
-      "precio_internet": 17990,
-      "precio_normal": null,
-      "precio_tarjeta": null,
-      "tarjeta_asociada": null,
-      "precio_referencia": null,
-      "descuento_pct": 0,
-      "ahorro_pesos": 0,
-      "disponible": true,
-      "regla": "Bajo Precio Máximo",
-      "tiene_alerta": true,
-      "fecha_alerta": "2026-11-22 08:20:37",
-      "ultima_revision": "2026-11-23 23:55:13"
     }
   ],
   "estadisticas": {
-    "total_productos": 4564,
+    "total_productos": 4569,
     "tiendas": 62,
-    "alertas_enviadas": 7719,
+    "alertas_enviadas": 7721,
     "descuento_maximo": 71
   }
 }
